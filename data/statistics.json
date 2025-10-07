@@ -1,0 +1,17 @@
+{
+  "totalFiles": 0,
+  "filesToday": 0,
+  "totalCategories": 8,
+  "accuracyRate": 98.5,
+  "categoryDistribution": {
+    "invoice": 0,
+    "contract": 0,
+    "report": 0,
+    "id_card": 0,
+    "educational": 0,
+    "medical": 0,
+    "license": 0,
+    "other": 0
+  },
+  "processingTimes": []
+}

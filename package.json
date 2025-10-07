@@ -1,0 +1,85 @@
+{
+  "name": "document-classifier",
+  "version": "1.0.0",
+  "description": "Amharic document classifier with OCR",
+  "main": "main.js",
+  "author": "Muluken Biratu",
+  "license": "MIT",
+  "keywords": [
+    "electron",
+    "ocr",
+    "amharic",
+    "document-classification"
+  ],
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev",
+    "build": "electron-builder",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "build": {
+    "appId": "com.muluken.documentclassifier",
+    "productName": "Amharic Document Classifier",
+    "files": [
+      "**/*",
+      "!**/node_modules/*/{CHANGELOG.md,README.md,README,readme.md,readme}",
+      "!**/node_modules/*/{test,__tests__,tests,powered-test,example,examples}",
+      "!**/node_modules/*.d.ts",
+      "!**/node_modules/.bin",
+      "!**/*.{iml,o,hprof,orig,pyc,pyo,rbc,swp,csproj,sln,xproj}",
+      "!.editorconfig",
+      "!**/._*",
+      "!**/{.DS_Store,.git,.hg,.svn,CVS,RCS,SCCS,.gitignore,.gitattributes}",
+      "!**/{__pycache__,thumbs.db,.flowconfig,.idea,.vs,.nyc_output}",
+      "!**/{appveyor.yml,.travis.yml,circle.yml}",
+      "!**/{npm-debug.log,yarn.lock,.yarn-integrity,.yarn-metadata.json}"
+    ],
+    "directories": {
+      "output": "release",
+      "buildResources": "build"
+    },
+    "extraResources": [
+      {
+        "from": "backend/",
+        "to": "backend"
+      },
+      {
+        "from": "classified_documents/",
+        "to": "classified_documents"
+      }
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "build/icon.ico"
+    },
+    "linux": {
+      "target": [
+        "AppImage",
+        "deb"
+      ],
+      "icon": "build/icon.png",
+      "category": "Office"
+    },
+    "mac": {
+      "target": "dmg",
+      "icon": "build/icon.icns"
+    }
+  },
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "mime-types": "^2.1.35",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^5.4.149",
+    "sane": "^5.0.1",
+    "sharp": "^0.33.5",
+    "tesseract.js": "^5.0.4",
+    "twain": "^0.0.6"
+  },
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^26.0.12"
+  }
+}

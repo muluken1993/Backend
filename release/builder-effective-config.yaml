@@ -1,0 +1,25 @@
+directories:
+  output: release
+  buildResources: build
+appId: com.muluken.documentclassifier
+productName: Amharic Document Classifier
+files:
+  - filter:
+      - electron/**/*
+      - backend/**/*
+      - classified_documents/**/*
+      - package.json
+extraResources:
+  - from: backend/
+    to: backend
+  - from: classified_documents/
+    to: classified_documents
+win:
+  target: nsis
+linux:
+  target:
+    - AppImage
+    - deb
+mac:
+  target: dmg
+electronVersion: 28.3.3

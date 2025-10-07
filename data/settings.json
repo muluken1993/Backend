@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "language": "en",
+  "outputFolder": "/home/muller/AI_data_extract/document-classifier/classified_docs",
+  "autoExport": false,
+  "notifications": true
+}

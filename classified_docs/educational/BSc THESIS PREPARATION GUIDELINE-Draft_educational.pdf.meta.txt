@@ -1,0 +1,1286 @@
+1 
+ 
+ 
+ 
+ 
+BSc THESIS WRITING AND EVALUATION GUIDE LINE 
+ 
+ 
+ 
+PREPARED BY ACADEMIC PROGRAMS OFFICE 
+ 
+ 
+ 
+ 
+ 
+ 
+BAHIR DAR, ETHIOPIA 
+FEBRUARY, 2019 
+BAHIR DAR UNIVERSITY 
+ETHIOPIAN INSTITUTE OF TEXTILE 
+& FASHION TECHNOLOGY 
+
+i 
+ 
+TABLE OF CONTENTS 
+TABLE OF CONTENTS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . i 
+LIST OF TABLES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii 
+ACRONYMS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iv 
+1. INTRODUCTION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+2. THESIS WRITING PROCESSES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+2. 1. Selecting Research Topic. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+2. 2. Literature Review. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 
+2. 3. The Purpose of the Research Proposal. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 
+2. 4. Proposal Writing. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 
+2. 4. 1. Proposal Content. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 
+2. 4. 2. Proposal Submission. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 
+2. 5. Progress Report. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 
+2. 5. 1 Progress Report Coverage. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 
+2. 5. 2. Progress Submission. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 
+2. 6. Final Thesis Evaluation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 
+2. 6. 1. Final Thesis Defense. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 
+2. 6. 2. Appointment of Juries. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 
+2. 6. 3. Appointment of Thesis Advisor. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 
+3. THESIS WRITING AND DOCUMENTATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 
+3. 1. Contents of the Thesis. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 
+3. 1. 1. Order of the Contents. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 
+3. 2. Document Structuring. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 
+3. 2. 1. Paraphrasing and Citing References. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 
+3. 2. 2. Writing Styles. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 
+3. 2. 3. Orientation and Page Settings. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31 
+4. FINAL SUBMISSION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33 
+APPENDICES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35 
+Annex B: Sample Title Page. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36 
+Annex C: Declaration of Originality Sample. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37 
+Annex D: Advisors’ Approval Page. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38 
+Annex E: Thesis Proposal Evaluation Format. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39 
+Annex F: Thesis Progress Report Evaluation Format. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 
+Annex G: Final Thesis Evaluation Format. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41 
+
+ii 
+ 
+Annex H: Thesis Advisors’ Evaluation Format. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42 
+ 
+ 
+
+iii 
+ 
+LIST OF TABLES 
+Table 3. 1 Descriptions of Thesis contents. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8 
+Table 3. 2 Descriptions of Thesis writing styles. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 
+Table 3. 3 Page settings for thesis writing. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 
+ 
+ 
+
+iv 
+ 
+ACRONYMS 
+BSc Bachelor of Science 
+EiTEX Ethiopian Institute of Textile and Fashion Technology 
+LoF Lists of figures 
+LoT Lists of Tables 
+LRI Learning and Research Implementation 
+
+1 
+ 
+1. INTRODUCTION 
+A bachelor’s thesis is the first academic thesis. Its purpose is to develop the basic 
+skills of academic research. After completion of bachelor’s thesis, the graduate will be 
+familiar with the methods and tools of academic information retrieval and will be able 
+to critically evaluate the reliability and significance of published information. The end 
+product is a thesis that adheres to the general principles of academic writing and 
+which you will present orally in a seminar. Academic writing has its own particular style, with the emphasis on the subject matter 
+along with precision of expression and the use of grammatically correct language. In 
+addition, academic texts follow rules and conventions that have been generally agreed 
+upon. This manual presents the principles of academic writing as well as the formal 
+writing requirements for thesis in EiTEX. 2. THESIS WRITING PROCESSES 
+2. 1. Selecting Research Topic 
+However, writing a thesis usually progresses according to the following steps. The 
+process starts with the choice of the research topic, proposed by the graduate and will 
+be discussed together with the advisor. The research topic for the thesis can be found 
+in any subject area of the field. A thesis may also be commissioned by a company or 
+other organization outside the university. As in all decisions in scientific research, there must be solid arguments concerning the 
+choice of the research topic. There are several aspects worth much: 
+➔ personal interest in the topic 
+➔ own resources (knowledge, skills and time available) 
+➔ Availability of source material 
+➔ Data availability 
+➔ Scientific importance of the topic 
+➔ General social interest of the topic and 
+➔ Importance of the topic for your future professional career. 2 
+ 
+However, students shall form a group of three student members and submit thesis 
+topics with reserve titles along with each topic description. Then, the respective 
+program head will assign committee responsible to select the appropriate title. 2. 2. Literature Review 
+After the topic has been chosen and the advisor has accepted it, the next step is 
+gaining familiarity with the available scientific literature on the topic. Reading earlier 
+research serves several purposes: 
+i. Outlining the general picture 
+- What is the state-of-the-art knowledge in the chosen research area? Is there much 
+or little earlier research? Is it recent or older? Who are the leading scholars? - From which viewpoints has the topic been investigated before? What kinds of 
+methods and data have been used in earlier research? What are the most important 
+findings? - How does your thesis relate to other publications in the field? ii. Strengthening the substance knowledge 
+- Helps you to focus on the essential literature regarding your own thesis. - Helps you to choose the studies upon which you will develop the theoretical framework 
+of the thesis and design its empirical research setting. iii. The development of expertise 
+- Helps you to evaluate the existing literature critically and to identify potential gaps and 
+shortcomings in it. - Helps you to make your viewpoint precise and to define the actual research problem or 
+research task. The choice of research topic and getting acquainted with the literature in the chosen research 
+area are of vital importance in getting the thesis process started. In order to ensure the smooth 
+progress of the research process and in order to achieve successful results, narrowing down 
+the research topic is the most critical task. 2. 3. The Purpose of the Research Proposal 
+The purpose of the proposal is to clearly set out the following: 
+o Goals of the research study; 
+
+3 
+ 
+o Relationship of the work to the existing body of knowledge in the chosen discipline 
+area; 
+o Methodologies by which the goals will be addressed; 
+o Plausible outcomes of the work, together with their significance, and 
+o Candidate’s capabilities in conducting the research together with the timeline 
+2. 4. Proposal Writing 
+2. 4. 1. Proposal Content 
+The next step in the process is writing a preliminary research plan. This document 
+usually includes the following: 
+➔ Preliminary title of the thesis 
+➔ Preliminary table of contents of the thesis 
+➔ Introduction of the topic: to arise arouse interest and convince the reader that the 
+research is justifiable and the problem is worth researching. ➔ Justification and Problem Statement: Assessment of the significance of the 
+topic and the motivation for the research 
+➔ Objectives: General and Specific objectives describe the aim of the thesis and the 
+research problem or task 
+➔ Outline of preliminary research question(s) 
+➔ Significance, Scopes and Limitations 
+➔ Brief review of existing researches and Literatures: Including issues addressed, 
+employed methods mentioning basic theories, conceptual frame works, employed 
+data collection instruments and sampling as well as major gaps and identified 
+research gaps. ➔ Brief description of the research method(s) and Materials: describe research 
+approach and design, data collection instruments, population, sampling technique, 
+sampling size, data analysis, data validity and reliability. ➔ Work plans: including both financial, material and time period 
+➔ Preliminary list of references: Use the Harvard referencing style format. The preliminary research plan can simply be composed of a sketch of outlines for the 
+thesis. It serves as a guide for you at the outset of your work. However, the plan will 
+
+4 
+ 
+develop and become more precise as the work evolves. Therefore, the final thesis may 
+differ, and often does, from the preliminary plan. 2. 4. 2. Proposal Submission 
+➔ After the students prepared the proposal with the consultation of their advisors, 
+they are required to submit final soft copy of the proposal and power point slides 
+along with one-page advisors declaration at least three days before the vetting 
+process; 
+➔ The research proposal should be submitted within the stipulated period from date 
+of registration of the second semester of the final year to the respective program 
+head office. ➔ The juries will evaluate the proposal according to the format given under Annex 
+E. The result will be used only for Pass/Fail of the proposal work. ➔ The proposal presentation and defense are scheduled for 30 minutes period per 
+each topic. ➔ The defense can result in three possible outcomes: 1) pass; 2) fail; or a 3) 
+conditionally pass. If the students fail, they will be allowed to make appropriate 
+corrections to their research work and thesis as dictated by juries. Upon approval 
+of the changes by juries, the student will be allowed to schedule and re-defend 
+their thesis for the second time. If failure occurs a second time, a third defense 
+will not be allowed. (The students will do their thesis in the following year) 
+➔ If the students pass conditionally, they are allowed to make minor modifications 
+and correction and specifics of changes to be done are given at the time of defense 
+and date/time is set to accomplish the recommended tasks. 5 
+ 
+2. 5. Progress Report 
+Thesis work in EiTEX involves an intermediate report. This report is presented when 
+one or more sections of the thesis, for example the theoretical framework, the 
+literature review or, in case of data-driven research, after the data description and 
+analysis have been finished. It is also recommended that the sketch an outline of the 
+unfinished sections (Future Works) of the thesis, challenges, tasks covered against 
+the work plan, etc will be presented in the intermediate report. 2. 5. 1 Progress Report Coverage 
+Progress reports should report progresses. Some research students feel that they 
+should report results, which is usually very different from progress. Researchers can 
+show a completed literature survey, materials to be used, research methods along with 
+pilot test to explicit data validity and reliability. Progress report will take place 
+according to the schedule of the program head. The assigned juries will assess the 
+extent of work the student has done and gives recommendations, corrections and 
+directions to the remaining works to be done. 2. 5. 2. Progress Submission 
+➔ After the students prepared the progress report with the consultation of the 
+advisor, they are required to submit final soft copy of the report and power point 
+slides along with one-page advisors declaration at least three days before the 
+vetting process; 
+➔ The research progress should be submitted within the stipulated period from date 
+of mid of the second semester of the final year to the respective program head 
+office. ➔ The juries will evaluate the proposal according to the format given under Annex 
+F. ➔ Each student shall present their own contribution and status of the work for 45 
+minutes per topic (15 minutes for each student). 6 
+ 
+2. 6. Final Thesis Evaluation 
+2. 6. 1. Final Thesis Defense 
+The final thesis writing and documentation shall meet the requirements given in section 3. The thesis defense will be taken place within one week upon the graduates completed 
+their 2
+nd
+ semester final examinations. The hard copy of the thesis must be submitted 
+to the assigned juries at least FIVE DAYS prior to the defense date. The specific date 
+will be determined by the respective program heads. Prior to the day of the defense, the students and the advisor can discuss the format of 
+the thesis defense. Generally, expect to provide a One Hour presentation including 
+individual question and answer period. Thesis defenses are public, and all students 
+should make an effort to attend all defenses conducted in the department. Refer 
+section 4 Final submission part. 2. 6. 2. Appointment of Juries 
+Evaluation Committees (Juries) will be appointed by the program heads consulting 
+with LRI Coordinators in the program based on their experiences and specialization. At least three juries will evaluate the thesis according to the set criteria given under 
+Annex G. 2. 6. 3. Appointment of Thesis Advisor 
+BSc thesis advisor is responsible to guide students in the course of the project for 0. 5 
+hr per week, advise on individuals’ contribution, approve the work at each required 
+stage and evaluate his/her students according to the criteria set in Annex H. The thesis 
+advisor will be assigned by the program head office consulting the specialized area 
+expertise based on advisors’ teaching experience, research interest, etc. 7 
+ 
+3. THESIS WRITING AND DOCUMENTATION 
+There are many styles of writing thesis and dissertations. For consistency, students are 
+encouraged to conform to the format below approved by EiTEX Senate. 3. 1. Contents of the Thesis 
+The general structure of a thesis is always the same, regardless of the research topic or 
+the research orientation. A thesis includes the following ingredients in the given 
+order: the cover page, (abstract), table of contents, introduction, body, summary, list 
+of references and possible appendices. The following description of the structure is 
+for thesis with both a theoretical and an empirical section. 3. 1. 1. Order of the Contents 
+A thesis text usually contains the following parts (where a part may stretch over 
+several chapters). The thesis shall contain the following items in sequential manner as 
+listed here. A. Cover page and Title page 
+B. Dedication (optional) 
+C. Declaration of authenticity by student (Originality) 
+D. Certification/thesis approval by supervisor 
+E. Certification/thesis examination committee (On the bound copy) 
+F. Acknowledgement 
+G. Abstract 
+H. Table of Contents 
+I. List of Tables 
+J. List of Figures 
+K. List of Symbols and Abbreviations 
+L. Introduction- Background, Theory, Problem Statements, Objectives, 
+Argumentation, Significance, Scopes and Limitations of the study 
+M. Review of Literature 
+N. Methods and Materials- Description of Development/Implementation (if 
+done) 
+
+8 
+ 
+O. Results and Discussion 
+P. Summary and Conclusions 
+Q. References and Bibliography 
+R. Appendices or Annexes 
+Table 3. 1 Descriptions of Thesis contents 
+Cover Page and 
+Title Page 
+The title page is the first page after the front cover and should 
+include the research title which has been approved by the 
+program, name of candidate according to the registration records, 
+and the statement “. . . submission of research project/ thesis for 
+the fulfillment to the Bachelor Degree in. . . . . . . . . . . . ” and finally 
+the year of submission. Refer to Appendix for example of front 
+cover Annex A and Annex B. Declaration of 
+Originality 
+This subsection is compulsory. It states that the thesis constitutes 
+the authentic work and finding of the researcher. Refer to 
+Appendix for example of front cover Annex C. Supervisors’ 
+Approval Page 
+The thesis supervisor shall evaluate the quality of the thesis and 
+individuals’ contribution according to set criteria given under 
+Annex D. Acknowledgment Most research reports, dissertations or thesis have their 
+subsection to convey appreciation to those who have been 
+involved in the study. Abstract An abstract is a very compressed summary of your work. In a 
+thesis an abstract only makes sense if it is reasonably different 
+from the introduction. Generally, the abstract is written after the completion of the text 
+of the research report/dissertation/thesis. It summarizes the 
+structure of the whole text and the major facts it contains. It 
+should be written in the language of the research 
+project/dissertation/thesis and contain no more than 250 word 
+and 5 Key Words. Table of 
+Contents 
+The table of contents contains all section names for the first three 
+levels including the according page numbers. In other words, the 
+
+9 
+ 
+table of contents lists the chapters, topics and sub-topics together 
+with their page numbers. Sub-topics and topics should be 
+labeled according to the chapter, for e. g. , the first topic in 
+Chapter 1 should be marked 1. 1 and the first sub-topic, 1. 1. 1. This numbering system provides a clear picture of the 
+relationship between chapters and topics and shows how they are 
+connected. This list contains the titles of figures, together with their page 
+numbers, which are listed in the text. For e. g. , figures in Chapter 
+3 are numbered sequentially: figure 3. 1, figure 3. 2. The table 
+name should be above the table. List of Figures 
+(LoF, optional) 
+The LoF list all Figures used in the text including the according 
+page numbers. If a figure is taken from an external source, the 
+source is mentioned in this list (if you do not use a LoF you have 
+to state the source within the figures). Figures are either 
+numbered consecutively throughout the whole text or 
+in the form <chapter><number> where number starts with 1 for 
+every new chapter. List of Tables 
+(LoT, optional) 
+The same as the List of Figures, only for all tables used. This list 
+contains the titles of tables, together with their page numbers, 
+which are listed in the text. The numbering system is according 
+to chapter, for e. g. : tables in Chapter 3 are numbered 
+sequentially: Table 3. 1, Table 3. 2. Abbreviations 
+(optional) 
+If you used a lot of abbreviations you should list them, sorted 
+alphabetically and write out the word(s) which the abbreviation 
+stands for. If necessary, explain the meaning in one short 
+sentence. Common abbreviations (e. g. etc) do not need to be 
+listed. The symbols and abbreviations must be in accordance to 
+international convention. Do not use too many abbreviations, 
+they prevent a fluent reading. Exceptions are widely used, 
+common abbreviations (such as “e. g. ”) and technical 
+abbreviations that are completely common to the target group of 
+
+10 
+ 
+the text. Main part 
+The thesis text, which contains all the parts as described in the 
+proceeding section. 1. INTRODUCTION [Main Topic] 
+The introduction specifies the problem or task of the thesis as 
+well as the result that the thesis aims at. Therefore, it presents the 
+context of the system (could be historical, institutional etc) and 
+makes a statement about the scientific importance of the topic. Introductions seldomly need more the 2 to 5 pages and should be 
+comprehensible to readers with technical background who are 
+not experts on the topic of the thesis. Introduction should include the following; 
+1. 1. Theoretical Background [Sub-Topic] 
+✓ Should show the understanding and genesis of the problem. ✓ Talk about the global perspective followed by the local 
+scenario. ✓ Talk about the target group in the study. ✓ Should not be exceeding 5 pages. The theory chapter presents existing approaches and other 
+scientific contributions that are used or considered to be useful to 
+solve the task. It should contain introductions into fields of 
+science/engineering that are necessary to understand the 
+applicant's approach. This is not always easy, as you have to decide on what you do 
+expect as commonly known and what needs to be introduced. A 
+discussion with your tutor is unavoidable on this matter. 1. 2. Statement of the problem [Sub-Topic] 
+The researcher must indicate exactly what the problem is. Indicate why and how it is a problem. Give information to 
+support this e. g. by use of statistics or evidence. This should be 
+derived from background information to illustrate connectivity. - 
+
+11 
+ 
+Length- Maximum 1 page. 1. 3. Objectives [Sub-Topic] 
+➢ The candidate can state SMART 
+1. 3. 1. General Objective 
+13. 2. Specific Objectives 
+1. 4. Justification (significance) [Sub-Topic] 
+➢ The researcher should illustrate why the researcher is 
+conducting the research and whom it shall benefit. ➢ Argumentation: The argumentation is the central part of 
+your work. Here you make use of the theory which was 
+presented in order to answer the question(s)/solve the task 
+that is the topic of the thesis. In the argumentation you decide 
+and legitimate your approach/solution, you can develop your 
+own ideas and trace them back to existing theories. The style 
+of the argumentation depends on the type of thesis. → 
+Hypothesis 
+Engineering oriented (including development of software or 
+hardware) 
+If a thesis includes the development of some software or 
+hardware the argumentation chapter has to contain the analysis 
+and the development. Describe the approach (algorithm, 
+technique etc) used to solve the given task and why you chose 
+exactly that one. If you make use of certain existing concepts or 
+techniques (described in the theory part), the argumentation 
+chapter gives the chance to show how these concepts are used. If 
+there has been an explicit test phase, than this has to be described 
+as well. The test setup and the achieved results should be 
+included. In most of the cases, a development process can be described in 
+the steps requirement study, analysis, system development and 
+implementation. Details of the implementation are usually not 
+part of a thesis text and can be put in the appendix. Only if there 
+are details that are vital part of the problem solution they should 
+
+12 
+ 
+be mentioned. The source of software never appears in these 
+documents at all (Harvard system from snippets, if you need 
+them to explain certain things), it is delivered as source code on 
+Floppy, CD or DVD together with the text. Check that your work at least contains 
+▪ Requirement study 
+▪ Analysis and system development (use modeling languages 
+and graphical descriptions like UML, Ward & Mellor, Nassi-
+Schneidermann Diagsetc) 
+- Interaction system – outer world (e. g. context diagram, 
+use cases, environmental model) 
+- Abstract description of the system (e. g. behavioral model, 
+abstract class description, data dictionary) 
+- Basic algorithms/methods to solve the main problems 
+- Detailed description of the modules and their interactions 
+(e. g. behavioral model, class diagram, sequence diagram) 
+- Implementation prerequisites (e. g. implementation model, 
+description of central classes/procedures/functions and 
+their interfaces 
+▪ Manual (how to use your program/device) 
+Empirical Research Task [Sub-Topic] 
+If the thesis is a research task where a question is treated by 
+empirical means (e. g. measurements, simulation),the 
+argumentation chapter describes the technique that was used. It 
+must be stated why a certain technique was chosen and why it is 
+preferable to any other. You should make clear, what aims you 
+are aiming at and what kind of results you are expecting. Especially the method of interpreting the outcomes of your 
+research (i. e. the measured values or those yielded by a 
+simulation) should be presented. Theoretical Research Task [Sub-Topic] 
+For a work on a purely theoretical task (e. g. a proof, 
+mathematical analysis), this chapter is even more vital than for 
+
+13 
+ 
+the others as it somehow represents the thesis' work. Here you 
+should lead from the basics (as described in the chapter on 
+theory) to your result by giving arguments, proofs, mathematical 
+derivations etc. It is important to point that your conclusion is 
+sound and to prove why. If you include references to statements 
+of other scientists do not forget that we do not do religion here – 
+not everything that somebody states is therefore correct, if the 
+person is holding an academic title. Especially if you are working 
+on the core of your argumentation, make sure that a referenced 
+statement is sufficiently accepted by the scientific world. If it is not but you want to take it in to account any 
+way, make clear why you think it is how ere true. A typical setup 
+for a theoretical text is to start with a hypothesis and makes use 
+of argumentation and references to approve or disapprove of it. 15. Scope [Sub-Topic] 
+This is a kind of a disclaimer. Should cite the focus of the study 
+geographical area or target group/ population 
+1. 6. Limitation [Sub-Topic] 
+- Not a must for a proposal. - Has to be there in the final 
+thesis/project report. - Indicate the challenges encountered in 
+the study that may have limited the study. - Note: Paragraphing should be consistent. Either leave space 
+or indent between paragraphs. - Spacing and indenting should not be used together. One 
+sentence paragraphs are unacceptable. - A paragraph should have a minimum of five sentences. 2. LITERATURE REVIEW [Main Topic] 
+This chapter surveys previous literature and studies relevant to 
+the field of study. The literature review should be comprehensive 
+and include recent publications. Literature review should include; 
+▪ Introduction 
+
+14 
+ 
+▪ Theoretical review/Conceptual Framework 
+▪ Review the empirical and theoretical literature relevant to 
+the problem being investigated. ▪ Indicate what has been done by other researchers 
+including the methodologies used and identify gaps. ▪ The hypothesized variables should be subheadings of the 
+literature review to form a framework that would help in 
+analysis. ▪ Conceptual framework should demonstrate an 
+understanding of what variable influences what. ▪ Cite 3-5 references per key section in the text. ▪ Use HARVARD SYSTEM method of citation. Consistency is important in citation. ▪ Each key variable should be 2-3 pages long. ▪ Critique of the existing literature relevant to the study. ▪ Summary 
+▪ Research gaps 
+3. METHODOLOGY [Main Topic] 
+This chapter describes and explains the research methodology 
+used in the study. The sub-topics for this chapter include the key 
+research questions, the research design, and the research 
+procedures adopted. It may also, where appropriate, indicate 
+sampling methods, research instruments and statistical methods 
+employed. The purpose of this is to inform the reader on the 
+methods used to collect the data and generate the findings 
+reported. Methodology should indicate; 
+▪ Research design- Indicate type of research, justify the choice 
+of type of research by citing authority. ▪ Population- clearly identify the population and the target 
+population. Justify the target population. ▪ Sampling frame- Justify the choice. ▪ Sample and sampling technique- illustrate understanding of 
+
+15 
+ 
+the technique. ▪ Instruments: 
+- Data collection procedure- Questionnaire, Interview, 
+Observation, etc 
+- Pilot Test-depends on the instrument being used and test 
+data validity and reliability 
+- Data Processing and analysis 
+4. RESULTS AND DISCUSSION [Main Topic] 
+Results are commonly presented in the form of text, figures and 
+tables, complete with data analysis. This chapter contains the 
+interpretation of the results. The findings of the research should 
+be compared and contrasted with those of previous studies 
+presented in the literature review. The purpose of this chapter is 
+to discuss the findings of the research. ▪ Style of presentation – presentation of raw data followed by 
+discussion 
+▪ Should be guided by the methodology. Unit of analysis 
+should be based on the research questions or objectives and 
+should capture the independent variables. ▪ Tables should have no vertical lines (use simple formatting) 
+▪ Table titles should be at the top of the tables. ▪ Tables copied from elsewhere should have source below 
+them. ▪ Any table generated by the researcher should not have the 
+source quote. ▪ Figure titles should be at the bottom of the figures. ▪ Figures can have different shadings. ▪ Discussion should follow the results. 5. CONCLUSION [Main Topic] 
+In this section, the findings are summarized and their 
+implications discussed. This section may include suggestions for 
+future work. 16 
+ 
+The conclusion chapter summarizes the results of your work. As 
+a part of that, you have to clarify if this result (or a developed 
+system)meets the requirements as stated in the introduction. If 
+your results include some finding, the conclusion chapter can 
+compare these with the results other scientists/engineers 
+presented on the same topic. The whole text should be concluded with an outlook on how the 
+work could be continued (Ideas for further developments or a 
+better technique, unsolved problems). References and 
+Bibliography 
+The bibliography lists all the sources for cites used in the text. All works or studies referred to in the research, 
+report/dissertation/ thesis in the form of quotations or citations 
+must be included in the bibliography. The references should be 
+written consistently in the American Psychological Association 
+(HARVARD SYSTEM). Each reference should be written in 
+single spacing format and a double space should be left between 
+references. This list of references should not be numbered. - List references alphabetically and using correct citations for 
+books, journal articles and conference/seminar proceedings 
+as shown in the examples (following pages). - If more than one reference of the same author exists then the 
+references with the same author should be listed 
+chronologically according to publishing date (year). - If more than one of the same author's publications exist in the 
+same year (date), then use suffixes a, b, c, etc. , after the 
+publication year {e. g. , 1998a; 1998b; etc. ) 
+Appendices 
+(optional 
+Supplementary) 
+The appendix can hold all the material that seems to be too 
+important to be left out but not important enough to be put into 
+the main part. This could be plans, code snippets, measurement 
+results etc. Specific items which were not included in the main body of the 
+text should be put in this Supplementary Section. Typically, this 
+section includes the following: 
+
+17 
+ 
+Instrumentation 
+Research instruments such as questionnaires, maps or computer 
+programs. Appendix 
+▪ Appendices consist of additional illustration of data sources, 
+raw data and quoted citations which are too long to be placed 
+in the text. The appendix supports the written text of the 
+research report/dissertation/thesis. Label Appendices or 
+Annexes as: A, B, C, etc. ; and give name (title) to each 
+ 
+3. 2. Document Structuring 
+This section will discuss formats of thesis writing, typing and illustrating the text. The 
+most difficult part in writing a thesis text usually is the structure. Finding find out 
+what is important and when it should be mentioned. Retaining a structure is not only 
+important for the text but also for the general proceeding of your work. A thesis often comprises elements supporting and illustrating the text, such as tables, 
+figures and mathematical formulas. All illustrative material is closely linked to the 
+text; however, all tables and figures should be composed in such a way that the reader 
+is able to understand them without reading the text. The text presents the essential 
+observations and conclusions based on the tables and figures, not repeating the 
+individual numerical information (i. e. single figures) reported in them. Tables, figures 
+and mathematical formulas are numbered consecutively, each as an independent 
+series. They are placed as near as possible to the section of text where they are first 
+referred to. - The headline of a section summaries the contents of all the subsections of this 
+section 
+- Maintain a logical order 
+- There are no sections containing only one subsection 
+- Do not sub dive too much, 4 levels of headings are enough 
+- Headings are followed by text and not by another heading 
+
+18 
+ 
+- The formal structure is prescribed by the university, if not marked differently, the 
+mentioned parts are mandatory. Scientific writing requires a good knowledge of standard language and the command 
+of a formal style of writing. Correct grammar, unambiguous and precise expressions, 
+no contracted forms like “doesn’t” or “can’t”, defined concepts and terms, fame 
+acronyms, less use of “I” or “we” rather expressed passive forms or third person and 
+logical organization of the text are some of the technical requirements of thesis 
+writing. 3. 2. 1. Paraphrasing and Citing References 
+3. 2. 1. . 1. Paraphrasing 
+Plagiarizing another author’s text without correct reference to the original source is a 
+serious offence, so the referencing technique presented in section 3. 2. 1. 2 should be 
+adopted right at the beginning of the thesis writing process. In addition, it is of vital 
+importance to realize that the original texts must not be used unprocessed; they need 
+to be paraphrased. Paraphrasing is restating what someone else has said in your own 
+words. You should introduce the essential issues for your own thesis in adequate 
+extent and correctly. The aim is to crystallize the central issues of the original text, 
+however, at the same time; you should present your own observations, opinions and 
+conclusions. 3. 2. 1. 2. Citing References 
+References can be cited in many different ways. But consistently use so-called 
+Harvard system, in which references are, cited in-text with the author’s sure name 
+followed by the date of publication and page number if necessary. In the thesis of EiTEX, references are cited according to the following instructions, 
+which are based on the Harvard system. Citation styles are used to support your 
+statements and you argumentation. Direct citations or quotas are passages copied 
+unchanged from other authors and have to be set in quotation marks. Indirect citations 
+are descriptions of other peoples' thoughts in your own words. In both cases you must 
+refer to the source of the passage. You do that by a reference to the bibliography. If 
+
+19 
+ 
+your bibliography is numbered, you simply add the according number in brackets 
+after the quotation. Without numeration, use the author's name and the publishing date to identify the 
+source. In both cases you might add the page number where you found the passage. Mentioning the page numbers is not that common with engineers, but your choice 
+depends on how important cites are for your text. Only make sure that you always do 
+it the same way. Never “forget” to mark a citation, as this will be interpreted as an 
+attempt of cheating. Each reference should be written in single spacing format and a double space should 
+be left between references. This list of references should not be numbered. Cite 
+references in the text of the thesis according to the convention: 
+• "author's last name (date)" -- in case there is only one author, example- 
+(Smith, 2004), (Smith, 2004, P. 39) if page number included. • "last name of first author" and "last name of second author" (date) -- in case of 
+two authors, example- (Kelley & Chang, 2007) 
+• "last name of first author" and "last name of second author" (date) -- in case of 
+three authors, example- (Hughes, Brestan & Valle, 2004) in the first citation and 
+(Hughes, et al. , 2004) in subsequent citation 
+• "last name of first author" et al. (date) -- in case of multiple authors, example- 
+(Phelps et al. , 2004) 
+Citing a Source within a Source – The in-text citation should give credit to the 
+original author, but you found it as cited in other author. For example, You read a 
+2007 article by Linhares and Brum that cites an earlier article, by Frederick. You want 
+to cite Frederick's article, but you have not read Frederick's article itself. Example the Frederick's study (as cited in Linhares & Brum, 2007) found that but you 
+have to list in your reference the one you have read (Linhares and brum) 
+Examples for citations: 
+The Simple Network Management Protocol consists of the following command 
+(Douglas 2000). . . McGhie states in [5] that Winword's default settings are only fit for users on „knee-
+cap level“ 
+
+20 
+ 
+ 
+ 
+Format for book references listing: 
+Author's last name. First initial (Publication date). Book title. Additional information, 
+City of publication: Publishing company. Examples 
+Searles, B. , & Last, M. (1979). A reader's guide to science fiction. New York: Facts 
+on File, Inc. Format for Magazine references listing: 
+Author's last name, first initial. (Publication date). Article title. Periodical title, 
+volume number (issue number if available), inclusive pages. Examples 
+Kebede G. (1990, April 9). Status of Ethiopian Textile and Garment Industry. Times, 
+135, 28-31. Format for Magazine references listing: 
+Online periodical: 
+Author's name. (Date of publication). Title of article. Title of Periodical, volume 
+number, Retrieved month day, year, from full URL 
+Online document: 
+Author's name. (Date of publication). Title of work. Retrieved month day, year, from 
+full URL 
+Examples 
+Devitt, T. (2001, August 2). Lightning injures four at music festival. The Why? Files. Retrieved January 23, 2002, from http://whyfiles. org/137lightning/index. htm 
+Dove, R. (1998). Lady freedom among us. The Electronic Text Center. Retrieved 
+June 19, 1998, from Alderman Library, University of Virginia website: 
+http://etext. lib. virginia. edu/subjects/afam. html 
+i. Reference to one author 
+Example: Fama (1970) distinguishes three forms of market efficiency: weak form 
+efficiency, semi-strong form efficiency, and strong form efficiency. According to 
+Fama,markets are weak form efficient when. . . 21 
+ 
+Example: Odean (1998: 1776) assumes that investors’ value function is concave in the 
+domain of gains and convex in the domain of losses. Example: According to Jaccard (2001: 65-66), correlation between the interaction 
+term and its component variables is not a problem unless the multi collinearity is 
+extremely high. Citations are not written in footnotes in this system. Instead, footnotes may 
+contain short remarks or specifying facts that do not fit the original text smoothly. ii. Reference to more than one author 
+Example: Fama and French (1992) show that small companies and companies with 
+low book-to-market values have higher stock returns. Example:. . . there is also a relationship between firm size and book-to-market 
+value(Fama & French 1992) and stock returns. Example 6: Davila, Foster and Oyon (2009) outline a framework, where innovations 
+are categorized based on two dimensions: source of the innovations and their impact 
+on company strategy. Example: Davila et al. (2009) point out that existing knowledge of how management 
+identifies, chooses and implements strategic innovations is still relatively limited and 
+further research is needed. →Three or more authors 
+iii. Reference to one sentence 
+Example: Escalation of commitment refers to a phenomenon whereby people tend to 
+continue or even intensify their commitments to a previously chosen losing course of 
+action (Staw 1997: 191). In general, escalation situations. . . iv. Reference to many sentences or to a whole paragraph 
+Example: The traditional product term approach tests for a bilinear interaction for the 
+log odds. However, there are other forms of interaction and it is important to make 
+sure that the right type of interaction is being modeled. Especially with continuous 
+variables, the traditional product term approach may not be appropriate and a more 
+
+22 
+ 
+complex model (e. g. polynomial terms in addition to the product terms) is needed. (Jaccard, Turrisi& Wan 1990: 39-42, Jaccard 2001: 61-62. ) 
+v. Reference to a publication whose author is unknown 
+Example 10: During the last 20 years (19912010), the volume in Helsinki Stock 
+Exchange has hundred folded. (NASDAQ OMX Helsinki 2011: 10. ) 
+vi. Reference to an Internet source or to other non-printed material 
+Example: Woodpine and Liu (2010) examine the relationship between different 
+leadership styles and moral decisions that internal auditors make. → Article in an 
+electronic journal is referred to 
+Example 12: A consultation conducted by the European Commission (2011) shows 
+that there is significant gap between what stakeholders of public-interest entities 
+expect of a statutory audit and what the auditors actually do. →If the author is 
+unknown, the reference is cited as 
+Example 13: According to Edelström (2012), the overall purpose of the merger is to 
+streamline organizational structure of the company. →a telephone interview is 
+referred to 
+vii. Direct quotation 
+Example: According to Pyrczak and Bruce (1992: 51), a direct quotation is justifiable 
+”when the writer of the review (1) wants to illustrate either the original author’s skill 
+at writing or lack thereof or (2) believes that the wording of a statement will have an 
+emotional impact on the reader that would be lost in paraphrase. ” 
+viii. Reference to an edited compilation, a working paper, or a secondary source 
+- The citations should always be to the original sources. - A secondary source is referred to with the help of a ‘via reference’, for example: 
+(Ewert 2003 via Pott et al. 2009). In this example the original source (Ewert 2003) 
+was unavailable, and so it has been referred to using the secondary source (Pott et 
+al. 2009). - Both the original and the secondary source are included in the list of references. 23 
+ 
+ix. Reference to a legal text 
+Example:. . . does not cover emissions from international maritime traffic (NECD 
+2:1(a)). 3. 2. 1. 3. List of References 
+Bibliography The bibliography contains a complete list of all referenced source 
+(books, journals, websites). It is sorted alphabetically by the authors' names and 
+contains the titles of the source, the publisher and the year of publication. The list of references must contain all the sources that have been referred to in the 
+text. Its purpose is to give the reader the possibility to check the information referred 
+to from its original source. There is no one correct way of compiling the list of 
+references; for instance, every scientific journal has its own practice. In EiTEX, the 
+list of references is written in the following way: 
+i. An article in an academic journal 
+Dunning, J. H. (1988a). The eclectic paradigm of international production: A 
+restatement and some possible extensions. Journal of International Business 
+Studies19(1), 1-31. Dunning, J. H. (1988b). The theory of international production. International Trade 
+Journal 3(1), 21-66. Kross, W. J. & Suk, I. (2012). Does regulation FD work? Evidence from analysts’ 
+reliance on public disclosure. Journal of Accounting and Economics (in print). Pagano, M. , Panetta, F. & Zingales, F. (1998). Why do companies go public? An 
+empirical analysis. Journal of Finance 53(1), 27-64. ii. A book 
+Clegg, S. , Kornberger, M. &Pitsis, T. (2008). Managing and Organizations: An 
+Introduction to Theory and Practice (2
+nd
+ edition). Los Angeles: Sage Publications. Hull, J. C. (2011). Options, Futures and Other Derivatives (8th edition). Boston:Pearson Education. iii. An article in an edited compilation 
+O’Curry Fogel, S. & Berry, T. (2010). The disposition effect and individual investor 
+decisions: The roles of regret and counterfactual alternatives. In: Bruce, B. (ed. ). Handbook of Behavioral Finance. Cheltenham: Edward Elgar Publishing, 6580. 24 
+ 
+Prelec, D. (2009). Compound invariant weighting functions in prospect theory. In: 
+Kahneman, D. & Tversky, A. (eds. ). Choices, Values, and Frames. New 
+York:Cambridge University Press, 67-92. iv. An article in a newspaper 
+Siegel, M. (2012). Economic outlook: Euro zone prospects worsen. Financial 
+Times10. 2. 2012. v. Reports, discussion papers, working papers, statistics, etc. vi. Thesis 
+ 
+vii. Laws and Statutes 
+Finnish Accounting Act 31. 12. 1997/1336. 25 
+ 
+viii. Interviews 
+ 
+Mallikas, E. (2012). The Main Analyst, Bank Ltd. E-mail interview on March 15, 
+2012. When the actual research material of the thesis consists of interviews, they are not 
+included in the list of references but as appendices. 3. 2. 2. Writing Styles 
+The following hints on style should answer most of the questions on how to format 
+your document. As we do not take you for a flock of sheep that just follows, we gave 
+some explanations here and there Most of them are based on legibility studies, i. d. the 
+given suggestions (marked by a ) help to make your text more readable. This chapter specifies format requirements for the thesis or project. Students should 
+read every part of this chapter carefully to ensure approval of their manuscript. Failure 
+to adhere to or any deviation from the required format and style will result in the 
+return of the manuscript to the student and probable delay of graduation. Table 3. 2 Descriptions of Thesis writing styles 
+Basic Font 
+Style 
+A document should only use two different fonts, usually one for the headings and 
+another for all the rest. Times New Roman font style is recommended. Text pages 
+should be in Times New Roman 
+Font Size Font Sizes between 16pt and 12 pt are considered to be the most readable. The 
+effective sizes can differ for different fonts. - Title of the Thesis -All UPPERCASE—16 Font size, Bold and centered 
+- Title of the Report should not be more than two lines 
+Chapters and heading1 -All Capital, bold, centered and 16 font size 
+- All the preface titles are in upper case 
+- Each chapter begins on a new page and in the center. - Triple-spacing between the Chapter designation (CHAPTER 1) and the title of the 
+chapter (INTRODUCTION); and between the title and the text. Subchapter Heading 2 –capitalize each word except prepositions, bold, justified-
+14 font size 
+- Subchapter has tripled spaced before and double spaced after. Sub-Subchapter–Heading 3– Capitalize each word, bold, justified -12 fontsize 
+
+26 
+ 
+- It is followed by at least two lines of text on the page where it appears, has double-
+spacing before and after the heading. Heading4 – Capitalize each word, justified, Italics -12font size 
+- It is followed by at least two lines of text on the page where it appears, has double-
+spacing before the heading and single spacing after the heading. Page style 
+Pagination 
+Page 
+Numbering 
+ 
+− The paper size for a thesis is DIN A 4. The thesis text should be for- matted as one 
+− Page - single side print. − All pages must be numbered, with the exception of the title page. Page numbers should 
+appear at the bottom centre of each page, at a minimum of 0. 5” from the edge of the page. − Preliminary pages of the thesis must be numbered with Roman numerals. On the first page 
+of the main body, page numbers must restart with 1. The thesis template is preset with this 
+numbering style. − All page numbers should be printed 1. 0 cm from the bottom margin and placed at 
+centre of the page. − Not all prefaces’ parts are numbered, but all are counted. Roman numerals (i, ii, iii 
+etc) should be used in the preface section. Although the Title Page is the first page 
+of the Preface, no number is printed on it. ▪ Font size 8 recommended for numbers. ▪ Arabic numerals (1, 2, 3) are used on the pages of the text (starting with the 
+introduction page) and supplementary sections. ▪ Please DO NOT allow your page numbers to be decorated in any manner. Margins 
+ 
+Good margins are a key to good readability and finding them by just trying is harder 
+than you might think. Settle your margins when you start to write and do not change 
+them anymore. Margins should be set to: 
+o Left side 1. 5” 
+o Right side 1” 
+o Top 1” 
+− Except pages that carry major headings, such as preliminary pages and 
+chapter titles, must have a 2. 0-inch top margin 
+o Bottom 1” 
+− exception 1: When a 1” margin would leave a single line of print on a page, 
+then a margin of no more than 2” may be left and text continued on the 
+following page 
+
+27 
+ 
+− exception 2: where a page is followed by a figure or table on the next page, or 
+when the last page of a chapter 
+o Figures and tables must fit within the margins. o Oversized material may be reduced to fit. o Text Width 6” 
+Header and 
+Footer 
+ 
+Header and footer facilitate working on a document. Thus, they contain useful 
+information as page numbers, section names, author names etc. The best place for 
+page numbers is in the footer on the right side as one can easily flip through the pages 
+to find a certain page. The distance from the page border to the header/footer is set to half the size of the 
+distance between page border and text body. The header contains the thesis' title or the 
+actual section's name on the right-hand side. The footer contains the page numbers, 
+right justified. Line 
+spacing 
+ 
+If the line spacing is too small, the lines interfere with each other, if they are too big, 
+the eye has to orient itself after each line. An optimal line spacing is 20% to 30% of 
+the font size, this spacing is inserted by most of the modern word processors 
+automatically. That means if you stick to the standard line feed value of your word 
+processor you are on the safe side. Line spacing should be “single line”. List of references 0. 5 cm hanging indent, other 
+lists 0. 5 cm, long direct quotations 1 cm, formulas and equations 1. 5 cm 
+Body text shall have 1. 5 line spacing. Single-spacing is only permitted in tables, long 
+quotations, footnotes, citation and in the bibliography. Paragraphs 
+ 
+A new paragraph can be marked by a space before and/or indenting the next line. If 
+you decide for space, do not use your “Return” key to insert empty paragraphs, they 
+only confuse the document and your software. Every word processor allows space 
+before the paragraph, so make use of this feature. A good space is between 75% and 
+100% of the font size. Use 9 pt –12 pt space before each paragraph. Justification 
+ 
+The readability of fully justified text and left aligned text is nearly equal given that the 
+spacing between the words is good enough; a fully justified text with a lot of varying 
+word spacing is most likely to remain unread. As the quality of the word spacing 
+depends on the quality of hyphenation, left justification might be the more foolproof 
+approach. Align your text “justified” 
+
+28 
+ 
+Emphasis 
+ 
+There are three common ways of emphasizing: bold letters, CAPITALS and underlines. Bold letters and Capitals stick out too much from the text and in the text with the 
+headings, thus breaking the flow of reading. Under lines are even worse, since they 
+break up the whole picture. Underlines were introduced in times when people only 
+had typewriters and they had no other choice. Emphasise by using Italic style; use 
+bold face only, if you intend to structure something that you cannot structure with 
+headings. Headings 
+ 
+Headings should lead through the text as well as make it easy to find passages. Thus 
+they must be easy to distinguish, short and striking. HEADING 1: 16 pt, page break before, 18pt after 
+Heading 2: 14pt, 32 pt before, 12 pt after 
+Heading 3: 12pt, 28 pt before, 12 pt after 
+Heading 4: 12 pt, 24 pt before, 12 pt after 
+Spelling 
+ 
+Of course, the spelling has to be correct. Be aware that there are different types of 
+English (e. g. American English, British English etc) and you have to stick to one of 
+them. Foreign 
+words and 
+technical 
+terms 
+ 
+If you want people to admire your document, use a lot of foreign words, latin or greek 
+phrases and technical terms. If you simply want to be understood, simply write down 
+what you have to say. In most cases, things can be expressed in common and plain 
+words, you should use foreign words/technical terms only if 
+- something can be said with a (foreign) word that otherwise would need to be 
+described at length 
+- there is a totally common technical term for what you are just writing about 
+- Nearly needless to say: make sure you use foreign words correctly. Tables 
+A great amount of information can be compressed into tables, for instance in reporting 
+numeral information (see example tables 1). In order to achieve a neat result, it pays to 
+make use of the table tool of the word processing program. 29 
+ 
+ 
+− Label table headings at the top of the table and according to the chapter it appears 
+in, similar to the figures, e. g. , Table 1. 1, Table 1. 2, Table 2. 2, etc. - As a rule, the table fills out the whole column. - A broad table is presented horizontally. - The same font is used as in body text, font size is 10 pt. - A table is given a short but descriptive title. - The title is written above the table, using font size 10 pt and bold letters. - There are horizontal lines above and below the column headings as well as at the 
+bottom of the table. - Below the table there is a caption, giving all necessary information for 
+understanding the table. The font size of the caption is 9 pt. - The possible source is given in the title of the table or in the caption (cf. example 
+tables 13) 
+Figures In scientific research, as in all communication, figures are an effective means of 
+conveying information. Like tables, figures can be used to illustrate the results of your 
+own research (see example figure 1). It should be kept in mind that figures are 
+protected by copyright laws. Therefore, you must not copy or scan another person’s 
+figures in to your thesis without the copyright owner’s permission. If you have no 
+permission, you will have to redraw the figure yourself – preferably using a graphics 
+program – and provide the reader with a reference to the original source (see example 
+figure 1). 30 
+ 
+ 
+Example figure 1. Breakdown of sales for Firm X in 2011. − Label figure captions at bottom of the figure and according to the Chapter it 
+appears in such as, Figure 1. 1, Figure 1. 2, Figure 2. 1, Figure 2. 2, Figure 3. 1, etc. - In figures, the same font is used as in body text. - A figure is given a short but descriptive title. - The title is written below the figure, using font size 10 pt and bold letters. - Within the figure font size 10 pt is customary. - If the figure is not the size of the whole column, it is placed in the middle of the 
+page. - If you make any changes to another person’s figure, you must indicate this by 
+adding the words ‘adapted from’ to the reference. Formulas 
+and 
+equations 
+When presenting mathematical material, the equation editor of the word processing 
+program should be used. Formulas and equations are integrated into the text in one of 
+the following ways: 
+ 
+- The main font is Times new roman 12 pt, italics. - The size of the subscripts and superscripts is 8 pt. - Formulas and equations are indented 1. 5 cm. - The equation number is enclosed in parentheses and placed flush right. 31 
+ 
+- There is no need to number equations that are part of a series of intermediate steps 
+that are not specifically discussed in the text. - Symbols being used must be defined at their first occurrence. - The use of symbols must be consistent: that is, the same symbol should not be 
+used to denote different things, nor should the same variable or concept bereferred 
+to by using different symbols in different contexts. Footnotes consecutive numbering, Times New Roman 10 pt, line spacing 1 
+3. 2. 3. Orientation and Page Settings 
+First of all your thesis is a piece of text and should therefore meet some requirements 
+that make a text legible and look good. Secondly it is a scientific paper, so it must be 
+compliant to the rules of scientific writing. In the end it is the document that will 
+(hopefully) get you a title so there are one or two things, that you university wants to 
+have fulfilled. The following sections give a brief overview on how you can add style 
+to your document and (formal) structure so it meets all these requirements. Extent of a Bachelor Thesis has about 30 to 40 pages, excluding title, tables of 
+content/figures/tables and the appendix. Number of pages, not including appendices and prefaces, are specified as follow: 
+- Undergraduate thesis are recommended to be not more than 30-50 unless 
+permitted by the institute exceptionally 
+All pages should be A4 size portrait oriented. Landscaping photographs, drawings 
+or graphs requires a different format in order to include all materials on the page and 
+remain within the required margins set forth in these guidelines. In this instance, the 
+"landscaped" material will be printed so that the top of the material is at the wider 
+margin (1-1/2") on the left-hand side of the page. However, the page number must 
+comply with the same format previously set forth in these guidelines (centered on the 
+page at least one-half (1/2) inch from the bottom of the page. The final copy of the 
+thesis must be converted to. pdf for submission to the Library (maximum 256mb). Page numbers can be placed at the top right-hand corner of the page, font size 12pt, 
+numbering starts from the cover page but the page numbers are shown not until the 
+first page of the introduction chapter 
+
+32 
+ 
+ 
+Table 3. 3 Page settings for thesis writing 
+Sections Pages Required/Optional 
+1. Title pages Title page - no page number Required 
+2. Preliminary pages- 
+Preface/Front Matter 
+(Roman page numbers) 
+Approval page – always page ii Required 
+Ethics Statement 
+Required if the research was subject to 
+ethics approval 
+Abstract Required 
+Dedication Optional 
+Acknowledgements Optional 
+Table of Contents 
+Required (chapter headings are 
+formatted the same as in the text, sub-
+headings are indented) 
+List of Tables 
+Required if the document contains 
+tables 
+List of Figures 
+Required if the document contains 
+figures 
+Other lists Optional 
+List of Acronyms Optional 
+Glossary Optional 
+Preface/Executive Summary/Image Optional 
+3. Main body 
+(Arabic page numbers) 
+Chapters—always beginning with 
+page 1(New Paper Odd Pages) 
+Chapters and subsections may be 
+numbered or unnumbered 
+References 
+You may use a single reference 
+section at the end of the document or 
+include references at the end of each 
+chapter 
+Appendix(es) Optional 
+Optional pages in the thesis template may be removed if not used. 33 
+ 
+4. FINAL SUBMISSION 
+✓ For thesis written in a language other than English, the Library requires a second 
+complete English title page. Supporting documentation must be in English. ✓ Individual personal information must be removed from the thesis before 
+publication, including signatures, email addresses, and phone numbers. For 
+example, if you are including a survey instrument or consent form, your own 
+contact information must be removed. ✓ Blank pages in the thesis must be removed before publication. The final presentations of Bachelors’ thesis are assessed based on the scrutiny are the 
+following: 
+- Research question (introduction to the research question, defining the 
+orientation of the research question) 
+- Scientific basis of the thesis (defining of concepts and conceptual framework, 
+use of methods, presenting conclusions, use of sources and citations, clarity of 
+presentation) and 
+- Implementation of the study (outline of study, independence and personal 
+contribution, thoroughness of exposition, degree of textual quality, 
+significance of results). The thesis defense will take place once the advisor determines the student is ready to 
+defend and the written thesis is in a condition that is defendable. In this case, 
+“defendable” means that the thesis is completely written all chapters, front material, 
+references according to the thesis preparation guidelines and can be provided to the 
+assigned juries for review. The student should then provide a hard copy of the thesis 
+to each thesis/project evaluation jury members and the office of program head set up a 
+defense date and time. The hard copy of the thesis must be submitted to the assigned 
+juries at least FIVE DAYS prior to the defense date. Each copy of the thesis should be bound with colored front transparent paper and back 
+hard cover or material with equivalent quality and bounded with plaster as stapled at 
+three places such as top, middle and bottom. The cover should be in the color 
+specified for the particular degree with computer printed black lettering. 34 
+ 
+ 
+Programs Front cover Back Cover 
+Textile Engineering Blue 
+Garment Engineering White 
+Fashion Design Green 
+Textile and Apparel Merchandizing Yellow 
+Leather Engineering Brown 
+Generally, expect to provide a One Hour presentation including individual question 
+and answer period. Thesis defenses are public, and all students should make an effort 
+to attend all defenses conducted in the department. Once the thesis is successfully defended, one form will be completed by jury 
+members at that time. Thesis Defense Approval form is a form that states the student 
+has completed an oral defense of their thesis. All jury members will sign this form at 
+this time signifying a successful oral defense, and the student will be provided a copy 
+with the original placed in the student’s file. In case of conditionally pass, once all corrections recommended by jury have been 
+made and approved by the Advisor and respective program head. Please note that the student should allow a MINIMUM of two weeks between the 
+defense and the final date for graduation checkout to allow for enough time to make 
+corrections and complete the checkout process. 35 
+ 
+APPENDICES 
+Annex A: Sample Cover Page 
+ 
+ 
+ 
+BSc THESIS TITLE 
+ 
+ 
+ 
+STUDENTS’ NAME ID. NO. ETHIOPIAN INSTITUTE OF TEXTILE AND FASHION 
+TECHNOLOGY 
+BAHIR DAR UNIVERSITY 
+MONTH, YEAR 
+BAHIR DAR UNIVERSITY 
+ETHIOPIAN INSTITUTE OF 
+TEXTILE & FASHION 
+TECHNOLOGY 
+
+36 
+ 
+Annex B: Sample Title Page 
+[THESIS TITLE] 
+BY 
+[GRADUATES FULL NAME] 
+ 
+SUBMITTED IN PARTIAL FULFILLMENT OF THE 
+REQUIREMENTS FOR THE DEGREE OF BACHELOR OF SCIENCE 
+IN 
+FASHION DESIGN/GARMENT ENGINEERING /LEATEHR ENGINEERING 
+/TEXTILE ENGINEERING/TEXTILE AND APPAREL MERCHANDIZING 
+ 
+UNDER THE GUIDANCE OF 
+[NAME OF THE ADVISOR] 
+ 
+ETHIOPIAN INSTITUTE OF TEXTILE AND FASHION 
+TECHNOLOGY 
+BAHIR DAR UNIVERSITY 
+BAHIR DAR 
+ 
+[MONTH, YEAR] 
+
+37 
+ 
+Annex C: Declaration of Originality Sample 
+This subsection is compulsory. It states that the thesis constitutes the authentic work 
+and finding of the researcher. I hereby certify that I am the sole author of this thesis and that no part of this thesis 
+has been published or submitted for publication. My thesis does not infringe upon 
+anyone’s copyright nor violate any proprietary rights and that any ideas, techniques, 
+quotations, or any other material from the work of other people included in my thesis, 
+published or otherwise, are fully acknowledged in accordance with the standard 
+referencing practices. Furthermore, to the extent that I have included copyrighted 
+material that surpasses the bounds of fair dealing within the meaning of the Canada 
+Copyright Act, I certify that I have obtained a written permission from the copyright 
+owner(s) to include such material(s) in my thesis and have included copies of such 
+copyright clearances to my appendix. I declare that this is a true copy of my thesis, including any final revisions, as 
+approved by my thesis committee and the Graduate Studies office, and that this thesis 
+has not been submitted for a higher degree to any other University or Institution. __________________________ _____________________ ____________GC 
+Name of Candidate Signature Date (D/M/Y) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+38 
+ 
+Annex D: Advisors’ Approval Page 
+Ethiopian Institute of Textile and Fashion Technology (EiTEX) 
+Academic Directors Office 
+In this subsection, the advisor for the thesis will approve its adequacy for internal and 
+external examination. To the best of my knowledge and as understood by the student in the Research 
+Integrity and Copyright Disclaimer, this thesis/project entitled “. . . . . . ” submitted in 
+partial fulfillment of the requirements for the degree of Bachelor’s degree in Textile 
+Engineering adheres to the provisions of guidelines, policies and legislations of 
+EiTEX during his research work and use of copyrighted material. The thesis is 
+completed and can be presented to the thesis evaluation committee. Therefore, I 
+recommend that the student _______________ with Id. No. ___________has fulfilled 
+the requirements and hence hereby can submit the thesis to the Institute 
+__________________________ _____________________ ____________GC 
+ Name of Advisor Signature Date (D/M/Y) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+39 
+ 
+Annex E: Thesis Proposal Evaluation Format 
+Bahir Dar University 
+Ethiopian Institute of Textile and Fashion Technology (EiTEX) 
+Proposal Presentation Evaluation 
+Program: _______________________ 
+SN 
+Title of 
+BSc 
+Thesis 
+Students’ 
+Name 
+ID. NO. Problem Statement
+ 
+Objectives
+ 
+Significance and Scope
+ 
+Literature 
+ 
+Methodology
+ 
+Time Management and Presentation
+ 
+PowerPoint Quality
+ 
+Questions and Answer
+ 
+Total
+-
+ 
+ Decision 
+ 
+5% 5% 4% 3% 5% 2% 2% 4% 30% 
+ 
+ 
+1 
+ 
+ PASS 
+OR 
+FAIL 
+ 
+ 
+Decisions: 
+[75% - 100%] or [22. 50 – 30] = Pass, 
+[50-75] or [15-22. 5) = Revised according to jury’s comment, 
+< 50% or < 15 = Failed and subjected to change the title 
+Presentation time: 30 minutes per topic including Questions and Answers. S/N Name of Juries Signature Date Remark 
+1 Chair Person 
+2 Member 
+3 Member 
+ 
+ 
+
+40 
+ 
+Annex F: Thesis Progress Report Evaluation Format 
+Bahir Dar University 
+Ethiopian Institute of Textile and Fashion Technology (EiTEX) 
+Progress Presentation Evaluation 
+Program: _______________________ 
+SN 
+Title of BSc 
+Thesis 
+Students’ 
+Name 
+ID. NO. Problem Statement, Objectives
+ 
+Significance and Scope
+ 
+Literature
+ 
+Methodology with Pilot Test
+ 
+Time Management and Presentation, PowerPoint Quality
+ 
+Questions and Answer
+ 
+Total
+ 
+Remarks 
+ 
+5% 7% 12% 3% 8% 35% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Presentation time: 45 minutes per topic including Questions and Answers. S/N Name of Juries Signature Date Remark 
+1 Chair Person 
+2 Member 
+3 Member 
+ 
+ 
+ 
+
+41 
+ 
+Annex G: Final Thesis Evaluation Format 
+Bahir Dar University 
+Ethiopian Institute of Textile and Fashion Technology (EiTEX) 
+Final Presentation Evaluation 
+Program: _______________________ 
+SN 
+Title of 
+BSc 
+Thesis 
+Students’ Name ID. NO 
+Literature Review
+ 
+Methodology 
+ 
+Abstract & Conclusion
+ 
+Result & Discussion
+ 
+Documentation
+-
+Writing Format
+ 
+Time Management & Presentation
+ 
+Questions and Answer
+ 
+Total
+ 
+3% 5% 7% 15% 8% 4% 8% 50% 
+ 
+ 
+ 
+ 
+ 
+Presentation time: One Hour per topic including Questions and Answers. S/N Name of Juries Signature Date Remark 
+1 Chair Person 
+2 Member 
+3 Member 
+ 
+ 
+ 
+ 
+ 
+
+42 
+ 
+Annex H: Thesis Advisors’ Evaluation Format 
+Bahir Dar University 
+Ethiopian Institute of Textile and Fashion Technology (EiTEX) 
+Advisor Evaluation Program: _______________________ 
+ 
+SN 
+ 
+ 
+Project 
+Title 
+Students’ 
+Name 
+Progress Report based on Advisor comment
+ 
+Individual Contribution
+ 
+Attendance
+ 
+Completeness of the Proje
+c
+t
+ 
+Total
+ 
+2% 6% 4% 3% 15% 
+1 
+ 
+2 
+3 
+4 
+ 
+ 
+Advisor’s Name:________________ Signature: __________ 
+ 
+Date: _____________________

@@ -1,0 +1,3456 @@
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+POLICY, PLAN, MONITORING AND EVALUATION DIRECTORATE (PPMED)
+SEPTEMBER 2021
+ADDIS ABABA
+
+SEPTEMBER 2021
+ADDIS ABABA
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+POLICY, PLAN, MONITORING AND EVALUATION DIRECTORATE (PPMED)
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+CONTENTS
+Acronyms VI
+Introduction VII
+Chapter 1: Overview of Health System and Health Information Systems: Basic Concept 1
+Health System 1
+Health Information System (HIS) 2
+Health Management Information System (HMIS) 3
+Chapter 2: Individual Medical Recording tools and procedures 6
+Individual folder 6
+Individual summary sheet 7
+Patient form/Patient card 8
+Service ID card 9
+Appointment card 10
+Master Patient Card 10
+Tracer Card 11
+Other individual medical Records 11
+Individual medical recording procedures (Medical Records Unit Procedures) 14
+Patient Identification and registration Procedure 14
+Medical Record Filing Procedures 16
+Medical Record Retrieval and Tracking Procedures 16
+Patient Scheduling Procedures 17
+Admission/Discharge procedure 17
+Maintenance procedure 18
+Culling procedure 18
+Chapter 3: Registers & tally sheets and completion procedures 20
+Reproductive, Maternal Newborn and Child Health 21
+Maternal Health 21
+Antenatal Care (ANC) Register 21
+Delivery Register 22
+Postnatal Care Register 24
+PMTCT Register 25
+Family Planning Register 27
+Long-Acting Family Planning (LAFP) Removal Register 28
+Comprehensive Abortion Care Services Register 29
+Child Health 30
+Routine Immunization Register 30
+Routine Immunization tally sheet 31
+Tetanus diphtheria (Td) Register: 32
+Human Papillomavirus (HPV) Register: 32
+IMNCI register (0-2 months) 33
+IMNCI (from 2 months to 5 years) Register 34
+Neonatal Intensive Care Unit (NICU) Register 34
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+Adolescent Health Program 36
+Integrated AYH Register 36
+Nutrition Program 37
+GMP and Under 5 Children Nutrition Screening Register 37
+Routine Vitamin A Supplementation (VAS) and Deworming register 38
+Adolescent Nutrition Register 39
+Pregnant and Lactating Women (PLW) Nutrition Screening Register 39
+Therapeutic feeding Program (TFP) register 41
+MAM treatment for 6-59 months Register 42
+MAM treatment for PLW Register 43
+Disease Prevention and Control 44
+TB and leprosy prevention and control program 44
+Unit TB Register 44
+TB contact register 45
+MDR-TB Treatment register 46
+MDR-TB follow up register 47
+Leprosy register 47
+Leprosy register for care after completion of treatment 48
+HIV/AIDS Prevention and Control Program 49
+HIV Testing Services (HTS) register 49
+HTS Tally 49
+Index Case Testing (ICT) Register 50
+HIV self-testing (HIVST) register 51
+Pre-exposure to HIV prophylaxis (PrEP) register 51
+Post-exposure to HIV prophylaxis (PEP) follow up register 52
+HIV positive client tracking register 53
+ART Register 53
+Differentiated Service Delivery (DSD) register 55
+Hepatitis prevention and control 56
+Hepatitis B Treatment Register 56
+Hepatitis C Treatment Register 57
+Malaria Prevention, Control, and Elimination 57
+Malaria Screening and Investigation Register 57
+NCD prevention, Control, and Mental Health 58
+Diabetes and Hypertension Treatment Register 59
+Cervical cancer register 59
+Mental Neurological & Substance Use Disorder Treatment Register 60
+NTD prevention and Control 61
+Trachomatous Trichiasis (TT) Surgery Register 61
+Leishmaniasis Register: 61
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+Medical Services 62
+Central Register 62
+OPD Register 63
+IPD Register: 64
+Intensive care unit (ICU) register 65
+Operation Room (OR) register 66
+Surgery Ward register 67
+Emergency register 68
+Assistive technology registration rehabilitative center register 69
+Liaison Referral in and out register 69
+Surgical Waiting List Register 70
+Ambulance Call and Dispatch Service Register 71
+Health System related registers 72
+Drug Dispensing Register 72
+Gender-Based Violence (GBV) 72
+Birth and Death Notification Forms 73
+Chapter 4: Reporting tools and Procedures 75
+Reporting channel and period 75
+HMIS Report types 76
+Report Compilation Procedures 77
+Reference 78
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+VI
+ACRONYMS 
+ANCAntenatal Care
+ARTAntiretroviral Therapy 
+ATAssistive Technology Register
+BFBreast Feeding
+BMIBody Mass Index
+CHISCommunity Health Information System
+DHSDemographic and Health Survey
+DSTDrug Sensitivity Test
+EMR-MRUElectronic Medical Record-Medical Record Unit
+EPIExpanded Program of Immunization
+FPFamily Planning
+GAGestational Age
+GBVGender-based Violence
+GMPGrowth Monitoring and Promotion
+HCHealth Centre
+HISHealth Information System
+HMISHealth Management Information System
+HospHospital
+HTSHIV Testing Services
+ICUIntensive Care Unit
+IMNCIIntegrated management of newborn and childhood illness
+IPDInpatient Department
+IPPFPImmediate Postpartum Family Planning
+LAFPLon-acting Family Planning
+MDR-TBMulti-Drug Resistance TB
+MoHMinistry of Health
+MPIMaster Patient Index
+MRNMedical Record Number
+MRUMedical Record Unit
+NCoDNational Classification of Disease
+OPDOutpatient Department
+PHEMPublic Health Emergency Management
+PLHIVPeople Living with HIV
+PMTCTPrevention of Mother to Child Transmission
+RHBsRegional Health Bureau
+TdTetanus diphtheria
+TPTTuberculosis (TB) preventive treatment
+VASVitamin A Supplementation
+VCTVoluntary Counseling and Testing
+WHOWorld Health Organization
+WoHOWoreda Health Office
+ZHDsZonal Health Office
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+VII
+INTRODUCTION
+The Ethiopian Ministry of Health (MoH) is currently implementing the Health Sector Transformation Plan (HSTP 
+II) covering the period between Ethiopian Fiscal years 2013 and 2017 (July 2020-June 2025) The introduction 
+of new health initiatives in the HSTP II results in additional indicators, which have to be monitored regularly 
+In order to respond to the additional monitoring and evaluation (M&E) requirements, the MoH has reviewed 
+the existing health management information system (HMIS) indicators, which in turn introduce new indicators, 
+modify and/or omit the existing indicators Following the revision, the existing recording and reporting formats 
+have been modified and new recording formats are developed 
+The recording instruments are developed based on the level of the health institutions and the scope of health 
+services they deliver Health posts in agrarian areas use a family folder to record health services that they 
+provide while health centers and hospitals (including private for-profit and private for-not profit facilities) use 
+individual medical records to capture medical and health services from each individual Registers are used to 
+capture selected data elements from individual medical records that are important for reporting In order to 
+simplify report compilation, tally sheets are developed for some of the services where some of the reportable 
+data elements are directly compiled from registers Routine aggregated reports are submitted through district 
+health information software (DHIS2), which also serves as a tool for analysis to enhance data use practice 
+This manual is dedicated to detail the descriptions of revised recording and reporting tools and procedures, 
+excluding the tools used at health posts that will be addressed separately Therefore, all health workers at 
+health facilities (Health centers, Hospitals, and private health facilities) and administrative health units (WoHOs, 
+ZHDs, RHBs, MOH) will use this manual in the implementation of the revised HMIS indicators and tools 
+Given the very dynamic nature of the health system, this manual will be updated whenever changes made to 
+HMIS indicators; recording and reporting tools and procedures The manual is organized into four chapters: 
+Chapter 1: Overview of Health System and Health Information Systems: provide information about 
+the basic concepts of health information system (HIS), and Health Management Information system 
+(HMIS) in the Ethiopian context
+Chapter 2. Individual Medical Recording tools and its procedures: Describes the individual recording 
+tools and basic procedures to be followed in using the forms 
+Chapter 3: Registers and tally sheets and their completing procedures: Provides a detailed 
+description of all HMIS registers and tally sheets and their recording procedures
+Chapter 4: Reporting tools and Procedures: Provides description of the reporting formats, reporting 
+channel, period, and reporting hierarchy 
+ Annexes: This includes different forms that are described in the previous sections 
+
+Overview of Health System and 
+Health Information Systems: 
+Basic Concept
+CHAPTER 1
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+1
+CHAPTER 1: OVERVIEW OF HEALTH SYSTEM AND HEALTH 
+INFORMATION SYSTEMS: BASIC CONCEPT
+Health System 
+A health system consists of all organizations, people, and actions whose primary intent is to promote, restore 
+or maintain health This includes efforts to influence determinants of health as well as more direct health-
+improving activities A health system is, therefore, more than the pyramid of publicly owned facilities that 
+deliver personal health services (WHO, 2007) Health systems have a responsibility not just to improve people’s 
+health but also to protect them against the financial cost of illness and to treat them with dignity (WHO, 2000) 
+It has three fundamental objectives 
+• Improving the health of the population
+• Responding to people’s expectations (Responsiveness)
+• Providing financial protection against the costs of ill-health (Risk Protection)
+A health system has six components/building blocks These include service delivery, health workforce, health 
+financing, health information system, medical products, and governance & leadership (See figure 1 below) 
+The health system framework below shows the six building blocks of a well-functioning health system and the 
+impact that it intends to bring (Responsiveness, Risk Protection, and Improved health) A Health Information 
+system is a cross-cutting component that helps us to measure the performance of the other components of a 
+health system 
+ 
+Figure 1: Building blocks of a well-functioning health system (From WHO)
+The Ethiopian health service delivery is structured into three tiers providing primary-, secondary-, and 
+tertiary-level health care (Figure 2) 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+2
+Figure 2: Ethiopian Health Tier System 
+Health Information System (HIS)
+Health Information System (HIS) refers to any system that captures, stores, manages, or transmits information 
+related to the health of individuals or the activities of organizations, which will improve health care management 
+decisions at all levels of the health system It is used to avail and use timely information on health determinants, 
+health systems performance, and health status
+Information is crucial to inform on the performance of the health system and about health challenges HIS is 
+required for timely intelligence on the other building blocks of the health system:
+• Progress in meeting health challenges and objectives
+• Health financing, through National Health Accounts (NHAs) and analysis of financial catastrophes 
+and of financial and other barriers to health services for the poor/vulnerable
+• Trends and needs for human resource for health (HRH); on the consumption of and access to 
+pharmaceuticals; on appropriateness and cost of technology; on distribution and adequacy of 
+infrastructure
+• Access to care and on the quality of services provided
+Components of Health Information System 
+A health information system has different components, which include health information system, resources, 
+indicators, data sources, data management, information products, and dissemination and use The six 
+components of a health information system are the following 
+1 Health information system resources: these include the legislative, regulatory, and planning frameworks 
+required to ensure a fully functioning health information system, and the resources that are prerequisites 
+for the system to be functional The resources include personnel, financing, logistics, information and 
+communications technology, and coordinating mechanisms within and between the six components 
+2 Indicators: - a core set of indicators and related targets for the health information system Indicators need 
+to include determinants of health, health system inputs, outputs and outcomes, and health status 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+3
+3 Data sources: This includes population-based or facility-based sources for the health information system
+4 Data management: this covers all aspects of data handling from the collection, storage, quality assurance, 
+and flow, to processing, compilation, and analysis
+5 Information products: data must be transformed into information that will become the basis for evidence 
+and knowledge to shape health action
+6 Dissemination and use: the value of health information can be enhanced by making it readily accessible 
+to decision-makers (giving due attention to behavioral and organizational constraints) and by providing 
+incentives for information use 
+1. 3. 1. Sources of data
+Data sources for health information systems can be categorized into two These are:
+• Population-based: This includes census data, vital registration system, and population-based 
+surveys, researches, etc 
+• Institution-based: This includes institution-based data sources such as administrative records, 
+individual records, service records, etc 
+In Ethiopia, Health Information System (HIS) captures and utilizes data from different sources and managed 
+under different authorities The sources of data include the routine HMIS, population and housing census, 
+surveys including the demographic and health survey, and different researches Primarily the ministry of 
+health manages the routine HMIS where population-based information is mainly from the central statistical 
+authority (CSA) Moreover, the Ethiopian Public Health Institute (EPHI), Universities, and individuals conduct 
+various research activities 
+Data sources of the Ethiopian health system can be categorized as follows based on the above framework 
+• Community-level: Community Health Information System (CHIS), surveys, and different household 
+studies
+• Facility level Health Centers (HCs), hospitals and private health facilities: Routine HMIS report & 
+surveillance report from Public Health Emergency Management (PHEM), facility-based researches 
+and surveys
+• Woreda, Zonal and Regional levels: HMIS, Surveillance data, administrative data, surveys
+• National level: HMIS, Census, demographic and health surveys (DHS), national household surveys, 
+different national level researches, modeling, and estimates
+Health Management Information System (HMIS)
+Health Management Information System (HMIS): is the routine collection, aggregation, analysis, presentation, 
+and utilization of health and health-related data for evidence-based decisions for health workers, managers, 
+policymakers, and others It is the processing of converting data from various health components into 
+information, which enables health workers & managers, planners, policymakers, and other stakeholders to 
+make informed decisions 
+Purposes of HMIS:
+• Availing accurate, timely, and complete data to support decision making at each level of the health 
+system
+• Strengthening the use of locally generated data for evidence-based decision making 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+4
+Components of HMIS
+HMIS has two main components: information management component and use of the information for 
+evidence-based decision-making 
+1 Information management
+• Data collection: Recording of health data using individual and family folder, registers, tally, and 
+reporting formats
+• Data processing: is a process of cleaning, entering, and aggregating data 
+• Data analysis and presentation is a process of interpretation and comparison of generated 
+information in the form of sentences, tables, and graphs 
+2 Using information for management purposes
+• Problem identification: identifying problems using key indicators
+• Prioritizing problems and decision-making: Problems identified should be prioritized and decide 
+what types of actions need to be taken 
+• Action taking: Implementing the agreed action 
+• Result monitoring: assessing whether the desired result has been achieved or not 
+
+Individual Medical Recording 
+tools and its procedures 
+CHAPTER 2
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+6
+CHAPTER 2: INDIVIDUAL MEDICAL RECORDING TOOLS AND 
+PROCEDURES 
+Individual Medical Recording tools are those, which are used to record the medical and clinical information 
+of individual clients and/or patients At health center and hospital levels, each client/patient is expected to 
+have an individual record where all the services provided are recorded & kept In this section, each medical 
+recording tool and its contents are discussed in detail 
+Individual folder
+A folder is used as a pouch to contain all the medical records of each patient/client The data elements at the 
+front part of the folder include personal identification data elements (socio-demographic characteristics of 
+the individual) and should be filled by Medical Record Unit workers at the time of registration The inside part 
+of the folder contains a summary sheet to summarize the medical record of patients/clients at each visit and 
+should be filled by service providers immediately after the service is provided 
+Therefore, an integrated folder is used to integrate all medical & health service records of an individual patient 
+or client so that the holistic medical data of individuals can be accessed in one folder, whenever required 
+A sample of the information to be completed on the individual integrated folder are: 
+• The health facility name, MRN, date of registration, client name, age (preferably date of birth); 
+address, etc on the front page
+• List of Services given to the client/patient on the Summary sheet, inside the page of the folder 
+Where used: Health Center / Primary clinic / Medium clinic/ All types of specialty clinics/ All types of specialty 
+centers, and All types of Hospitals 
+Format of instrument: Paper file folder with expandable spine and fastener on the left side Registration 
+information is printed on the front, with the summary sheet on the inside front cover 
+Location in the facility: Kept in Card Room and filed by individual’s MRN When the patient receives care 
+in the facility, the folder is taken to the appropriate service room The tracer card tracks the folder’s location 
+Who maintains: 
+a Cardroom clerk/ receptionist issues the folder upon registration of a new individual, retrieves the 
+folder from the filing shelves for a registered patient returning for service, tracks its location until it 
+returns to the card room, then files it in its normal location 
+b Care providers use the instruments already in the folder or add new forms while providing service 
+At the end of service, the care provider adds any new forms to the top and makes a notation in the 
+summary sheet regarding the care provided 
+Archival procedures: National and regional regulations for retention should be observed If these regulations 
+are unknown, records may be retained in active storage for 5 years after the last visit, and retained in inactive 
+storage for 10 years after the last visit or death 
+Medical Record Number (MRN): 
+MRN is a unique number given to an individual in a health facility It is written on the front part of the folder 
+and on the summary sheet section of the folder It identifies an individual client/patient to the specific facility 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+7
+It helps to trace an individual folder during repeated visits to the facility (using the service ID card, where MRN 
+is written on it) 
+Only one MRN is assigned to one client in one health facility MRN should be a 5-digit number for a health 
+center and a 6-digit number for a hospital, e g at a health center, MRN starts with 00001, and at a hospital with 
+000001 
+Notes: 
+• An individual should obtain an individual folder to get any single service at the facility, and it should 
+be kept in the medical recording unit (MRU) with a unique individual MRN (Medical Record Number) 
+• All individual medical records, i e cards that have clinical notes, request forms, etc must be kept in 
+the integrated folder 
+• The folder is replaced by a tracer card when it is distributed out for service and rearranged with the 
+tracer card inserted in when it is back shelved Meanwhile, the respective service unit that received 
+them should sign the receipt of distributed folders When the folder returns to the reception area, the 
+tracer card must be inserted in the folder and the folder takes its position to where it was before the 
+distribution 
+• If the summary sheet becomes full, another form can be prepared and be kept in the folder 
+• The folder is preferably shelved in its spine by the sequential order of medical record numbers in the 
+MRU 
+• The folder is distributed to individual service rooms/departments based on showing up the request of 
+an individual client/patient for required service
+• No folder kept out of MRU after completion of service However, folders of admitted patients can be 
+kept in the respective department until the patient is discharged 
+Individual summary sheet
+It is available in the inside section of the folder and filled by the service provider at the time of service provision 
+Purpose:
+a Contains a summary of services received from the facility by the individual and helps to fast track an 
+individual’s service history In order to plan investigation and treat appropriately, the clinician/service 
+provider can see the details of the history inside the folder
+b Links individual and MRN to service registers 
+Where used: Health Center / Primary clinic / Medium clinic/ All types of specialty clinics/ All types of specialty 
+centers, and All types of Hospitals
+Format of instrument: Printed on the inside front cover of the individual folder, with additional sheets on pre-
+printed A4 paper added when more space is required 
+Location in the facility: Kept in individual folder 
+Who maintains: Care provider makes a notation in the summary sheet regarding the care provided at the end 
+of the service 
+Archival procedures: Same procedure as for individual folders 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+8
+Patient form/Patient card
+Purpose: Contains care provider’s clinical observations, notes, diagnosis, and HMIS disease classification for 
+every outpatient encounter and admission 
+The patient card is a free form and has three sections:
+1 Section to write a chief complaint and detailed clinical notes
+2 Section to write the main diagnosis and other diagnoses (if any) 
+3 Section to write NCoD (National Classification of Disease)/
+(Note: The main diagnosis may or may not exactly fit NCoD; however, it should be made to match into the 
+NCoD for national reporting The main diagnosis is always one disease entity; however, a patient can have 
+one or more other diagnoses for clinical management, and to be recorded in the card but not to be reported) 
+In case of death, the clinician is expected to write the cause of disease in three levels based on ESV-ICD 11 
+conventions to link the information with the ‘death notification form’ 
+Immediate /terminal cause: Write the final disease or condition resulting in death directly
+Intermediate Cause: Write the conditions that resulted from the underlying cause of death and led to the 
+immediate cause of death 
+Underlying cause: Write the disease or injury, which initiated the train of death events leading directly to 
+death, or the circumstances of the accident or violence, which produced the fatal injury This is the ‘Main 
+Diagnosis’ that should be transcribed to OPD, IPD, Emergency, and ICU registers, then to tally sheets and 
+eventually entered into DHIS2 and reported to next levels 
+Where used: Health Center / Primary clinic / Medium clinic/ All types of specialty clinics/ All types of specialty 
+centers, and All types of Hospitals
+Format of instrument: Preprinted, front and back, on heavy stock A4 
+Location in the facility: Kept in individual folder 
+Who maintains: Care providers make observations, notes, and diagnoses when care is provided 
+Archival procedures: Same procedure as for individual folders 
+Fig 1: Individual medical folder and Summary sheet
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+9
+Service ID card
+A service Identification (ID) Card is a small card, which is used as an identification for patients/clients It is 
+issued at the time of registration at the Medical Record Unit (MRU) Whenever the patient/client visits the 
+facility on subsequent visits, he/she will show the service ID card so that the MRU worker can find the folder by 
+using the MRN on the service ID card 
+Purpose: Identify individuals registered at specific health facilities The Service identification card contains 
+the Medical Record Number (MRN) and basic demographic information on the individual (Name, age, sex, 
+MRN, date of registration, address, etc ) It is the primary tool for finding an individual’s medical record using 
+the MRN 
+Where used: Health Center / Primary clinic / Medium clinic/ All types of specialty clinics/ All types of specialty 
+centers, and All types of Hospitals
+Format of instrument: Preprinted, front and back, on heavy stock, approximately 1/8 A4 size 
+Location in a facility: Client/patient keeps the card 
+Who maintains: Card room clerk/ receptionist issue the service identification card when the individual first 
+registers at a clinic 
+Archival procedures: None needed 
+Fig. 2: Service Identification Card
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+10
+Appointment card
+This is a small card, which is used to remind for services that require appointments (Example: For FP, ANC, 
+ART, TB patients. . . ) It should be made available in service departments, which provide appointments It is 
+completed/filled by service providers and is provided to patients/clients who are given an appointment for 
+another service 
+Purpose: Remind individuals of the next appointment at the facility The same card is used by all services at 
+the facility 
+Where used: Health Center / Primary clinic / Medium clinic/ All types of specialty clinics/ All types of specialty 
+centers, and All types of Hospitals
+Format of instrument: Preprinted, front and back, on heavy stock, approximately 1/8 A4 size The front side 
+identifies the patient; the reverse includes space for 9 appointments 
+Location in the facility: Client/patient keeps the card 
+Who maintains: Service provider completes the date and service for the appointment and issues a new 
+appointment card as required 
+Archival procedures: None needed 
+Master Patient Card
+It is a small card, which is used to retrieve patient folders when MRN is unknown (if the service ID is lost) A file 
+box (MPI box) should be prepared in a way that can accommodate all the English alphabets, so that a name, 
+which starts with each letter, can be put together It is placed in MRD (in file box) and it is archived based on 
+English alphabetical order
+The Electronic Medical Record-Medical Record Unit (EMR-MRU) electronic system can simplify the arduous 
+MPI archiving system In facilities where electronic systems are implemented, manual MPI archiving will not be 
+necessary EMR-MRU Module is an electronic system, which is used in MRUs to register and retrieve patients’ 
+folders using computers 
+Purpose: Card index of all individuals registered at the facility, ordered by patient name The index links 
+an individual’s name with their MRN This index supports retrieval of an individual’s file when their MRN is 
+unknown 
+Where used: Health Center / Medium clinic / All types of specialty clinics/ All types of specialty centers, and All 
+types of Hospitals
+Format of instrument: Preprinted, front and back, on heavy stock, approximately ¼ of A4 size 
+Location in the facility: Kept in a file box in the card room 
+Who maintains: The card room clerk fills the MPI card when the individual registers for the first time The 
+cardroom clerk is responsible for maintaining the index 
+Archival procedures: An individual’s card should not be removed from the MPI If an individual’s folder is 
+moved to inactive storage, the card should be moved to an inactive MPI 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+11
+Fig. 3: Master Patient Card
+Tracer Card
+This is an A4 size card, which helps us to track the folder when it is not in the MRU It is assigned during the first 
+registration at the MRU, immediately after a folder is issued The folder must always be replaced by its tracer 
+card when it is distributed out to service units It should be signed by the folder receiving unit When the folder 
+is returned back to the MRU, the tracer card should be replaced by the folder, and it is reinserted in the folder 
+Where used: Health Center / Medium clinic / All types of specialty clinics/ All types of specialty centers, and All 
+types of Hospitals
+Format of instrument: Preprinted, front and back, on heavy A4 stock 
+Location in a facility: Kept in the individual folder when the folder is filed on card room shelf; replaces folder 
+on card room shelf when the individual folder is moved 
+Who maintains: The card room clerk maintains the tracer card by recording the location of the folder 
+Archival procedures: The tracer card replaces the individual folder on the card room shelf when the folder is 
+moved to inactive storage
+Other individual medical Records
+There are different types of individual medical recording tools other than the above-mentioned ones that are 
+used for different services These clinical and service records are handwritten on different forms by health 
+professionals and administrative staff, and they are kept together and are put into the client’s integrated 
+medical record folder Though detailed description given with the registers corresponding to it, some of the 
+basic sets of forms in the patient’s medical record folder include: 
+Integrated ANC, delivery, Postnatal, and neonatal Card: This card is used to document services like 
+pregnancy follow-up, labor and delivery, and postnatal services 
+Woman’s Card: This card is used to document the data for services of Family planning, tetanus toxoid 
+vaccination, and abortion care service 
+Clinical Progress Notes: This is a blank sheet used to review and document the progress of an already 
+examined patient who is kept in a certain unit 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+12
+Clinical Procedures: Used to document different clinical procedures that are carried out in the different 
+clinical service units 
+Follow-up Card: This is used when an individual’s health status is documented on a periodic basis for a 
+follow-up of a certain chronic illness E g HIV/AIDS
+Consent Forms: This is a form signed by the patient or a relative when authorization is needed to carry out a 
+certain clinical task 
+Operation Notes: a sheet of paper is used to document detailed procedure notes by the clinician who has 
+carried out the operation 
+Laboratory Results: are collections of investigation results that are sent back to the requesting client Should 
+be attached to an individual’s medical record 
+Radiology Reports: a series of body images sent back to the requesting unit after the images are read and 
+commented on by radiologists 
+Pathology Report: different specialized reports are also reported from other units including the pathology 
+unit 
+Admission Card: lists services that will be offered for the patient and also terms of agreements for service 
+utilization set by the facility on admission 
+Admission Notes: records of presenting symptoms, examination, notes, proposed care, and follow-up 
+summaries 
+Follow-up Chart: This is usually part of the record of an admitted patient where certain elements of hourly/
+daily progress are documented 
+Medication chart: is used to record the daily medication given to a patient after admission. Discharge Summary: This is the summary of all records documented when an admitted patient is sent out 
+from the healthcare institution
+Death Summary: patient’s health records are reviewed and documented for various purposes if the patient 
+dies while admitted 
+Other forms: forms that are not listed above but may be used during clinical contact
+MDR-TB Treatment card
+Purpose: A record of the MDR-TB patients on personnel information, treatment supporter, drug sensitivity test 
+(DST), x-ray, smear and culture result, a medical diagnosis other than TB, contact investigation, treatment and 
+treatment outcome, during treatment and drug administration monitoring 
+Where used: Health Center, all types of Hospitals, and if permitted to provide the special service any clinic or 
+center
+Format of instrument: Preprinted on standard A3 paper folded into two 
+Location in the facility: kept in an integrated individual folder 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+13
+Who maintains: Service provider completes the information required by the register as service is provided 
+Archival procedures: Same procedure as for individual folders 
+Leprosy patient record card
+Purpose: A record of leprosy patients on personnel information, history, medical condition (skin, nerve, eye, 
+muscle), level of disability, and review at the completion of treatment 
+Where used: Health Center, all types of Hospitals, and if permitted to provide the special service any clinic or 
+center
+Format of instrument: Preprinted on standard A4 paper 
+Location in the facility: kept in an integrated individual folder 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Archival procedures: Same procedure as for individual folders 
+VMT/ST for monitoring of nerve function card
+Purpose: A record of leprosy patients on medical conditions (skin, nerve, eye, muscle) every month 
+Where used: Health Center, all types of Hospitals, and if permitted to provide the special service any clinic or 
+center
+Format of instrument: Preprinted on standard A4 paper 
+Location in the facility: kept in an integrated individual folder 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Archival procedures: Same procedure as for individual folders 
+HIV care/ART clinic intake form
+Purpose: A record of new HIV positive individual basic demographic information, referral information, and 
+family members HIV status at enrollment and follow-up visit 
+Where used: Health Center, all types of Hospitals, and if permitted to provide the special service any clinic or 
+center
+Format of instrument: Preprinted on standard A4 paper 
+Location in the facility: kept in an integrated individual fold 
+Who maintains: Service provider completes the information required during enrollment to HIV care and 
+treatment 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+14
+Individual medical recording procedures (Medical Records Unit Procedures)
+There are several chains of procedures in place to register clients/patients, record keeping, and retrieving 
+records for services whenever required The following are the common procedures that should be carried out 
+to ensure individual records’ safety, easy access, confidentiality, and safe time in document management 
+1 Patient Identification and registration Procedure
+2 Medical Record Numbering and Indexing Procedure
+3 Medical Record Filing Procedure
+4 Medical Record Retrieval and Tracking Procedures
+5 Patient Scheduling Procedure
+6 Discharge Procedure
+7 Maintenance Procedure
+8 Culling Procedure
+Patient Identification and registration Procedure
+When a client/ patient arrives at a facility, he/she first stops at the Registration point of MRU The first step is 
+the patient identification and registration procedure, which is an important part of a patient’s medical record 
+It should include enough information to uniquely identify an individual patient/client The information is 
+obtained from the patient, if possible, or otherwise from the person accompanying the patient to the hospital 
+or Health Centre 
+The patient identification data that is collected during the patient registration process is also used to fill the 
+Master Patient Index (MPI) The patient identification data may be entered into a computerized database, or 
+manually typed onto a registration form 
+i. Medical record numbering and Indexing Procedure
+After collecting the correct patient identification information, the next step is assigning a unique individual 
+identifier, i e , Medical Record Number (MRN), and then completing the master patient index (MPI) 
+Medical Record Number (MRN) and numbering procedure
+The most important functions of the MRU are the numbering and filing of medical records The best way to 
+manage the large number of records that facilities might have is to use a numbering system 
+MRN is a permanent and unique identification number assigned in a straight numerical sequence This number 
+is used to identify individuals and to file the medical records in the MRU Thus, it is important to make sure that 
+the number is correctly assigned and recorded on all forms in the patient’s medical record 
+The medical record numbering system is how we give a number to individual medical records and the Filing 
+system is how we file the record after a number has been given 
+In a numbering system, each patient has a unique identification number which becomes the medical record 
+number In some facilities, a computer is used to generate numbers in sequence to use as a medical record 
+number 
+The number of digits for MRN is based on an individual health facility catchment population i e at least 5 digits 
+and 6 digits in health centers and hospitals respectively
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+15
+An example of a medical record number would be as follows: MR# 000106 This record number is unique; it 
+would not be given to anyone else, and each time this patient comes to the health facility, all forms would use 
+this number and the documents would be filed in MR#/Chart folder number #000106 When this patient arrives 
+at the facility, the registration clerk will verify the name and medical record number of the patient and locate 
+the record to begin the patient visit The record is then delivered to the area where the patient will be seen 
+• If the patient has been registered previously, the MRU clerk must look for and find the old number from 
+the service ID card of the individual or from the MASTER PATIENT INDEX, if the service ID is lost 
+• MRN should belong to the patient for the rest of his or her life and should never be given to another 
+patient Even if a patient has died, the number should NOT be given to another patient 
+• If an error has occurred and a patient is found to have two medical record numbers/two medical 
+records, the DUPLICATE number should be canceled and NOT used again The medical records should 
+be combined into the FIRST number/medical record A cross-reference must be made to the duplicated 
+number and medical record 
+ii. The Master Patient Index (MPI) Card and indexing procedure 
+Master patient index (MPI) is an A5-sized card meant to index client records in alphabetical order The card is 
+used to trace a client record when he/she appears to have lost service ID/MRN in order to not deny the right of 
+sought service 
+All new patients should have a master patient index (MPI) card filled out with their identifying information and 
+a medical record number on arrival to the MRU It is important that each patient have an MPI card In order to 
+minimize errors, the MPI should be completed by the same person who recorded the information in the folder 
+MPI cards should be filed in a card drawer in strict alphabetical order Each drawer should contain guides, 
+which are empty cards with a tab protruding above the other MPI cards 
+The master patient index (MPI) is prepared by MRU clerks In paper-based systems, it is a card index It can also 
+be computerized to facilitate and enable fast searching MPI cards are small-sized, stock cards like hard papers 
+which contain only the information necessary to identify the patient MPI cards also contain the patient’s 
+medical record number They should not contain any medical information 
+If patients/clients know their medical record number/have their service ID card, it can be used to find the 
+patient’s medical record If MRN is not known, Patients/clients should be asked about their identification 
+information, which can be used to find their MPI card The medical record number from the MPI card can then 
+be used to find the patient’s medical record in the MRU 
+iii. Cross-Referencing
+There are situations where the patient’s identification might be changed, for instance, the name/father’s name 
+is changed In such cases, the medical record unit should apply cross-referencing 
+Cross-referencing is the method of linking one MPI record with another MPI record This is usually done in 
+cases in which the patient has changed their name, or when there are two medical record numbers (i e two 
+medical record folders) for one patient In cases of a name change, the new MPI card should possess the same 
+information as the previous card except that the name is changed One has to make sure that the medical 
+record number remains the same In cases of duplicate medical record numbers, one number should be 
+chosen and a note made on the other MPI card referring searchers to the chosen number The medical records 
+contained in the folders should be combined In both cases, the MPI cards (either with an old name or an old 
+medical record number) should not be discarded 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+16
+Medical Record Filing Procedures
+Filing is a method of storing medical records in a systematic manner There are many accepted methods for 
+filing medical records ranging from the simple to the complex The type of system selected is based on facility-
+specific factors such as the volume of filing, admissions, discharges, requests for records, filing space, storage 
+(open shelf filing vs filing cabinets) and security concerns, and also a good understanding of the predicted 
+number of patients that could come to get service in the healthcare institution 
+Medical records, which are too big to easily file, should be separated into two or more volumes and clearly 
+marked as VOL 1, VOL 2, etc , and filed together in the correct place When filing medical records folders, which 
+are torn or damaged, should be replaced and any loose forms secure 
+All medical records should be filed as soon as possible when returned to the MRU or completed following 
+the discharge of the patient At the end of every day, there should be no medical records waiting for filing; all 
+completed and returned medical records should be filed 
+Regular checks should be in place to check the file for missing medical records or medical records filed in the 
+wrong place To check for a misplaced file the staff should:
+• Look for the transposition of digits in a number
+• Check the medical record just before and just after the one needed 
+• Check the shelf immediately above/below where the record should be filed 
+There are different types of filing that include alphabetical filing (not at all recommended), straight numeric 
+filing, and terminal digit filing Straight numeric filing is the best filing method in most resource-limited setups 
+like in the Ethiopian context and is currently used in all health facilities In this method medical records are 
+filed in strict order according to the medical record number (MRN), starting with the lowest number and ending 
+with the highest number Medical records for new patients are always added at the end of the file With this 
+method of filing the training time for staff is short as it is generally easy to train medical record staff to fill in 
+straight numeric order With the straight numeric filing, it is a good idea to have one medical record clerk 
+responsible for the filing procedure (depending on the volume of work) If there are too many files for one 
+person it could be shared between the clerks 
+Medical Record Retrieval and Tracking Procedures
+It is very important that standard procedures be followed while searching for and retrieving medical records 
+Policies and procedures exist to facilitate the prompt, uniform, and efficient retrieval of all health records 
+These policies and procedures also ensure that confidentiality is maintained and only authorized persons 
+perform retrieval 
+The retrieval system has been designed and should be implemented to 
+• Ensure the safety, security, and accuracy of health records and resident –identifiable data
+• Keep track of locations and holders of records removed from folders
+• Follow-up at appropriate intervals on the return of records and data, and
+• Identify health records and data to be converted to an alternative medium and moved to inactive 
+storage 
+Assuming patients come with their service card, the clerks should follow these steps in order to retrieve the 
+medical record 
+1 Collect the service cards 
+2 If the client does not bring a Service card, ask the client’s name, access the patient’s profile from 
+the MPI, and determine the medical record number 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+17
+3 Locate the medical record using the information obtained from the Service card or MPI/EMR-MRU 
+module using a computer
+4 Remove the medical record from the shelf & replace it with its tracer card 
+Every facility should have a process in place until the retrieval of records in case of an emergency Since evening 
+and night shift, staff may not be available in some health facilities; alternate arrangements may be required for 
+duty staff to be able to access medical records One solution is for a set of keys to the MRU to be made available 
+to after-hours duty staff These staff must also be trained in retrieval, the sign-out process, and other relevant 
+procedures; and this training must be documented Department procedures should track who has keys to the 
+department 
+Tracer cards are extremely important as they enable medical records to be traced when they are not in the 
+MRU The tracer card is usually the same size or slightly larger than the medical record, on which should be 
+written: patient’s name, patient’s MRN, where the medical record is going (department/responsible healthcare 
+provider) and the date the record was removed from the file 
+On the return of the medical record to the MRU, the tracer card is placed inside the medical record folder It can 
+also be a printed card with the information recorded in the space provided The next section is then used until 
+the tracer is full and then discarded Using the tracer makes it easier to find a medical record when it is not on 
+file Regardless of what size the card is, the destination of the medical record should always be written on the 
+tracer card and crossed out when the medical record returns 
+Patient Scheduling Procedures
+The best way to manage the patient flow health center or hospital is to maintain an appointment list of patients 
+who are returning for visits on certain days Each area that sees patients should record on an appointment 
+list or in the patient record when the patient is scheduled to return to the clinic for treatment, and issue an 
+appointment card 
+The appointment card is used to remind patients of their next appointment at the health facility It is similar 
+in size to the service ID card The front side contains identifying information and the reverse includes space for 
+9 appointments Service providers should complete the date and service for future appointments as needed 
+The medical record clerks can then retrieve the records in advance of the patient appointment and route the 
+records to the correct area for the patient’s visit Once the patient checks in at registration, they can go directly 
+to the area where they will be treated When pulling the records for the advance appointments, the clerk must 
+fill out a Tracer Card for each chart that is pulled indicating the date and location where the chart will be 
+sent After the patient has been seen, the records are returned to the MRU If the patient has more than one 
+appointment, this should be noted on the Tracer Card and the treatment areas should be sure to forward the 
+chart to other areas for the doctors or nurses to use to see the patient
+Admission/Discharge procedure
+If the patient is admitted - the nurse adds data relating to the nursing care plan and doctors record their notes 
+on a patient’s: past medical history, family medical history, history of present illness, physical examination, 
+plan for treatment, and requests for laboratory/X-ray tests The doctor and nurses continue to record, on a 
+daily basis, writing notes on the patient’s progress, medical findings, treatment (including prescriptions for 
+medication), test results, and the general condition of the patient Nurses record all observations, medications 
+administered, treatment, and other services rendered by them to the patient Other health professionals 
+record their findings and treatment as required during the patient’s hospitalization 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+18
+At discharge - when the patient is discharged, the doctor records, at the end of the progress notes, the 
+condition of the patient at discharge, the prognosis, treatment, and whether the patient has to return for 
+follow-up In addition, the doctor should also write a discharge summary, and write, on the front sheet of the 
+record, the principal diagnosis, other diagnoses, and operative procedures performed, and sign the front sheet 
+to indicate responsibility for the information recorded under his signature 
+Maintenance procedure
+Even with the best preventative systems in place, medical records can be inadvertently lost, destroyed, or 
+stolen To limit or minimize the harm, systems must be in place and enforced which protect the records One of 
+the most physical security measures that must be in place is a record sign-out and sign-in system for all types 
+of medical records Clerks should monitor the sign-out process and assure that records are returned promptly 
+Inside each MRD storage room, all medical records and documents must be secure and protected from 
+unauthorized access If multiple staff access to the store items, the records and documents must be in a 
+separate locked area with access by selected staff The storage building must protect records from the elements 
+such as moisture and rodents The storage area must be organized to facilitate the location and retrieval of 
+information 
+Culling procedure
+This is the removal of medical records, which have not been used for a specified number of years, from the 
+active record filing room The facility should define a specific retention policy for different types of records 
+based on national law and professional practice standards The policy should be organized and storage boxes 
+labeled with the content and year of documents 
+The year of attendance should be manually searched from the medical records summary sheet through the 
+filling shelves This is used to indicate whether the medical record is active or inactive An active MR is a record 
+where the patient has not attended the facility for a specific number of years, five years for Ethiopia 
+The aim of culling is to remove INACTIVE medical records from files to make more filing space The culled 
+records can then be stored in secondary storage or destroyed Culling should be done every year Once 
+authorization is obtained to destroy medical records, acceptable methods of destruction should be used and 
+records must be destroyed in a manner that makes it impossible to reconstruct and read the information 
+Records cannot be sold or disposed of in the garbage containers without some type of shredding or obliteration 
+Acceptable methods used today include shredding or incineration It is recommended that a facility maintain 
+documentation of the records/ documents that are destroyed and the date information destroyed 
+The master patient index cards and destruction logs containing basic demographic information should be 
+retained on a permanent basis 
+Despite the actual difference in workload at health centers and health care facilities, these tasks are common 
+to all and carried out every day In order to carry out these activities, the departments should be well stuffed, 
+and resourceful 
+Medical records should be kept by the healthcare facility as long as required under the statute of limitations 
+(retention for legal requirements) or the country’s record retention regulation before determining a retention 
+regulation 
+Therefore, National and regional regulations for retention should be observed to archive medical records If 
+these regulations are unknown, records are retained in active storage for 5 years after the last visit and retained 
+in inactive storage for 10 years after the last visit or death 
+
+Registers & tally sheets and 
+completion procedures
+CHAPTER 3
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+20
+CHAPTER 3: REGISTERS & TALLY SHEETS AND COMPLETION 
+PROCEDURES
+A register is a form/tool that is used to record the abstract information from each service/ department Every 
+register has columns & rows Each row contains information for one patient where the column contains 
+information about that patient/client, and one piece of information per column is available The register 
+contains reportable and non-reportable data elements and is the data source for the computation of HMIS 
+indicators Most registers have a tally sheet, where those registers that do not have a tally have a box underneath 
+each page for reportable data elements 
+There are two types of registers classified based on the duration that the client/patient stays in the register or 
+repetitive service given in a single row 
+• Serial (Case) Registers: Each subsequent visit is registered as a new entry E g OPD, VCT, Abortion 
+registers, etc
+• Longitudinal Registers: Each client stays in the register so long as s/he is in the service E g EPI, ANC, 
+FP, ART, TB, etc
+All registers have some common elements/features, which include:
+i. Identification:
+• Registration/Serial Number
+• Medical Record Number (MRN)
+• Name: clients’ full name
+• Age: age in years/ in months
+• Sex: M for Male and F for Female
+ii. Address: Region, Woreda, Kebele, Gott, and House number
+iii. Date: All dates are written in the EC as Date/Month/Year (DD/MM/YY)
+iv. Instruction: All registers have instructions on how each column is filled and health workers have 
+to refer to it before filling the registers 
+Tally sheets
+Tally Sheet: is a piece of paper that is used to mark the number of clients that use specific services The main 
+purpose of the tally sheet is to simplify reporting In tallying, each stroke represents a single unit to be counted 
+in service; client/patient, dose, and others The tally sheet is also used in data quality checks as triangulation 
+with other recording tools Example: Immunization tally, HTS tally, etc 
+Archival procedures for registers and Tally sheets: National and regional regulations for retention should be 
+observed If these regulations are unknown, registers and tally sheets are retained in active storage for 2 years 
+after the last entry in the register and retained in inactive storage for 7 years after the last entry in the register 
+except for ART registers that should be retained for more years, not determined yet) 
+All registers and tally sheets are described as follows under each program area 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+21
+Reproductive, Maternal Newborn and Child Health 
+Maternal Health
+Antenatal Care (ANC) Register
+Purpose: The register is longitudinal and used to record antenatal care services provided to a client during a 
+single pregnancy This record follows the protocol of antenatal care for eight contacts and more during the 
+current pregnancy The first contact is recommended to be single contact in the first trimester, two contacts 
+in the second trimester (at 20 and 26 weeks of gestation) and five contacts in the third trimester (at 30, 34, 36, 
+38, and 40 weeks) The table below describes the schedule of contacts 
+ContactsGestational age of contact in weeksAppointment schedule
+ First Trimester 
+1st Up to 12 After 8 weeks
+ Second trimester 
+2nd 20After 6 weeks 
+3rd26After 4 weeks
+ Third trimester 
+4th 30After 4 weeks
+5th 34After 2 weeks
+6th 36After 2 weeks
+7th 38After 2 weeks
+8th40
+It is also used to record HIV assessment and follow-up, partner tests, and different counseling including care 
+for child development 
+Where used: Health Center / Medium clinic / Obs-Gyn specialty clinic, MCH specialty center, and all types of 
+Hospitals
+Format of instrument: Preprinted on standard A3 paper On this register, a single client entry spans one page
+Location in the facility: ANC service room 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Data recording process on the register: 
+A Reproductive Health card (RH card) is a primary data source for the ANC register Each client who received ANC 
+service should be recorded in both the RH card and the ANC register using a single row and tallied immediately 
+using the ANC Tally sheet Please refer to the instructions in the register for details 
+When the client visits at different times, the service provider should use the same entry of the register and 
+record different visits on it 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+22
+Data compilation procedures:
+The reportable data elements from the register are described in the table below 
+S. NReportable data elementDisaggregationFrequency
+Level of 
+Reporting
+1No of pregnant women that received ANC first visit Age, GA
+Monthly
+HP, HC, 
+clinic, 
+Hospital
+2No of pregnant women that received four ANC visits Age, GA 
+3No of pregnant women that received Eight ANC visits None
+4No of pregnant women tested for syphilisTest result
+Monthly
+HC, clinic, Hospital
+5No of reactive pregnant women treated for syphilisNone
+6No of pregnant women tested for hepatitis Test result
+7Total number of reactive pregnant mother treated for hepatitisNone
+8Number of dewormed Pregnant mothers in the reporting periodNone
+9
+Number of pregnant women tested for HIV and know their result during 
+pregnancy
+None
+10Number of new Positive women’s during ANCNone
+11Total Number of partners of pregnant tested and know their results None
+Some of the reportable data elements are compiled directly from ANC tally sheets where others are directly 
+collected from the register, which is summarized in the box at the bottom of each page of the ANC register 
+ANC tally sheet
+ANC tally sheet is used to capture ANC reportable data elements from the ANC register The provider should 
+tally immediately after service is provided, and the data elements are counted up and compiled at the end of the 
+reporting period. The Tally is kept with a register until the whole pad is utilized and then moved to an archive 
+maintained by HMIS in charge. Frequency of reporting: These data elements should be reported monthly
+Delivery Register
+Purpose: the register is a case/serial register and used to record intrapartum care provided to a client during 
+a single delivery It is used to capture data on labor, delivery and maternal outcome, maternal condition, and 
+obstetric complications, newborn birth outcome, newborn problem identified treatment and its outcome, 
+preventive services for newborn & mother for HIV+ care, and IPPFP provided 
+Where used: Health Center / Medium clinic / Obs-Gyn specialty clinic, MCH specialty center, and all types of 
+Hospitals
+Format of instrument: Preprinted on standard A3 paper The entry for a single client spans two pages 
+Location in the facility: Delivery room 
+Who maintains: Service provider completes the information required by the register as service is provided 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+23
+Data recording process on the register: 
+Each client for single delivery care should be recorded in the delivery register using a single row This may 
+be done based on the information on the reproductive health card(Integrated Antenatal, Labor, Delivery, 
+Newborn, and Postnatal Care Card) Please refer to the instructions in the register for details 
+Data compilation procedures:
+The reportable data elements from Delivery register are the following: 
+S. NoReportable data elementDisaggregationFrequency
+Level of 
+Reporting
+1No of births attended by skilled Health personnelNone
+Monthly
+HC, clinic, Hosp
+2No of deliveries by cesarean section None
+3
+No of women who received uterotonics with in one minute after 
+delivery, 
+by Oxytocin, 
+Mesoprostol, 
+Ergometrin, others
+4No of institutional maternal deaths None
+5Number of live births None
+Monthly
+HP, HC, clinic, Hosp
+6Number of still births None
+7Total number of newborns weighed None
+8No of newborns whose weight is less than 2500gmsNone
+9No of newborns whose weight is less than 2000gmsNone
+10Number of newborns who received Chlorhexidine (CHX)None
+11Number of newborn with sepsis/VSDNone
+Monthly
+HC, Clinic, Hosp
+ 
+12Number of early neonatal deathsNone
+13Number of women who received HIV testAge
+14Total IPPFP acceptorsAge & Method
+15Total number of neonates resuscitatedNone
+16No of women who tested HIV positiveAge
+Monthly
+HP, HC, 
+clinic, 
+Hosp
+ 
+17Number of neonates treated for birth asphyxia & survivedNone
+18Number of birth notified None 
+How to count the reportable data elements 
+At the bottom of the delivery register, you will find boxes, which are used to enter the count of reportable 
+data elements on the two pages of the register:
+The left side of the Register: count of deliveries, Caesarean sections, live births, stillbirths, number of newborn 
+weights recorded, number of newborns weighing < 2500 grams, Chlorohexidine, number of maternal deaths 
+(during delivery), number of newborn deaths, and others 
+The right side of the Register: Count of sepsis cases, resuscitated, resuscitated and survived, and others 
+These data elements are summed up from each page and reported at the end of the month 
+Frequency of reporting: These data elements should be reported monthly 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+24
+Postnatal Care Register
+Purpose: The register is a case/serial register and is used to record information about postnatal care provided 
+to a client after all delivery services are completed Care provided as part of delivery service is recorded in the 
+delivery register, not in the postnatal register The information it captures include data on PNC Visits, maternal 
+health condition, and complication, HIV assessment & partner testing, counseling given on newborn, newborn 
+problem identified, treatment and its outcome, and IPPFP methods provided 
+Where used: Health Center / Medium clinic / Obs-Gyn specialty clinic, MCH specialty center, and all types of 
+Hospitals
+Format of instrument: Preprinted on standard A3 paper On this register, a single client spans one page 
+Location in the facility: Postnatal care room 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Data recording process on the register: 
+Each client who received PNC care should be recorded in the PNC register using a single row PNC related data 
+is primarily recorded in the RH card and transferred to the PNC register beside the data that is directly recorded 
+in the register 
+Please refer to the instructions in the register for details 
+Data compilation procedures
+Reportable data elements from the PNC register
+The following are the reportable data elements from the PNC register 
+S. NReportable data elementDisaggregationFrequency
+Level of 
+Reporting
+1Number of postnatal visits within 7 days of delivery Period
+Monthly
+HC, clinic, Hosp
+2Number of institutional maternal deathNone
+3Number of women with PPH complication 
+Place of Delivery (home/
+Facility)
+4
+Number of pregnant women who were tested for HIV and who 
+know their results during post-partum period 
+None 
+5Total IPPFP acceptorsAge & Method
+6
+Number of sick young infants 0-2 months treated for Critical 
+illness 
+By disease type:- Very 
+sever Disease, Local 
+bacterial infection ( LBI) 
+Pneumonia
+7Number of women tested positive for HIVNone
+Monthly
+HP, HC, clinic, Hosp
+8
+Number of neonatal deaths in the first 24 hours of life/
+institutional/
+By period 
+9
+Number of Newborn weighing <2000gm and premature 
+newborns for which KMC initiated
+None
+10Number of neonates treated for birth asphyxia & survivedNone
+11Number of births notifiedNone
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+25
+How to count the reportable data element 
+At the bottom of the PNC register, you will find boxes, which are used to enter the count of postnatal care for 
+women who seek care after delivery services are complete 
+• Count the number of postnatal visits within 7 days of delivery and write the corresponding figure by the 
+period in the box Similarly, all reportable data elements should be counted and summed up from each 
+page and reported at the end of the month 
+PMTCT Register 
+Purpose: The register is a longitudinal register and is used to record information about the PMTCT service 
+provided to a client during a single pregnancy It captures data on PMTCT related to pregnancy, labor and 
+delivery, postnatal care, HIV and TB screening, HEI of DNA/ PCR results, AB test result, maternal viral load 
+status, cohort follow up for mother and HEI PMTCT cohort 
+Where used: Health Center / Medium clinic / Obs-Gyn specialty clinic, MCH specialty center, and all types of 
+Hospitals
+Format of instrument: Preprinted on standard A3 paper The entry for a single client spans two pages 
+Location in the facility: ANC, Delivery & ART service room 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Data recording process on the register: 
+Each client who received PMTCT service should be recorded in the PMTCT register using a single row and 
+tallied immediately using the PMTCT tally sheet Please refer to the instructions in the register for details 
+When the client visits at different times, the service provider should use the same register and record different 
+visits for cohort follow-up for mother and HEI PMTCT cohort 
+Data compilation procedures: 
+Reportable data elements from the PMTCT register are reported monthly from Health Centers/Clinics/Hospitals 
+and the detail are indicated in the table below 
+S. NReportable data elementDisagg. Tally sheet
+1No of HIV positive pregnant women who received ART during ANC for the first time none
+PMTCT Tally
+2No of HIV positive Pregnant women who received ART during L&D for the first time none
+3No of HIV positive Pregnant women who received ART during PNC for the first time none
+4No of HIV-positive women who get pregnant while on ART and linked to ANCNone
+5 No of HIV exposed infants who received Virological HIV test 0- 2 months of birthTest Result
+6No of HIV exposed infants who received an Virological HIV test 2-12 months of birth Test Result
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+26
+7
+No of infants born to HIV positive women started on co-trimoxazole prophylaxis within 
+two months of birth 
+None
+PMTCT Tally
+8No of HIV exposed infants who received ARV prophylaxis None
+9No of HIV exposed infants receiving HIV confirmatory (antibody test) by 18 monthsTest Result
+10
+No of partners of pregnant, laboring and lactating women tested and know their 
+results
+HIV posi-
+tive
+11Number of adults who are currently on ART
+Age, regi-
+men type
+PMTCT Tally
+12
+Number of PLHIV on ART documented as Lost/lost to follow up during the reporting 
+period 
+none
+13Number of adults and children with HIV infection newly started on ART
+Age, 
+Pregnancy 
+Status,
+14
+Number of adults and children who are still on treatment at 12 months after initiating 
+ART
+15
+Number of persons on ART in the original cohort including those transferred in, minus 
+those transferred out (net current cohort) 
+Age, 
+Pregnancy 
+Status
+PMTCT Tally
+ 
+16
+Total number of adult and pediatric ART patients with an undetectable viral load 
+<1000copies/ml in the reporting period
+17
+Number of adult and pediatric ART patients with a viral load test in the reporting 
+period 
+18Number of PLHIV who were assessed/screened for malnutrition 
+19
+Number of PLHIV that were nutritionally assessed and found to be clinically undernour-
+ished
+Age, Preg-
+nancy, 
+nutritional 
+status
+PMTCT Tally20Number of clients who were on ART and screened for TB during the reporting period 
+21Number of PLHIV women who are using modern family planning
+Age & 
+Method
+How to count the reportable data element Left side of the Register: At the bottom of the left side of the 
+register, you will find boxes, which are used to record the count of the number of partners tested, and the 
+number of partners +ve 
+The right side of the register: Count and write the total number of maternal and HEI PMTCT cohort outcomes 
+in the box corresponding to the arrows on each page of the register:
+• Maternal PMTCT cohort outcomes -count the total number of women retained /Alive & On ART, Lost 
+to follow up of appointment, Transferred Out, mothers with undetectable viral load( <1000 copy/ml), 
+mothers Malnourished (< standard BMI), and number of deaths 
+• HEI PMTCT Outcomes – count number of HEI still on BF /Exposed/on CPT, positive infants Lost to 
+Follow up of appointments, Discharged negative infants after Ab test result at 18 months of age, 
+Positive infants, Transferred Out, Malnourished(Underweight for age), and the number of infants 
+died 
+The PMTCT tally sheet is used to simplify reporting of PMTCT reportable data elements in the above from 
+the PMTCT register The provider should tally the above reportable data elements immediately after service 
+is provided, and the data elements are counted up and compiled at the end of the reporting period The 
+Tally is kept with register until the whole pad is utilized, and then moved to an archive maintained by HMIS 
+in-charge
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+27
+Frequency of reporting: These data elements should be reported monthly 
+Family Planning Register
+Purpose: - Family planning register is a longitudinal register that is used to capture HMIS data related to 
+family planning services The register includes summary information for reporting FP data elements that are 
+used for the calculation of indicators related to family planning 
+Where used and location:- this register is used in the Health Center / Medium clinic /Obs-Gyn specialty 
+clinic, MCH specialty center, and All types of Hospitals, and it is placed at the FP service room of the facility 
+Format of instrument: - Preprinted on standard A3 paper This specific register uses the entry for a single 
+client spans two pages 
+Who maintains: Health professionals attending FP service rooms complete the information required by the 
+register as service is provided 
+Data recording process on the register
+Each client who has received FP services should be registered in the FP register After the service is provided, 
+the service provider should take the abstracted data elements from the women card (which is kept in the 
+individual folder) to the family planning register then need to be tallied after the service using the FP tally 
+sheet 
+• New acceptor: refers to those acceptors who receive family planning services from a 
+recognized program for the first time irrespective of the method used This is not the number of 
+consultations and emergency contraceptives Each acceptor is enumerated once in the year, at 
+the first consultation for contraception in the fiscal year (From Sene 21 of the previous year up 
+to Sene 20 of the current year) 
+• Repeat acceptor: refers to those acceptors who receive family planning services from a family 
+planning program previously irrespective of the method used Long-acting FP method users are 
+counted as repeat every year including routine checkups for ongoing use of a long-term method 
+such as Implants, IUCD, TL, and Vasectomy 
+A family planning client is considered as a new or repeats client only once in one Ethiopian fiscal year (From 
+Sene 21 of the previous year up to Senie 20 of the current year) If the client gets registered as a new client 
+in the reporting period then the client won’t be considered as a new or repeat client till the end of the fiscal 
+year The end of the fiscal year registration should be started with a new page of the FP register denoting 
+that it starts with the next fiscal year Write the new fiscal year with a marker (BOLD WORDS) All clients in the 
+previous fiscal year must be recorded once again in new pages of the register in use and considered as repeat 
+clients in that new fiscal year 
+Visit Number is used to record the visit number in the current fiscal year Even though all the five rows are 
+not finished in the fiscal year, we have to leave the remaining rows blank and re-register the client in a new 
+row in the new fiscal year 
+• Once the FP client is registered, one row is adequate to record services for one fiscal year 
+• After the fiscal year is completed, the client should be registered again in the same registration book 
+but with a different serial number and reported again in the new fiscal year as a repeat acceptor 
+client 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+28
+Data compilation procedures:
+Reportable data elements from the family planning register are:
+S. No. Reportable data elementDisaggregationFrequency
+Level of 
+Reporting
+Tally sheet
+1Number of new acceptors,Age & Method
+MonthlyHP, HC, clinic, HospFP service tally
+2Number of repeat acceptors Age & Method
+3No of clients tested for HIV Age Sex
+MonthlyHC, clinic, Hospital
+PITC tally
+4Clients testing positive for HIV (at HTS)Age, Sex,
+5
+Number of Family planning methods 
+issued/dispensed
+MethodAnnual
+HP, HC, 
+clinic, 
+Hospital
+FP methods 
+dispensed tally
+Family planning service Tally 
+This is used to capture FP reportable data elements from the FP register The provider should tally immediately 
+after service is provided, and the data elements are counted up and compiled at the end of the reporting 
+period 
+Frequency of reporting: These data elements should be reported monthly 
+Family Planning methods Dispensed Count tally sheets 
+This tally is used to count and record total FP methods issued during the month and reported annually
+Both Tally is kept with a register until the whole pad is utilized and then moved to an archive maintained by 
+HMIS in charge 
+ How to count the data:
+• At bottom of the register: count and write the total count of FP (new & repeat) acceptors in the count 
+box at the bottom of each page The total count from each page should be equal to what we tallied 
+on the FP tally sheet 
+• On Tally sheets: tally the FP methods(oral contraceptives, Injectables, implants, IUCD, Vasectomy, 
+tubal ligation, and others) issued corresponding to clients age category (10-14yrs, 15-19yrs, 20-24yrs, 
+25-29yrs, 30-49yrs) 
+Long-Acting Family Planning (LAFP) Removal Register
+Purpose: The register is a longitudinal register and used to record information about long-acting family 
+planning services provided to a client: It captures data on clients who have had long-acting family planning 
+methods and returned for removal It is also used to record information on HIV counseling and testing post-
+removal family planning services provided 
+Where used: Health Center / Medium clinic / Obs-Gyn specialty clinic, MCH specialty center, and all types of 
+Hospitals 
+Format of instrument: Preprinted on standard A4 paper The entry for a single client spans one page 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+29
+Location in the facility: Family Planning service room 
+Who maintains: Service provider completes the information required by the register 
+Data recording process on the register: 
+A client’s LAFP services for a single year are recorded on a single line in the register After the year is completed, 
+the client has registered again, on another line in the LAFP registration book Data is abstracted from the 
+woman’s card and entered into the LAFP removal register Please refer to the instructions in the register for 
+detailed information 
+Data compilation procedures:
+Reportable data elements 
+S. No. Reportable data elementDisaggregationFrequency
+Level of 
+Reporting
+Type of 
+tally used
+1
+Total number of premature removal of LAFP 
+within 6-month insertion
+Method:Implants, 
+IUCD, others
+Monthly
+HC, clinic, 
+Hospital
+None
+2Total LAFP removal in the reporting periodNone
+3Total number of clients tested for HIVAge
+Monthly
+HC, clinic, 
+Hospital
+PITC tally
+4Total number of clients tested positive for HIVAge
+How to count data elements at the bottom of the page
+• For each LAFP method, count the number of premature LAFP removals performed (within 6 months 
+of insertion), and count the number of LAFP removals performed (greater than 6 months of insertion)
+and write in the box 
+• Sum up the total LAFP removals performed and write in the box Then summed up from each page and 
+reported at the end of the month 
+Comprehensive Abortion Care Services Register
+Purpose: The register is a case/serial register and used to record information of single safe abortion and post-
+abortion care services, provided in accordance with the laws of Ethiopia One row is used once for a single 
+patient/client 
+Where used: Health Center / Medium clinic / Obs-Gyn specialty clinic, MCH specialty center, and all types of 
+Hospitals
+Format of instrument: Preprinted on standard A3 paper The entry for a single client spans one page 
+Location in the facility: Comprehensive Abortion Care Room 
+Who maintains: Service provider completes the information required by the register
+Data recording process on the register: 
+Each client who received comprehensive abortion care services should be recorded once in a single row 
+Please refer to the instructions in the register for details Women’s card is also used in recording information 
+about abortion services and transferred to Abortion register 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+30
+Data compilation procedures: 
+Reportable data elements from the comprehensive abortion care register
+S NReportable data elementDisaggregationFrequency
+Level of 
+Reporting
+Tally 
+1Number of safe abortions care provided age
+MonthlyHC, clinic & Hosp
+Abortion Tally sheet
+2Number of post abortions care provided age
+3Number of women receiving comprehensive abortion care Trimester
+4Number of women who were tested for HIVAge 
+5Number of Positive HIV testsAge
+6Number of maternal deaths (institutional)None
+7Number of new and repeat family planning acceptorsAge, Method
+How to count the reportable data element at the bottom of the register
+At the bottom of the register, you will find boxes to write/record the number of safe abortion and post-abortion 
+care disaggregated by age of the women 
+The abortion care tally sheet is used to capture reportable data elements from the comprehensive abortion 
+care services register The provider should tally the above reportable data elements immediately after service 
+is provided, and the data elements will be counted up and compiled at the end of the reporting period The 
+Tally is kept with register until the whole pad is utilized, and then moved to an archive maintained by HMIS 
+in-charge
+Frequency of reporting: The data elements are reported monthly 
+Child Health
+Routine Immunization Register 
+Purpose: It is a longitudinal register, which is used to record information about infant immunization, growth 
+monitoring and developmental milestone assessment services provided to infants Its main purpose is to 
+keep track of the antigens, neonatal tetanus, and associated services (nutrition and child developmental 
+milestones) provided to each Child over time One row is used to document all the required immunization 
+service data for a single child 
+Where used and location: Health Center, clinic and hospital, MCH specialty center, Pediatric specialty center, 
+and outreach immunization sites It is kept in the EPI room 
+Format of instrument: Printed on standard A3 paper 
+Who maintains: The register is completed by the service provider at the time of service provided 
+Data recording process on the register: 
+The primary data source for the register is the infant’s vaccine card Please refer to the instruction page on 
+the first page of the register Both tally sheet and register are used for recording vaccination/immunization 
+information 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+31
+Data compilation procedures: 
+Health care providers fill the tally sheet from the Routine immunization register for each vaccine, which is 
+provided for infants Tally is kept with a register until the whole pad is utilized and then moved to an archive 
+maintained by HMIS in charge 
+Reportable data elements
+S NReportable data elementDisagg Level of Reporting
+1BCGNone
+HP, HC, Clinic, Hosp 
+2 Hepatitis Birth Dose;’By period
+3OPV 1 & 3
+ None
+4Pentavalent vaccine 1 & 3
+5PCV vaccine 1 & 3
+6Rota vaccine 1-2
+7IPV
+8Measles vaccine 1-2
+9Fully immunized
+10Protected at birth(PAB)
+11Vaccine wastage rateType of vaccines
+12
+Developmental milestone classification 
+(ND, SD, DD for U5 (0-23) and (24-59)
+By Status: 
+ND-No Developmental Delay
+SD-Suspected Developmental Delay
+DD-Developmental Delay
+Bye Age: 0-23; 24-59
+Way of compiling the data elements from the tally sheet
+The reportable data elements traced from the EPI tally sheet and the register would be counted for the 
+respective vaccine provided for the infants 
+Frequency of reporting: These data elements should be reported monthly 
+Routine Immunization tally sheet
+Purpose: Tally sheets are the forms that health workers use to document an immunization session, by making 
+a record for every dose of vaccine given It is used as the basis for monitoring and making regular summary 
+reports of vaccine use 
+Where used and location: Health Center, clinic and hospital, MCH specialty center, Pediatric specialty center, 
+and outreach immunization sites Tally sheets should be used for all sessions whether fixed, outreach, or 
+conducted by a mobile team And it is kept at the EPI room 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+32
+Data recording and compilation procedures: 
+On the tally sheet, tally the antigens given to the infant corresponding to the period and dose given immediately 
+after the service Then at the end of the month count and record to determine the number of infants who 
+received each vaccine dose/antigens provided for, sum up, and transfer data elements to the reporting format 
+accordingly The Tally is kept with an Immunization register and Td Register at the EPI room until the whole pad 
+is utilized and then moved to an archive maintained by HMIS in charge 
+Tetanus diphtheria (Td) Register: 
+Purpose: Longitudinal record of Tetanus diphtheria (Td) vaccine provided to women (pregnant and non-
+pregnant) The record follows the protocol of a series of five dose Td vaccinations schedules 
+Where used and location: In health centers, clinics, MCH specialty centers, and hospitals, and it is kept in EPI 
+rooms 
+Format of instrument: Preprinted on standard A4 paper 
+Who maintains: service providers complete the registration at the time of service provision 
+Data recording process on the register: Each woman who received the Td vaccine should be recorded in the 
+register using a single row till she completes all 5 doses, and tallied immediately using an infant immunization 
+tally sheet Please refer to the instruction page on the first page of the register for a detailed recording process 
+Data compilation procedures: The reportable data elements from the Td register/tally sheet include: 
+• Number of women who have received Td1, Td2, Td3, Td4, and Td5 vaccination each 
+• Td all doses given / doses opened/dose damaged/dose expired 
+These reportable data elements are compiled from the Infant Immunization tally sheet The provider should 
+tally immediately after service is provided, and the data elements are counted up and compiled at the end of 
+the reporting period 
+Frequency of reporting: This data element should be reported monthly 
+Human Papillomavirus (HPV) Register: 
+Purpose: The register is a longitudinal register and the main purpose is to record doses of HPV provided to 
+girls in early adolescence (before their first sexual contact) specifically for 14 years girls in schools and health 
+facilities The register captures doses of HPV provided to girls in schools and out of school 
+Where used and location: In schools during vaccination campaigns, and health centers & hospitals, and it is 
+kept at EPI rooms 
+Format of instrument: Preprinted on standard A4 paper 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Data recording process on the register: Each girl who received the HPV vaccine should be recorded in the 
+register using a single row Please refer to the instruction page on the first page of the register for a detailed 
+recording process 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+33
+Data compilation procedures:
+The reportable data elements from the HPV tally sheet includes: 
+S. No. Reportable data elementDisagg. FrequencyLevel of Reporting
+1
+Number of girls 14 year of age who have received first dose 
+of human papilloma virus vaccine
+NoneMonthly
+HP, HC, clinics &
+Hosp
+2
+Number of girls 14 year of age who have received second 
+dose of human papilloma virus vaccine in 6 months inter-
+val from the first dose
+3HPV doses given /opened/damaged/expired
+The reportable data elements are compiled from the HPV register which is summed up in a box at the bottom 
+of each page of the register and reported monthly 
+IMNCI register (0-2 months)
+Purpose: Integrated management of newborn and childhood illness (IMNCI) register is a serial register that 
+is used to record clinical signs and symptoms, assessment (Diagnosis based on National classification of 
+diseases), and treatment given or referral status of sick children of age 0-2 months 
+Where used and location: facilities of any capacity – Health Center, clinic / pediatric specialty center, Hospitals 
+The register is kept in the under 5 years OPD rooms 
+Format of instrument: Preprinted on standard A3 paper The entry for a single child spans two pages 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Data recording process on the register 
+The primary data source for the IMNCI register is the patient card/form Please refer to the instruction page 
+on the first page of the register 
+Data compilation procedure 
+Reportable data elements
+• Diseases/Diagnosis by Disease type
+• Number of sick young infants 0-2 months treated for critical illness disaggregated by disease type
+• Infants treated with Zinc and ORS for diarrhea
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+34
+IMNCI (from 2 months to 5 years) Register 
+Purpose: Integrated management of newborn and childhood illness (IMNCI) register is a serial register that 
+is used to record information about health care services given to children of age 2 months to 5 years old It 
+captures data on signs and symptoms of selected diseases and conditions, other problems, classification, 
+treatment, counseling, and follow-up 
+Where used and location: Health Center / Medium clinic/specialty clinic, MCH specialty center, and Hospitals 
+It is kept in under five OPD rooms 
+Format of instrument: Preprinted on standard A3 paper It has right and left parts, in which a single case will 
+be registered from the left end to the right end,
+Who maintains: Service provider completes the information while providing the service 
+Data recording process on the register: 
+Each client who received IMNCI service should be recorded in the register using a single row 
+In this register, some columns were separated by dot lines In these boxes, two or three variables can be 
+recorded For example, the first column has two parts, In the upper box write the date of visit, and in the lower 
+box serial number The same rule applies for all columns with dots lines and variables are recorded as per their 
+order on the top of the column For further information, please refer to the instruction page 
+Data compilation procedures;
+Reportable data elements 
+• Diagnosis/diseases type disaggregated by age and sex 
+• Number of under 5 years children treated for pneumonia
+• Number of children treated with Zinc and ORS for diarrhea disaggregated by ORS and Zinc or ORS only
+• Number of children aged 0 to 59 months assessed for developmental milestone
+All disease morbidity reports disaggregated by age, sex, and number of under years -children treated for 
+pneumonia are compiled, and reported from NCoD/ESV-ICD 11 tally sheet The NCoD/ESV-ICD 11 tally sheet is 
+explained in the OPD register section 
+The number of children treated with Zinc and ORS for diarrhea disaggregated type of treatment: treated by 
+ORS & Zinc, and treated by ORS only as well as children aged 0 to 59 months assessed for developmental 
+milestones are counted on every page of the register, and the total sum in the month is counted and reported 
+Frequency of reporting: All data elements are reported monthly 
+Neonatal Intensive Care Unit (NICU) Register
+Purpose; The purpose of the NICU register is to record information about neonates who have been treated 
+in the neonatal intensive care unit Neonatal intensive care unit (NICU) is a unit where a health care provider 
+provides treatment and care for babies who have problems such as prematurity and other severe problems 
+The register captures data that is related to the type of treatment provided and the treatment outcome of NICU 
+management 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+35
+Where used and location: The service is only provided in Hospitals with NICU standards, which have trained 
+manpower and allocated enough space as per the standard, with basic equipment as per the NICU level t is 
+located around the delivery room/neonatal room/ intensive care unit (ICU)
+Format of instrument: Preprinted on standard A3 paper It has a right and left part in which a single case is 
+registered from the left end to the right end 
+Who maintains: service providers complete the data after the service is provided 
+Data recording process on the register: 
+The data source for the NICU register is the neonate’s card. Please refer to the instruction page in the first page 
+of the register 
+Data compilation procedures:
+Data element and way of counting its performance 
+The reportable data elements are collected from the boxes that are available at the bottom of each page in 
+the register No tally sheet for this register Reportable data elements are compiled at the end of each month 
+and be sent to the HMIS unit 
+S. NReportable data elementDisagg
+Frequency of 
+reporting
+Level of 
+Reporting
+1
+Number of Newborn weighing <2000gm and premature 
+newborns for which KMC initiated
+None
+Monthly
+HC/Hosp
+2Number of Newborn weighing <2000gm and or prematureNone
+3Number of neonates resuscitated and survivedNone
+4Total number of neonates resuscitatedNone
+5Number of neonatal deaths
+By age: within 24 hrs, 1-7 days, 
+7-28 days 
+Hospital
+6Total neonates admitted to NICUNoneMonthly
+7
+Number of sick young infants 0-2 months treated for Critical 
+illness 
+By disease type:- Very sever 
+Disease, Local bacterial infection 
+( LBI) Pneumonia
+8Total neonates discharged during the reporting period
+Treatment 
+outcome
+MonthlyHospital
+How to compile data elements
+Count the number of neonates in each row at column 35 who weigh <2000gm and premature newborns for 
+which KMC initiated and sum up at the end of each page 
+Count the number of neonates who weigh <2000 gm and premature or count rows which have tick marks (√)) 
+at Columns 24 and 25at the same time and sum up at the end of each page 
+To compile resuscitated and survived the health care providers search and count the number of tick marks (√)) 
+at column 48 and sum up at the end of each page
+Count the number of dead neonates based on their age; first 24 hrs, 1-7 days, and 7-28 days 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+36
+Adolescent Health Program
+Integrated AYH Register 
+Purpose: Adolescent and Youth Health (AYH) is a serial register intended to capture HMIS data related to 
+personal identification (columns 1-7), and the integrated AYH services (columns 8-29) provided, to target age 
+groups during a single visit in a one-stop approach 
+Where used/Location: In the Health Center / Medium clinic / Obs-Gyn specialty clinic, MCH specialty center, 
+and all types of Hospitals where one-stop AYH service is started 
+Data recording process: 
+Once the client is registered and receives the appropriate services the data are recorded based on the 
+instructions found attached at the inside part of the cover page of the registration using a single row for a 
+single visit 
+Data compilation procedures:
+The following are reportable data elements that are compiled from the Integrated AYH registers at Health 
+Centers and Hospitals, and reported monthly: 
+S. NReportable data elementDisagg
+1Number of clients “referred” from 
+By HF type: youth center, school, internal referral, 
+and Other Facility
+2Number of clients tested for HIV testAge, Sex, HIV result
+3Number of new acceptors (F/P)Age, method
+4Number of new acceptors (F/P)Age, method
+5Number of safe abortions performed Age
+6Number of safe abortion/emergency care performed Age
+As the register has no tally sheet, the data is compiled directly from the register Here, there are two scenarios 
+for compiling the AYH data: In the case of “One-stop service” is applicable the data is compiled directly from 
+the register by counting or taking the figures from the boxes found in the register, at the bottom of each page 
+However, where “One-stop service” is not initiated, the data are compiled from the record or tally sheets of the 
+respective service areas 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+37
+Nutrition Program
+GMP and Under 5 Children Nutrition Screening Register
+Purpose: Longitudinal register that record child who visited the health facility for growth monitoring and/or 
+nutrition screening All child less than 5 years at well baby will be recorded for GMP and other sick baby will 
+consider for nutrition screening service 
+Where used/ Location in the facility: Health Center / Medium clinic / Pediatric specialty clinic, Pediatric 
+specialty center, and all types of Hospitals in Well-child Clinic; register may also be used during outreach 
+activities 
+Format of instrument: Preprinted on standard A3 paper Column (10-34) will be used for GPM FOR 2 years and 
+Column (35-59) will be used for Nutrition Screening and Developmental milestone assessment U5 
+Who maintains: Service provider completes the information required by the register as service is provided At 
+higher capacity clinics, this may be done based on the information on the reproductive health card 
+Data recording process on the register: Each client who received growth monitoring promotion and 
+nutrition screening services should be recorded in the Comprehensive integrated nutrition and developmental 
+milestone screening /Assessment register using a single row and tallied immediately using a CINUS Tally sheet 
+Please refer to the instructions in the register for details 
+Data compilation procedures: 
+a The sum of GMP Underweight classifications for children <2 Normal (N), Moderate underweight (MU), and 
+severe underweight (SU) is counted and the total sum is recorded on each page of the register and reported at 
+the end of the month 
+b The sum of nutritional screening normal (N), MAM, SAM, and developmental milestone classification ND, SD, 
+DD for U5 (0-24) and (25-59) is counted and the total sum is recorded on each page of the register and reported 
+at end of month
+c The sum of the first and second dose of total vitamin A received for ages 6-11 and 12-59 is counted and the 
+total sum is recorded on each page of the register and reported at the end of the month
+d On the last column(Action column) write the code of action taken 1 for referral, 2 for OTP, 3 for SC, 4 for TSFP, 
+5 for PSNP, and 6 for other options that will be written in each client row and linked accordingly 
+Reportable data elements:
+- GMP underweight classification for children under 2 (Normal (N), Moderate underweight (MU), and 
+severe underweight (SU))
+- Nutritional screening (Normal (N), MAM, SAM)
+- Developmental milestone classification(ND, SD, DD for U5 (0-24) and (25-59)
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+38
+S. NReportable data elementDisaggregation
+Frequency of 
+reporting
+Level of 
+Reporting
+Tally
+1
+Number of children less than 2 years weighted 
+during GMP session 
+Age and nutritional 
+status
+Monthly
+HP/HC/
+Hospital
+CINuS 
+tally
+2
+Total Number of children < 5 years screened for 
+acute malnutrition 
+Age and nutritional 
+status
+3
+Developmental milestone classification (ND, SD, 
+DD for U5 (0-23) and (24-59)
+By Status: 
+Normal, 
+Suspected develop-
+mental, Developmen-
+tal Delay
+Bye Age :0-23 
+ :24-59
+Routine Vitamin A Supplementation (VAS) and Deworming register
+Purpose: Longitudinal record of child health supplemented with Vitamin A and dewormed It is used to record 
+both doses of Vitamin A, and Deworming for children under five years 
+Where used/ Location in the facility: Health Center / Medium clinic / Pediatric specialty clinic, Pediatric 
+specialty center, and all types of Hospitals in Well-child Clinic; register may also be used during outreach 
+activities The primary Place of this register in the health facility is nutrition room/well baby clinic/ GMP room 
+Format of instrument: Preprinted on standard A3 paper One row will use for one child for VAS and deworming 
+based on their age VAS will be given for child age for 6-59 months, while deworming started at 24 months to 
+59 months 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Data recording process on the register: 
+Each client who received supplementation of VAS and/or deworming should be recorded in the vas and 
+deworming register using a single row and tallied immediately using VAS and/or deworming Tally sheet Please 
+refer to the instructions in the register for details
+Data compilation procedures: 
+a The sum of the first and second dose of total vitamin A received for ages 6-11 and 12-59 is counted and the 
+total sum is recorded on each page of the register and reported at the end of the month 
+b The sum of the first and second dose of deworming received for 24-59 is recorded on each page of the 
+register and reported at the end of the month
+Reportable data elements:
+• Vitamin A supplementation, first and second doses
+• Deworming, first and second doses 
+S. NReportable data elementDisaggregation
+Frequency of 
+reporting
+Level of 
+Reporting
+Tally
+1
+Number of children who 
+were provided with vitamin A 
+supplementation
+Age and dose
+Monthly
+HP/HC/
+Hospital
+VAS and 
+deworming tally
+2
+Number of children aged 24-59 
+months de-wormed 
+Dose
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+39
+Comprehensive and integrated nutrition service for < 5-year children tally sheet 
+Purpose: Daily tally and count of weight for age category (based on Z score) of each child weighed, Daily 
+tally and count of MUAC of each child that is nutritionally screened and supplemented with Vitamin A and 
+dewormed, and daily tally developmental milestones for all <5 children 
+Where used and Location in the facility: Health Center / Medium clinic / Pediatric specialty clinic, Pediatric 
+specialty center and all types of Hospitals, and it is Kept with Comprehensive integrated nutrition and 
+developmental milestone screening /Assessment register with which it is used 
+Adolescent Nutrition Register 
+Purpose: Adolescent Nutrition Register is a longitudinal register intended to capture the HMIS data related 
+to personal identifications, and adolescent nutrition services provided, namely doses of deworming given 
+(columns 7-8), nutrition screening, and iron-folic acid (IFA) tablet given to the target groups during a single visit 
+Where used/Located Health Center / Medium clinic / Obs-Gyn specialty clinic, MCH specialty center, and all 
+types of Hospitals The registration is maintained at the Adolescent tally sheet will be sent to and maintained 
+at the HMIS unit
+Data recording process:
+The data relating to each client who received the services should be recorded based on the instructions 
+attached at the inside part of the cover page of the registration using a single row In case the space provided 
+for the IFA service data is not adequate, a new row has to be used 
+Data element and compilation procedures:
+The following are reportable data elements that are compiled from the adolescent nutrition register 
+• Adolescent and Youth Aged 10-19 screened for nutrition as Normal, Underweight, Overweight, Obese, 
+Very Obese by age 
+• Adolescents and Youth Aged 10-19 received one dose of deworming by age (10-14,10-14,15-19,15-19) and 
+Sex 
+• Adolescents and Youth Aged 10-19 received two doses of deworming by age (10-14,10-14,15-19,15-19) 
+and Sex 
+• Adolescent girls aged 10-19 years supplemented with IFA by age (10-14, 15-19) 
+These data elements are compiled using the Adolescent nutrition tally sheet, which is designed for this purpose 
+The tally is used to compile the count of each service by making a tally and recording the count of the tally in 
+the respective rows in line to the respective disaggregated by age and/or Sex immediately after the services are 
+provided This tally is kept with the register until the whole pad is utilized 
+Frequency of reporting: These data elements are reported monthly 
+Pregnant and Lactating Women (PLW) Nutrition Screening Register 
+Purpose: - PLW Screening register is used to record information regarding screening of pregnant and 
+lactating women for acute malnutrition 
+Where used and location: this register is used at the health centers, clinics, and hospitals and it is kept at 
+the department where the service is provided
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+40
+Format of instrument: this is preprinted on standard A4 paper It is a longitudinal register 
+Who maintains: the register is completed by the service provider at the time of service provision 
+Data recording process on the register:
+Note: Under the nutritional screening section, the data elements that are required to be measured and 
+documented during each month’s nutritional screening period are available under the five rows provided To 
+fill each row please follow the instruction sheet provided 
+Data compilation procedures:
+Reportable data elements include: 
+• Total number of PLW screened for acute malnutrition
+• Total number of PLWA with MUAC < 23 cm
+• Total number of PLWA with MUAC >= 23cm
+• Number of pregnant women de-wormed
+Since there is no tally sheet for this service, one should count the aforementioned reportable data elements 
+from the register 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+41
+Therapeutic feeding Program (TFP) register 
+Purpose:- it is a longitudinal register and it is used to record the therapeutic feeding that is provided for 
+Children < 5 with Severe Acute Malnutrition (SAM) Data related to the admission and treatment outcome of 
+children who have been admitted to TFP centers are recorded in this register 
+Where used:- It is used at HC and Hospital levels, and kept at a department where the service is provided
+Format for instruction:- pre-printed A3 paper 
+Who maintains:- the service provider in the service room completes the register 
+Recording procedure for TFP Register
+For completing the registration, please refer to the instruction sheet But focus on the following section 
+1. Admission Section:: In this section, we record information regarding the child at admission To fill 
+please refer to the instruction sheet on the front page of the register 
+• WFH%: This is to record the Weight-for-Height percentage that is plotted based on the 
+measurements on columns 14 and 15 against the WHO WFH reference curve It should be 
+recorded as: <70%, 70%-80% or >80%
+• Oedema (0, +, ++, +, +++): column 17- is used to record the presence or absence of Oedema 
+and its severity If there is no bilateral pitting edema, write 0 If there is edema, use the following 
+to denote the degree of edema:
+o += grade + ( Mild :Both feet/ankles bilateral pitting Oedema)
+o ++= Grade ++ ( Moderate :Both feet ,plus legs, hands or lower arms)
+o +++= Grade +++ (Severe : generalized bilateral pitting oedema, including both 
+feet, legs, arms and face)
+2. Treatment outcome section: To fill this section please refer to the instruction sheet 
+• Recovered (Cured): If the child is free from medical complications and has achieved and 
+maintained sufficient weight gains Malnourished Children admitted to feeding programmers 
+are discharged with the following criteria: MUAC ≥11 0 cm AND ≥15% weight gain from 
+admission weight with no edema for 2 consecutive visits (at hospital level WFH ≥85 % ) 
+• Died = Child that has died while he was in the program For out-patient programs, the death 
+has to be confirmed by a home visit 
+• Defaulter: Patient that is absent for 2 consecutive weighings (2 days in in-patient and 2 weeks 
+in out-patient), confirmed by a home visit 
+• Non-responder: Patient that has not reached the discharge criteria after 40 days in the in-
+patient program or 2 months in the out-patient program 
+• Transfer Out: Patient that has started the nutritional therapeutic treatment in your program 
+and is referred to another site to continue the treatment 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+42
+Data compilation and reporting
+Reportable data elements from the TFP register
+S. NReportable data elementDisagg. Frequency of 
+reporting
+Level of 
+Reporting
+Tally 
+used
+1Total number of SAM at the beginning None
+Monthly
+HP/HC/
+Hospital
+No tally
+2
+Total number of children with SAM admitted to 
+TFP (OTP &SC) during the reporting period
+None
+3
+Total number of children who exit from severe 
+acute malnutrition treatment
+Outcomes: Recovered, 
+died, Transferred 
+out, defaulted, non-
+respondent, Medically 
+transferred out, or 
+unknown
+Note: - As the register has no tally sheet; the source for data compilation is the register only At the end of the 
+reporting month, compile the total number of cases of treatment outcome and fill in the box provided at the 
+bottom of the register and count cases at admission for those who have WFH%<70, edema, and MUAC <11 cm 
+during admission Collect the total count from the box on the register, write in the monthly reporting format, 
+and give it to HMIS focal to transfer it to the DHIS2 if the health facility starts to use the DHIS2 
+MAM treatment for 6-59 months Register
+Purpose: A series register for clients who developed Moderate acute malnutrition of children 6-59 months It 
+is used to capture information about the admission and discharge of children admitted with Moderate acute 
+Malnutrition This recording follows the nutritional screening protocol of child health care visits 
+Where used and Location in the facility: Health Center / Medium clinic / Pediatric specialty clinic, Pediatric 
+specialty center and all types of Hospitals, and it is kept at MCH service room
+Format of instrument: Preprinted on standard A4 paper 
+Who maintains: Service provider completes the information while service is provided 
+Data recording process on the register: 
+A child with the age of 6-59 months who develops moderate acute malnutrition is recorded in this Registration 
+Book for MAM treatment using a single row Please refer to the instructions in the register for details 
+Data compilation procedures: 
+At the end of the reporting period, the sum of Discharge outcomes (Cured, Died, Defaulted, Non-respondent, 
+and transfer out) are counted and the total sum is recorded on each page of the register and then transferred 
+to the reporting format at the end of the month 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+43
+Reportable data elements:
+S. NReportable data elementDisagg. Frequency of 
+reporting
+Level of 
+Reporting
+1Total number of MAM at the beginning None
+MonthlyHP/HC/Hosp
+2
+Total number of children with MAM admitted 
+during the reporting period
+None
+3
+Total number of children who exit from MAM 
+treatment
+outcome
+MAM treatment for PLW Register
+Purpose: A series register, for pregnant and lactating women (PLW) who developed Moderate acute 
+malnutrition It is used to record information about admission (status and entry information) and discharge 
+(exit information) of moderately acute malnourished PLW This record follows the nutritional screening 
+protocol of maternal health care visits 
+Where used and Location in the facility: Health Center / all types of clinic/maternity specialty clinic, MCH 
+specialty center and all types of Hospitals and in Maternity service room The register may also be used during 
+outreach activities
+Format of instrument: Preprinted on standard A4 paper 
+Who maintains: Service provider completes the information as service is provided 
+Data recording process on the register: 
+Each PLW client who developed Moderate acute malnutrition should be recorded in the Registration Book for 
+MAM treatment using a single row per client Please refer to the instruction in the register for details
+Reportable data elements:
+S. NReportable data elementDisagg. Frequency of 
+reporting
+Level of Re-
+porting
+1Total number of PLW with MAM at the beginning None
+Monthly
+HP/HC/
+Hospital
+2
+Total number of PLW with MAM admitted during the re-
+porting period
+None
+3Total number of PLW who exit from MAM treatmentoutcome
+To report the given the data elements, the reportable data elements are summed up to the boxes at the bottom 
+of each page in the register and compiled at the end of the reporting period 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+44
+Disease Prevention and Control 
+TB and leprosy prevention and control program
+Unit TB Register 
+Purpose: The register is a longitudinal register and the main purpose is to record information about TB services, 
+diagnosis, HIV/AIDS screening, intensive and continuation phase treatment follow up and treatment outcome 
+Where used and location: Health Center, all types of Hospitals, any type of private clinic or medical center 
+providing the special service It is used at the TB/DOTS/follow-up treatment room of the facilities 
+Format of instrument: Preprinted on standard A3 paper The entry for a single client spans two pages 
+Who maintains: TB care provider completes the data required by the register as soon as service is provided 
+Data recording process on the register: Each client who received TB treatment service should be recorded in 
+the TB register using a single row Please refer to the instructions in the register for details. Reportable data elements:
+S. No
+Data elementDisaggregation 
+1
+Number of bacteriologically confirmed New Pulmonary TB cases detected and enrolled in 
+the reporting period
+Age and sex
+2
+Number of clinically diagnosed New pulmonary TB cases detected and enrolled in the 
+reporting period
+Age and sex
+3
+Number of clinically diagnosed new EPTB cases detected and enrolled in the reporting 
+period
+Age and sex
+4
+Number of RELAPSE (bacteriological confirmed and clinically diagnosed) TB cases in the 
+reporting period
+Age and sex
+5Number of notified TB cases from key affected population groupNone 
+6
+Total number of new bacteriologically confirmed TB cases (PTB+) enrolled in cohort in 
+same month of previous EFY 
+None 
+7Treatment outcome of new bacteriologically confirmed TB cases (PTB+) Rx outcome
+8
+Total number of new clinically diagnosed pulmonary TB cases enrolled in the cohort in 
+same month of previous EFY 
+None 
+9Treatment outcome of new clinically diagnosed pulmonary TB cases (P/Neg)Rx outcome
+10
+Total number of clinically diagnosed EPTB cases enrolled in the cohort (EPTB) in same 
+month of previous EFY
+None 
+11Treatment outcome of clinically diagnosed EPTB cases (EPTB)Rx outcome
+12
+Total number of RELAPSE TB cases enrolled in the cohort in the same month of previous 
+EFY 
+ 
+13Treatment outcome of RELAPSE TB cases Rx outcome
+14
+Number of all forms TB cases detected and registered on unit TB register who are initially 
+referred by the community
+None 
+15Treatment success of TB patients who received community-based treatment supportNone 
+16
+Number of notified bacteriologically confirmed TB cases evaluated for drug susceptibility 
+testing 
+Registration 
+group
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+45
+17
+Number of TB cases with drug susceptibility testing result for at least rifampicin during the 
+reporting period 
+Registration 
+group
+18
+Number of TB cases (all forms) notified in public health facilities with initial referral by PPM 
+sites for TB diagnosis or initiation of TB treatment
+None 
+19
+Number of test with rapid diagnostic tests (Xpert and others) at the time of diagnosis(initial 
+diagnosis)
+Age, Sex
+20
+Total number of new and relapse TB patients registered during the reporting period having 
+a documented HIV test result
+Age, Sex
+21
+Total number of HIV-positive new and relapse TB patients started on TB treatment during 
+the reporting month who are already on ART 
+Age, Sex
+22
+Total number of newly tested HIV positive TB patients who began ART during the reporting 
+month
+Age, Sex
+23Number of notified all forms of TB cases screened for malnutritionScreening result 
+24Total number of AFB tests performed to diagnose TBMethod
+25Number of health facilities covered by AFB External Quality Assessment (EQA) schemeNone
+26Random Blinded Rechecking (RBR) for AFB diagnosisNone
+These reportable data elements with disaggregation by age/sex group are compiled from the unit TB register 
+The provider should register immediately after service is provided, and the reportable data elements are 
+counted up and compiled at the end of the reporting period The register is kept in the TB room
+Frequency of reporting: These data elements are reported monthly from Health Centers, Clinics and 
+Hospitals 
+TB contact register 
+Purpose: It is a longitudinal register and the main purpose is to record information about TB contact screening, 
+diagnosis, and referral 
+Where used and location: Health Center, all types of Hospitals, any type of private clinic or medical center 
+providing the special service It is used in the TB treatment room of the facilities 
+Format of instrument: Preprinted on standard A3 paper The entry for a single client spans two pages 
+Who maintains: TB care provider completes the data required by the register as soon as service is provided 
+Data recording process on the register: Each TB client who receives TB treatment service should be recorded 
+in the registration book using a single row Please refer to the instructions in the register for details. ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+46
+Reportable data elements:
+Sr #Data elementDisaggregation 
+1
+Total number of contacts with index of drug susceptible bacteriologically confirmed 
+pulmonary TB cases 
+Age 
+2Total number of contacts with index of bacteriologically confirmed DR-TB casesAge
+3The number of contacts with index cases screened for TB 
+Drug-susceptible, 
+DR-TB & Age, 
+4
+Number of contacts with index of bacteriologically confirmed TB cases screened 
+negative for TB 
+Age
+5
+Number of contacts screened negative for TB and others eligible and put on TPT in the 
+reporting period 
+Age
+6Number of cohort of individuals started TPT 12 months prior to the reporting period Age & regimen 
+7Number of cohort of individuals who had completed TPT in the reporting period Age & regimen 
+The provider should register data elements immediately after service is provided, and the data are counted up 
+and compiled at the end of the reporting period The register is kept in the TB room
+Frequency of reporting: These data are reported monthly from Health Centers, Clinics and Hospitals 
+MDR-TB Treatment register
+Purpose: Longitudinal record of MDR-TB patient’s demographic information, drug sensitivity test (DST), smear 
+and culture result during treatment 
+Where used: This register is used at MDR treatment initiating centers 
+Format of instrument: Preprinted on standard A3 paper The entry for a single client spans two pages 
+Who maintains: TB care provider completes the information required by the register as service is provided 
+Data recording process on the register:: TB client who is confirmed to be resistant TB and got treatment 
+service should be recorded in the registration book using a single row Please refer to the instructions in the 
+register for details. Data compilation procedures: Data are compiled monthly for analysis of cohorts completing the treatment 
+in the current month The reportable data elements are:
+• Number of notified bacteriologically confirmed TB cases evaluated for drug susceptibility testing 
+according to national policy disaggregated by registration group
+• Number of TB cases with drug susceptibility testing result for at least rifampicin during the reporting 
+period disaggregated by registration group
+• Number of DR TB cases detected disaggregated by resistance type ( Hr-TB, RR Only, MDR- TB, Pre XDR, 
+and XDR TB cases), age (<15/=>15 years), and sex (male/female)
+• Drug Susceptibility Test (DST) coverage for DR-TB patients (only by Treatment initiating center) by 
+regimen types
+• DR TB treatment interim result for a cohort of a patient registered 9 -12 months earlier disaggregated 
+by regiment types, culture result status, and treatment outcome
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+47
+• Final outcome DR-TB cases after 24 months of enrollment ( to be reported only by DR TB treatment 
+initiating centers) disaggregated by short term second-line anti-TB treatment regimen 24 months 
+earlier and long term second-line anti-TB treatment regimen 36 months earlier 
+• Number of DR- TB cases enrolled to second-line drugs screened for malnutrition during the reporting 
+period
+Sr #Data elementDisaggregation 
+Frequency of 
+the report 
+Level of report
+1Number of DR TB cases detected 
+Age, Sex
+Resistance type 
+MonthlyHC, Clinic, Hosp
+2
+Drug Susceptibility Test (DST) coverage for DR-
+TB patients 
+Regiment typeMonthly
+Treatment 
+initiating center
+3
+DR TB treatment interim result for cohort of 
+patient registered 9 -12 month earlier 
+Regimen type, culture 
+result &Rx outcome
+MonthlyHC, Clinic, Hosp
+4
+Total number of cohort DR-TB cases started 
+on short term second-line anti-TB treatment 
+regimen 24 months earlier
+Rx out comeMonthlyHC, Clinic, Hosp
+5
+Total number of cohort DR-TB cases started 
+on long-term second-line anti-TB treatment 
+regimen 36 months earlier 
+Rx out comeMonthlyHC, Clinic, Hosp
+6
+Number of DR- TB cases enrolled to second 
+line drugs screened for Malnutrition during the 
+reporting period
+Screening resultMonthly
+MDR-TB follow up register
+Purpose: Longitudinal record of MDR-TB patient’s demographic information, Contact person information, 
+diagnosis/eligibility, intensive and continuation phase treatment, TB/HIV collaborative activities, close 
+contacts, nutritional assessment, and DR TB treatment outcome 
+Where used: This register is used at the MDR treatment initiating center and MDR treatment follow-up center 
+It is used to follow the MDR TB case’s treatment progress up to the completion of the treatment 
+Format of instrument: Preprinted on standard A3 paper The entry for a single client spans two pages 
+Who maintains: TB care provider completes the information required by the register as service is provided 
+Data recording procedure: same procedure is followed as the MDR TB register 
+Data compilation procedures: Data are compiled monthly for analysis of cohorts completing the treatment 
+in the current month 
+Leprosy register
+Purpose: Longitudinal record of leprosy patient’s demographic information, diagnosis, treatment, treatment 
+outcome, and disability grade at end of treatment, as well as information about contacts and screening status 
+of household contacts of the index case 
+Where used: Health Center, all types of Hospitals of the leprosy treatment room 
+Format of instrument: Preprinted on standard A3 paper The entry for a single client spans two pages 
+Who maintains: Service provider completes the information required by the register as service is provided 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+48
+Data recording procedure: the required data elements are recorded from the Leprosy patient record card to 
+the register 
+Data compilation procedures: Data are compiled monthly for analysis of cohort completing treatment in 
+current monthly Reportable data elements are indicated in the table below 
+Sr #Data elementDisaggregation 
+Frequency of the 
+report 
+Level of 
+report
+1Number of new Leprosy cases detected 
+Age, Sex and type 
+of LP
+Monthly
+HC, Clinics, Hosp
+2Number of household contacts of leprosy cases registeredNone 
+3
+Number of household contacts of leprosy patients that are 
+screened for Leprosy
+None 
+4
+Number of household contacts diagnosed with Leprosy 
+cases
+None 
+5Number of new leprosy cases with Grade II disability (MB+PB) Age & Sex 
+6
+Result of new leprosy cohort cases registered during 16-18 
+months prior to the reporting period 
+Rx outcome 
+Leprosy register for care after completion of treatment
+Purpose: is to record data about basic individuals and services related to Leprosy and used to follow clients 
+with diagnosis, treatment and monitor leprosy patient’s disability grade at the end of treatment 
+Where used and location: Health Center, all types of Hospitals It is used in the leprosy treatment room of the 
+facilities 
+Format of instrument: Preprinted on standard A3 paper The entry for a single client spans two pages 
+Who maintains: Service provider completes the data required by the register as soon as service is provided 
+Data recording process on the register: Each client who received leprosy treatment service should be 
+recorded in the leprosy register for care after completion of treatment using a single row Please refer to the 
+instructions in the register for details. Data compilation procedures: 
+Reportable data elements: there is no reportable data element from this register 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+49
+HIV/AIDS Prevention and Control Program 
+HIV Testing Services (HTS) register
+Purpose: It is a serial register and the main purpose is to record information about testing on HIV, STD, and 
+TB screening and referral 
+Where used: VCT room of the Health Center, Hospitals, stand-alone VCT clinic and on any types of private 
+clinic or center 
+Format of instrument: Preprinted on standard A4 paper The entry for a single client spans a single page Who 
+maintains: Service provider completes the data required by the register as soon as service is provided 
+Data recording procedure: 
+Each client who received HTS service should be recorded in the HTS register using a single row and tallied 
+immediately using the HTS Tally sheet Recording of all the data elements required in the register is recorded 
+from the Laboratory request and result form Please refer to the instructions in the register for details 
+Data compilation procedures: 
+Reportable data elements:-
+- Clients receiving HIV test results (at VCT) disaggregated by age group (<1, 1-4, 5-9, 10-14, 15-19, 20-24, 
+25-29, 30-34, 35-39, 40-44, 45-49 and 50+), sex (M/F) and population
+These reportable data elements are compiled from HTS tally sheets at the end of the reporting period 
+HTS Tally
+Purpose: HTS tally sheet is used to document HIV testing service data that include services in VCT room, 
+and provider-initiated testing and counseling with test results The tally sheets are completed from different 
+registers that have a PITC service component like OPD register, IPD, TB, family planning, ANC, delivery registers, 
+etc The data elements are HTS Tests and its result as well as STI screening and their result disaggregated by 
+age and sex The age categories are: <1 year, 1-4 years, 5-9 years, 10-14 years, 15-19 years, 20-24 years, 25-29 
+years, 30-34 years, 35-39 years, 40-44years, 45-49 years and 50+ years 
+Where used and location in the facility: It is used at Health centers, hospitals, and clinics It should be 
+available at all service outlets including at VCT and ART service units 
+Data compilation procedure
+Reportable data elements are
+• Clients receiving HIV test result (at HTS) disaggregated by age group, sex (M/F), HIV result and 
+population group
+• Number of STI cases tested for HIV disaggregated by sex and HIV test result
+The reportable data elements from different service units such as OPD, IPD, TB, family planning, ANC, delivery 
+registers, etc have to be summed up and reported by the end of each reporting period 
+Frequency of reporting: These data elements are reported monthly 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+50
+Index Case Testing (ICT) Register 
+Purpose: Longitudinal record of HIV positive client’s demographic information and service provided; record 
+contact of index client (i e , a person known to be HIV positive) demographic information and provide service 
+such as HIV testing and result, linkage to care and treatment and information related with PrEP service for 
+eligible HIV negative contact 
+Where used and location: Health Center, all types of Hospitals, and at the clinic and specialty centers that are 
+permitted to provide ART service It is used at facilities ART rooms 
+Format of instrument: Preprinted on standard A3 paper 
+Who maintains: Service provider completes the information required by the register immediately after service 
+is provided 
+Data recording process on the register: 
+Each of the index cases is recorded on the ICT register along with their contact and service provided Please 
+refer to the instruction in the register for details on how to fill each column 
+Index clients are a person known to be HIV positive while contacts are current or past sexual partner(s), 
+biological children /parents (if index case is a child), or anyone with whom a needle was shared. Data compilation procedure
+Reportable data elements
+ S. NoData elementDisaggregation Frequency of the report Level of report
+1Number of index cases offeredAge group & sex 
+Monthly
+HC, Clinic, 
+Hospital
+2Number of contact elicitedAge group & sex 
+3Number of contact tested and test resultAge group & sex 
+These reportable data elements are compiled from ICT tally sheets which include the number of index cases 
+offered, number of contacts elicited, accepted, tested, and positive result disaggregated by age group (<1, 
+1-4, 5-9, 10-14, 15-19, 20-24, 25-29, 30-34, 35-39, 40-44, 45-49 and 50+) and sex (M/F) The provider should tally 
+immediately after service is provided, and the data elements are counted up and compiled at the end of the 
+reporting period The Tally is kept with a register until the whole pad is utilized, and then moved to an archive 
+maintained by HMIS in charge 
+Frequency of reporting: These data elements are reported monthly 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+51
+ICT Tally
+Purpose: help to simplify compiling reportable data elements regarding ICT service cascade offered, accepted, 
+elicited, new positive and known positive by sex and age category 
+Where used and location in the facility: Health Center, all types of Hospitals, clinic and on any types of 
+private clinic or center, and it is used and kept with the ICT register with which it is used at facility ART room 
+HIV self-testing (HIVST) register
+Purpose: The register is a serial register and the main purpose is to record information about self-testing on 
+HIV, HIV test kit distribution, linkage to care & treatment
+Where used: ART room of the Health Center and Hospitals
+Format of instrument: Preprinted on standard A4 paper 
+Who maintains: Service provider completes the data required by the register as soon as service is provided 
+Data recording procedure: 
+During client encounters, data should be recorded in the register Please refer to the instructions in the register 
+for details 
+Data compilation procedures: 
+Reportable data elements 
+• Number of Individual HIV self-test KIT distributed directly assisted disaggregated by age group and sex 
+• Number of individual HIV self-test KIT distributed unassisted disaggregated by sex
+The reportable data elements are counted directly from the register and the data elements are reported 
+monthly 
+Pre-exposure to HIV prophylaxis (PrEP) register
+Purpose: A longitudinal record of client’s follow-up on pre-exposure to HIV prophylaxis (PrEP) 
+Where used: ART room of the Health Center and all types of Hospitals
+Format of instrument: Preprinted on standard A4 paper 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Data recording procedure:
+During client encounters, data should be recorded in the register Please refer to the instructions in the register 
+for details 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+52
+Data compilation procedures: 
+Data elements required for reporting 
+• PrEP_Current disaggregated by age group, Sex (M/F), and clients’ Category (Female sex workers (FSW) 
+or Discordant Couples)
+• Three months’ test result: (Positive, Negative, or Less than 3 months since PrEP initiation) 
+• Number of new PrEP cases disaggregated by age group, Sex (M/F), and client Category (Female sex 
+workers (FSW) or discordant Couples) 
+These reportable data elements are counted or tallied during the reporting period based on exposure (those 
+already initiated and newly exposed) by age group, sex, test result, and client category 
+Post-exposure to HIV prophylaxis (PEP) follow up register
+Purpose: It is a serial register used to record the client’s information of demographic data, exposure status, 
+baseline HIV status, PEP provision, exposed person follow-up 
+Where used: Health Center and all types of Hospitals, The register is located in the ART room 
+Format of instrument: Preprinted on standard A4 paper On this register, a single client entry spans one page 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Data recording process on the register: Data recorded from the patient card to register Each row of the 
+register is used for one client Instruction for recording data is explained in detail on the register 
+Data compilation procedures: 
+• Records are counted monthly from the PEP register 
+• The sum of each data element is counted on every page 
+• The data elements are the number of persons provided with post-exposure prophylaxis (PEP) for risk 
+of HIV infection by exposure type 
+o Occupational 
+o Non-occupational and 
+o Sexual violence for eligible clients 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+53
+HIV positive client tracking register
+Purpose: It is a serial register used to record HIV-positive clients’ information on demographic data, date of 
+HIV tested positive, entry point, date of linked to care and treatment, date of start on ART, initiation date, and 
+outcome of the client 
+Where used: Health Center, all types of Hospitals, and if permitted to provide the special service any clinic or 
+center The register is located at the entry point of the facility 
+Format of instrument: Preprinted on standard A4 paper On this register, a single client entry spans one page 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Data recording process on the register: 
+Data is recorded from the patient card to register from each entry point Each row of the register is used for one 
+client and instruction for recording data is explained in detail on the register 
+Data compilation procedures: 
+• Data is compiled and reported monthly from the HIV client tracking register 
+• The sum of each data element is counted on every page 
+• Reportable data elements are: 
+o Number of newly identified positive adults and children linked to care and treatment by 
+linkage outcome (Linked to care and treatment, Known on ART, Lost to follow up, Referred to 
+another facility, Died and other)
+ART Register
+Purpose: Longitudinal record of client’s baseline status, screening service, ART treatment follow-up, TB 
+treatment, and other opportunistic infection treatment given 
+Where used and location: Health Center, all types of Hospitals, and at the clinic and specialty centers that are 
+permitted to provide ART service It is used at facilities ART room 
+Format of instrument: Preprinted on standard A3 paper The entry for a single client spans two pages 
+Who maintains: ART data clerk completes the data elements on the register and periodically updates on daily 
+basis 
+Data recording process on the register: 
+The patient’s demographic and clinical baseline status is obtained from the ART client intake form while the 
+detail of subsequent follow-up status information is captured on the HIV care/ART follow-up form The ART 
+data clerk has to fill and update ART registers on daily basis using what is written on the ART intake form and 
+the HIV care/ART follow-up form as a source document In facilities where ART EMR software is used, what is 
+written in hard copy needs to be also registered electronically For details of how to fill each column of the 
+register please refer to the ART register instruction 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+54
+Data compilation procedure
+Reportable data elements from the ART register 
+Sr #Data elementDisaggregation 
+Frequency of 
+the report 
+Level of 
+report
+Tally sheet
+1
+Number of adults and children who are currently 
+on ART 
+Age, Sex & RegimenMonthly
+HC, Clinics, 
+Hosp
+Currently 
+on ART by 
+regimen & 
+DSD tally
+2
+Number of adults and children with HIV infection 
+newly started on ART 
+Age, Sex & Pregnancy 
+status
+Monthly
+HC, Clinics, 
+Hosp
+3
+Number of adults and children who are still on 
+treatment at 12 months after initiating ART
+Age, Sex & Pregnancy 
+status
+Monthly
+HC, Clinics, 
+Hosp
+Clinical care 
+tally sheet
+4
+Number of persons on ART in the original cohort 
+including those transferred in, minus those 
+transferred out (net current cohort) 
+5Number of ART clients restarted ARV treatmentAge, Sex 
+6
+Number of adult and pediatric ART patients with 
+a viral load test in the reporting period 
+Age, Sex & Pregnancy 
+status
+Monthly
+HC, Clinics, 
+Hosp
+Currently 
+on ART & 
+egimen tally
+7
+Total number of adult and pediatric ART patients 
+with an undetectable viral load <1000copies/ml in 
+the reporting period 
+8
+Number of PLHIV who were assessed/screened 
+for malnutrition 
+Age, Sex & Pregnancy 
+status
+Clinical care 
+tally sheet
+9
+Number of PLHIV that were nutritionally assessed 
+and found to be clinically undernourished 
+MonthlyHC/Hosp
+10
+Clinically undernourished PLHIV who received 
+therapeutic or supplementary food
+Age, Sex, Pregnancy 
+status, & Nutritional 
+status 
+Currently on ART & regimen tally
+11
+Number of newly enrolled ART clients who were 
+screened for TB during the reporting period 
+Age, Sex & Pregnancy 
+status
+Monthly
+HC, Clinics, 
+Hosp
+ Clinical care tally sheet
+12
+Number of previously enrolled ART clients who 
+were screened for TB during the reporting period 
+13
+Number of ART patients who started on TPT in 
+the reporting period 
+Age, sex, and 
+regimen type 
+Monthly
+HC, Clinics, 
+Hosp
+14
+Number of ART patients who were initiated on 
+any course of TPT 12 months before the reporting 
+period 
+ ART Register
+15
+Number of ART patients who started TPT 12 
+months prior to the reporting period that 
+completed a full course of therapy
+Age, sex, and 
+regimen type 
+Monthly
+HC, Clinics, 
+Hosp
+16
+Number of ART clients interrupted treatment by 
+outcome 
+Age, SexMonthly 
+17
+Number of Women living with HIV aged 15-49 
+using any method of modern family planning
+Age, MethodMonthly
+HC, Clinics, 
+Hosp
+ 
+18
+Number of ART clients that received cervical 
+cancer screening 
+Age, Sex, Screening 
+result & Treatment 
+type 
+Monthly 
+HC, Clinics, 
+Hosp
+ 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+55
+The first two reportable data elements are compiled from the ART register by conducting cohort analysis of 
+survival rates using the form and procedure given by HIV programs The remaining data elements are counted 
+from registers and transferred to report format Except for number of women using modern FP method the 
+remaining data elements are disaggregated by age group (<1, 1-4, 5-9, 10-14, 15-19, 20-24, 25-29, 30-34, 35-39, 
+40-44, 45-49 and 50+) and sex (M/F) The number of women using the FP method is disaggregated by age (10-
+14, 15-19, 20-24, 25-29, and 30-49yrs) and FP methods (OCP, injectable, implant, IUCD, and other methods) 
+HIV clinical care tally
+Purpose: This tally sheet is used to simplify reporting of the number of ART patients screened for TB, 
+initiated on TPT, completed TPT, screened for cervical cancer and managed for cervical lesion, screened for 
+nutritional status, and supplementation with food support for malnourished client disaggregated by sex and 
+age (Male: <15 and 15+; Female: <15, 15-19, 20-24, 25-29, 30-49 and 50+) category 
+Where used and location: Health Center, all types of Hospitals, and at the clinic and specialty centers that are 
+permitted to provide ART service It is used in the facility’s ART room along with the ART register 
+Currently on ART by regimen type and DSD tally sheets
+Purpose: This tally sheet is used to simplify reporting of the number of ART clients by regimen category (as 
+the first line, second line, and third line), number of viral loads tested, and result with suppressed viral load 
+disaggregation by sex, pregnancy status and age(<1, 1-4, 5-9, 10-14, 15-19, 20-24, 25-29, 30-34, 35-39, 40-44, 45-
+49 and 50+) and number on specific regimen type disaggregated by sex and age category (<1, 1-4, 5-9, 10-14, 
+15-19 and 19+) 
+Where used and location: Health Center, all types of Hospitals, and at the clinic and specialty centers that are 
+permitted to provide ART service It is used in the facility’s ART room along with the ART register 
+Differentiated Service Delivery (DSD) register
+Purpose: It is a longitudinal record of client’s, helps to record information on differentiated models for PLHIV, 
+ARV regimen and follow-up 
+Where used: ART room of the Health Center and all types of Hospitals 
+Format of instrument: Preprinted on standard A3 paper 
+Who maintains: The data clerk completes the information required on the register from the individual follow-
+up card and updates periodically The update will be made based on refill managed by HEW (UHEP), peers, 
+or the designated patient for community patient groups (as applicable) on the same day as ART is distributed 
+to patients 
+Data recording procedure:
+Each PLHIV which is identified in a differentiated service delivery model is recorded in a single row in the 
+register The models are Appointment Spacing Model (ASM), Fast-tracking ART (FTAR), Community ART group 
+(CAG), Peer-led Community ART Distribution (PCAD), Advanced HIV disease (AHD) case models and it is recorded 
+by code in the register The source of information is the ART follow-up form for the register 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+56
+Data compilation procedures: 
+Reportable data elements from DSD Register
+Sr 
+#
+Data elementDisaggregation 
+Frequency of the 
+report 
+Level of 
+report
+Tally 
+sheet
+1Number of clients on ASM
+Age group & SexMonthlyHC, Clinics, & Hosp
+ 
+Currently on ART by regimen & DSD tally
+2Number of clients on FTAR
+3Number of clients on CAG
+4
+Number of Peer-led Community ART Distribution 
+(PCAD)
+5Number of advanced HIV diseases (AHD)
+The reportable data elements are tallied from “Currently On ART by Age, Sex and Regimen category and DSD 
+Tally” by types of models (whether clients are on ASM, FTAR, CAG, and AHD) by age group (15-19, 20-24, 25-49, 50+) 
+and sex. The data clerk should tally immediately after service is provided or on daily basis at a high caseload 
+facility and the data elements are counted up and compiled at the end of the reporting period The Tally is 
+kept with a register until the whole pad is utilized, and then moved to an archive maintained by HMIS in charge 
+Hepatitis prevention and control 
+Hepatitis B Treatment Register 
+Purpose: It is a longitudinal register used to record hepatitis B infected individuals’ demographic, baseline 
+status, and follow-up status information 
+Where used: Health Facility (Health Center, Hospitals/Private/NGO) The register is located at OPD or another 
+place where the service is provided 
+Format of instrument: Preprinted on standard A3 paper On this register, a single client entry spans one page 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Data recording process on the register: 
+Data is recorded from the patient card to register Each row of the register is used for one client and instruction 
+for recording data is explained in detail on the register 
+Data compilation procedures: 
+• Data are compiled monthly from the monthly Hepatitis B screening and treatment register 
+• The sum of each data element is counted on every page 
+• Reportable data elements are; 
+o The total number of individuals treated for Hepatitis B by sex and age (<15yr male & female 
+and 15+yr male & female) 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+57
+Hepatitis C Treatment Register 
+Purpose: It is a longitudinal register used to record hepatitis C infected individuals’ demographic, baseline 
+status, and follow-up status information 
+Where used: Health Facility (Health Center, Hospitals/Clinic) The register is located at OPD or another place 
+where the service is provided 
+Format of instrument: Preprinted on standard A3 paper On this register, a single client entry spans one page 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Data recording process on the register: 
+Data is recorded from the patient card to register Each row of the register is used for one client and instruction 
+for recording data is explained in detail on the register. Data compilation procedures: 
+• Data are compiled monthly from the Hepatitis C screening and treatment register 
+• The sum of each data element counted on every page 
+• Reportable data elements are; 
+o Total number of individuals treated for Hepatitis C by sex and age (<15yr male & female and 
+15+yr male & female) 
+Malaria Prevention, Control, and Elimination 
+Malaria Screening and Investigation Register
+Purpose: The main purpose is to document malaria case management in targeted elimination Woreda The 
+register is a serial record of travel history, fever history, diagnosis, and treatment for malaria cases, index cases 
+classification, notification, and investigation of foci The register also documents the presence of other cases 
+around the index case and helps to identify focus with ongoing transmission and inform interventions 
+Where used and location: In health centers OPD rooms and health posts from malaria elimination Woreda” 
+Format of instrument: Preprinted on standard A4 paper 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Data recording process on the register: Each malaria patient treated and managed in elimination ‘Woreda’ 
+should be recorded in the malaria notification, screening, and registration register using a single row Please 
+refer to the instruction page on the first page of the register on the recording process of the register; the 
+additional explanation for index case and focus for recording and reporting purpose is given 
+1. Index case: A case in which the epidemiological characteristics trigger additional active cases or infection 
+detection An index case is eligible for investigation when the case’s local address can be ascertained 
+and for visitors if they have stayed 21 days or more in the area 
+2. Focus: A defined and circumscribed area situated in a currently or formerly malarious area that contains 
+the epidemiological and ecological factors necessary for malaria transmission 
+Data compilation procedures: The sum of each reportable data element from the registered compiled and 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+58
+reported The reportable data element from malaria notification, screening, and registration register are 
+indicated in the table below 
+Sr #Data elementDisaggregation 
+Frequency of the 
+report 
+Level of report
+1
+Number of malaria cases with travel 
+history
+None MonthlyHP & HC
+2
+Number of index cases investigated 
+and classified 
+None MonthlyHP & HC
+3Number of secondary casesNone MonthlyHP & HC
+4
+Number of foci investigated and classi-
+fied 
+None MonthlyHP & HC
+NCD prevention, Control, and Mental Health
+Hypertension and Diabetes Screening Tally Sheet
+Purpose: This tally sheet is standalone (i e it is not attached with a register) and used to record the number 
+of individuals screened for hypertension and diabetes mellitus disaggregated by sex and age (18-19, 20-29, 
+30-39,40-69 and >=70yrs)
+Where used and location in the facility: It is used at Health centers, hospitals, and clinics It should be 
+available at facility triage, OPD, EOPD, ART clinic, TB clinic, etc It is also used at the health post 
+Format of instrument: Preprinted on standard A4 paper 
+Who maintains: The service provider tally the data elements stated on the tally immediately after the service 
+was provided or the latest on daily basis 
+Data recording process on the register:
+The patient form/card is the primary source for hypertension and diabetes mellitus screening related data 
+elements and each of the screened clients have to be tallied using the standard format 
+Data compilation procedure
+Reportable data elements
+• Number of adults screened for hypertension by the result, sex and age disaggregation
+• Number of individuals screened for diabetes mellitus disaggregated by the result, sex and age 
+These reportable data elements have to be summed up from hypertension and diabetes screening tally 
+sheets placed at different service outlets in the facilities by the end of each reporting period using sex and age 
+disaggregation (18-19, 20-29, 30-39,40-69 and >=70yrs) as well as screening results The Tally is kept at the 
+designated service unit until the whole pad is utilized, and then moved to an archive maintained by HMIS in 
+charge 
+Frequency of reporting: These data elements are reported monthly 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+59
+Diabetes and Hypertension Treatment Register
+Purpose: This register is a longitudinal register, which is used to register and follow up clients who are 
+confirmed to have hypertension (HTN) or diabetes mellitus (DM) and are enrolled into care 
+Where used/placed: At NCD chronic care unit of Health Center and all types of Hospitals
+Format of instrument: Preprinted on standard A3 paper The entry for a single patient spans one page 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Data recording process:
+The data relating to each client who received the services should be recorded based on the instruction 
+attached at the inside part of the cover page of the registration using a single row 
+Data element and compilation procedures:
+Reportable data elements are: 
+Sr #Data elementDisaggregation 
+Frequency of 
+the report 
+Level of 
+report
+1
+Number of confirmed hypertensive patient 
+enrolled to care 
+Age, sex, Type of Rx Timing of 
+enrollment 
+Monthly
+HC, Clinics, Hosp
+2
+Total number of cohort of hypertensive 
+patients registered six months prior to the 
+reporting period 
+None
+3
+Treatment outcome of patient on hyperten-
+sive care at six month 
+Type of outcome
+4
+Number of confirmed diabetic patient en-
+rolled to care 
+Age, Sex; Type of DM
+Type of Rx
+5
+Total number of cohort of diabetic patients 
+registered six months prior to the reporting 
+period 
+None 
+6
+Treatment outcome of patient on diabetic 
+care at six month of care
+Type of outcome
+7
+Number of individuals in high CVD risk cate-
+gory 
+Risk category 
+NB: Treatment outcome of diabetic care at six months: controlled, uncontrolled, loss to follow up, died, 
+transfer out, and not evaluated
+The reportable data elements are directly compiled from the register by the end of each reporting period 
+(monthly) 
+Cervical cancer register
+Purpose: is a serial register that is used to capture basic personal and service-related information of eligible 
+women who received Cervical Cancer Screening and Treatment It also helps to follow clients with suspicious 
+cervical cancer treatment Each row of the register is used for one client 
+Where used/placed: The register is kept in a room where the service is provided by the Health Center, all types 
+of Hospitals, and MCH clinics 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+60
+Format of instrument: Preprinted on standard A4 paper The entry for a single patient spans one page 
+Who maintains: Clinicians/Service providers working in the unit complete the data as a service is provided 
+Data recording and compilation procedures: 
+All data elements recorded on the register are abstracted from the “Cervical Cancer Screening and Treatment 
+Intake form” for detail on how to fill each column please refer to the register instruction 
+Reportable data elements from the cervical cancer register
+Sr #Data elementDisaggregation 
+Frequen-
+cy of the 
+report 
+Level of 
+report
+1
+Number of women age 30–49 years who have been screened 
+for cervical cancer 
+Screening type: VIA, 
+HPV, DNA
+Monthly
+HC, Clinic, Hosp
+2
+Number women aged 30 – 49 yr screened with HPV DNA for 
+cervical cancer 
+Screening result
+3
+Number women aged 30 – 49 yr screened with VIA for cervical 
+cancer 
+Screening result
+4
+Number of women aged 30-49 yr with precancerous cervical 
+lesion received treatment 
+Rx type 
+5Number of women screened 1 year after treatment follow upScreening result
+There is no standard tally sheet for this register Therefore the reportable data elements are directly compiled 
+from the register at the end of the reporting period 
+Frequency of reporting: This data element should be reported monthly 
+Mental Neurological & Substance Use Disorder Treatment Register
+Purpose: This is a longitudinal register used to register and follow up clients who are confirmed to have 
+mental, neurological, and substance use disorders and are enrolled into care 
+Where used: All types of Hospitals, Health Center, and Specialty clinics It is kept at the mental health unit or 
+OPD
+Format of instrument: Preprinted on standard A4 paper The entry for a single patient spans two pages 
+Who maintains: Mental health care provider completes the information required by the register as service is 
+provided 
+Data recording process on the register:
+The data is abstracted from a patient form found in an integrated patient folder for detail on how to fill each 
+column please refer to the register instruction 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+61
+Data compilation procedures:
+No reportable data elements are expected from this register The facilities can track details of service 
+provided and treatment outcomes of the patients and use it for internal monitoring purposes 
+Reportable Data Element
+There is no reportable data element from this register 
+NTD prevention and Control
+Trachomatous Trichiasis (TT) Surgery Register
+Purpose: It is a serial register used to record data for patients whose Trachomatous Trichiasis corrective 
+surgery is done 
+Where used and location: All types of Hospitals and Health centers It should be placed in a room where TT 
+surgery is performed/optometry department/minor OR If the TT surgery is performed at an outreach place, 
+the register should be taken to the outreach site 
+Format of instrument: Preprinted on standard A4 paper The entry for a single patient spans one page 
+Who maintains: Service provider completes the information required on the TT register as service provided 
+Data recording process on the register: 
+All clients who received TT surgeries should be recorded in the TT surgery register Please refer to the instruction 
+in the register for details
+Data compilation procedures:
+Reportable data element
+• Number of people with TT who received corrective TT surgery by age group (<15yrs and +15 yrs) and by 
+sex (M/F) This data element counted and reported from the TT surgery register directly
+Frequency of reporting: These data element are reported monthly 
+Leishmaniasis Register:
+Purpose: This register use is to capture data about basic personal and services related to leishmaniasis 
+treatment and follow-up 
+Where used and location: its use is limited at specific health facilities that provide leishmania treatment and 
+follow-up 
+Format of instrument: Preprinted on standard A3 paper The entry for a single patient spans one page 
+Who maintains: Service provider completes the information required by the register as service is provided 
+Data recording process on the register: Each client who received Leishmaniasis treatment service should 
+be recorded in the register using a single row on daily basis Please refer to the instruction guide in the 
+register for details 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+62
+Data compilation procedures:
+Reportable data elements
+Sr #Data elementDisaggregation 
+Frequency of 
+the report 
+Level of 
+report
+1Number of visceral leishmaniosis (VL) patients treated Age, Sex, VL type, HIV status
+MonthlyHC, Clinics, Hosp
+2Number of VL patients treated and Rx outcome Rx outcome
+3Number of cutaneous leishmaniasis (CL) treated Age, Sex, CL type
+4Number of VL patients treated and Rx outcome Rx outcome 
+NB: Age (<5, 5-14 and 15+); VL type (primary, relapse, and post-Kala-Azar), and HIV status (Negative, Positive); 
+treatment outcome: Cured, Defaulted, treatment failure, Death & Transfer out; Type of CL (primary and relapse); 
+These reportable data elements with disaggregation are directly compiled from Leishmaniasis Register 
+Medical Services 
+Central Register
+Purpose:- Central register is a serial type and is used to record basic demographic, financing, and disability-
+related information about individual patients or clients who sought health services and visited the health 
+facilities 
+Where used and location:- Central register is used in health centers, clinics, and hospitals, and it is placed 
+at the Medical Record Unit 
+Format of instrument:- it is pre-printed on standard A4 paper and 
+Who maintains:- should be completed by MRU workers 
+Data recording process: This register captures all individuals coming to the facility so that the total number 
+of visits in the facility can easily be known and registered For completing this register, please refer to the 
+instruction sheet 
+Data compilation and reporting procedure
+Reportable data elements from the Central register
+• Total number of Outpatient Visits disaggregated by age (<5, 5-10, 11-19, 20-29, 30-45, 45-65, & =>66 years) 
+and sex (M/F)
+• Total number of CBHI Members visit made to HF within a month (disaggregated by Indigent and paying)
+• The actual number of fee waiver beneficiaries’ in the health facility 
+• Number of people with disabilities who visited health facility (from MRU) 
+Number of health insurance beneficiaries that visited HF in the reporting period These reportable data 
+elements are compiled from the central register and patient/client attendance tally sheet The MRU workers 
+complete the central register at the moment of the visit The OPD visit disaggregated by age and sex are tallied 
+and reported from the patient attendance tally sheet and other reportable data elements such as the number 
+of CBHI members, fee waiver beneficiaries, and people with disabilities are counted on every page of the 
+central register and the total sum of the month are reported The register is kept at MRU until the whole parts 
+are utilized, and then moved to an archive maintained by HMIS in charge 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+63
+Frequency of reporting: The data elements are reported monthly 
+Patient/Client Attendance Tally Sheet
+Purpose: it helps to compile OPD visit data disaggregated by age and sex from the central Register The OPD 
+visit data elements are tallied, added, and recorded on the count column in the tally sheet The total sum of 
+each data element is reported monthly 
+Where used and location in the facility: It is used along with the central register in the MRU of all types of 
+Health Facilities (HC/Clinics and Hospitals) It is also used in other service units like injection and dressing 
+rooms, TB and ART
+OPD Register
+Purpose: OPD abstract register is a serial register The register lists all patients who received outpatient services 
+at the health facility It is used for OPD visiting patients who are 5 years of age and older Children under five 
+years old are recorded in the IMNCI register where the service is provided (IMNCI unit) 
+Where used and location in the facility: Health Center/clinic/specialty clinic and All types of Hospitals The 
+register is kept in the OPD units of the facility 
+Format of instrument: Preprinted on standard A4 paper 
+Who maintains: Information for the register is abstracted from the patient form The patient form and register 
+are both completed by the service provider at the time of OPD service 
+Data recording process on the register: 
+Each client who visited the OPD unit should be recorded in the register using a single row and tallied immediately 
+using the NCoD ( ESV-ICD 11) tally sheet For detailed information please refer to the instruction page 
+NB. In the diagnosis section, the clients are e record as 
+• New if the client visits for the new episode of illness
+• Repeat if the client visits as a follow-up for the previous episode of illness
+Data compilation procedures:
+Reportable data elements 
+SNReportable data elementDisaggregationFrequency
+Level of 
+reporting
+1ESV-ICD11/NCoDDisease type by age & sex
+Monthly
+HP, HC, Clinic, 
+Hospital
+2PITCage, sex, HIV result, pop category
+3Road traffic accident
+Category (pedestrian, motorcycle, Vehicle 
+occupant
+4
+Number of deaths at OPD within 
+24 hours
+age, sex, 
+5Malaria Cases with travel historynone
+The number of road traffic accidents, malaria with travel history, and the number of deaths at OPD within 24 
+hours are counted on every page of the register and the total sum in the month is counted and reported 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+64
+NCoD /ESV-ICD 11 tally sheet
+Purpose: This tally sheet is used to simplify reporting of morbidity and mortality data disaggregated by age, 
+sex, and settings (OPD/IPD) The tally sheet is completed from OPD, IMNCI, IPD, Emergency and ICU/NICU 
+registers The age disaggregation is as follows: <1 year, 1-4 years, 5-14 years, 15-29 years, 30-64 years, and >=65 
+years The total tallied events for each age and sex group are summed up and put in the “count” column After 
+registering each client on the register, the provider records the disease data on the NCoD /ESV-ICD 11disease 
+tally sheet 
+Where used and location in the facility: used in Health Centers, all types of Hospitals, and private clinics or 
+centers It should be kept in the outpatient and inpatient departments of the facility 
+Reportable Data element
+• All disease morbidity reports: disaggregated by age and sex 
+• Number of deaths/mortalities from specific disease: disaggregated by age and sex
+IPD Register:
+Purpose: Inpatient admission/discharge register is a serial register that lists all patients who received inpatient 
+services at the health facility 
+Where used and location in the facility: Health Center/clinic/specialty clinic and All types of Hospitals This 
+register is kept in all inpatient wards such as pediatric, medical, etc 
+Format of instrument: Preprinted on standard A4 paper 
+Who maintains: Information for the register is abstracted from the patient form The patient form and register 
+are both completed by the service provider in the inpatient wards 
+Data recording process on the register: Each client who is admitted in IPD should be recorded in the register 
+using a single row, and tallied immediately using IPD and NCoD/ESV-ICD 11 tally sheet 
+Data compilation procedures: Reportable data elements are compiled from the register and IPD tally sheet 
+Reportable data elements
+SNReportable data elementDisaggregationFrequency
+Level of 
+reporting
+1ESV-ICD11Disease, age & sex
+Monthly
+HC, Clinic, Hosp
+2# of admissionNone
+3# of DischargeNone
+4Length of Stay (in days)None
+5Inpatient DeathWithin 24 hours or after 24 hours
+6PITCAge, sex, HIV result, Pop category
+7Death notifications givenNone
+8Number of beds in the reporting periodNine
+9Number road traffic injury casesAccident type
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+65
+These reportable data elements are compiled from the inpatient tally sheet and register (HIV, TB, and road 
+traffic accident data) The care providers record and tally immediately after service is provided and/or cases 
+or events occurred The data elements are counted up and compiled at the end of the reporting period The 
+Tally is kept with the register at the IPD room until the whole pad is utilized, and then moved to an archive 
+maintained by HMIS in charge 
+Exception: Total death in the facility is collected from different registers that include:
+• Inpatient Register (excluding ICU deaths)
+• Emergency Register (Emergency death)
+• ICU Register (ICU death)
+• OPD Register (OPD death)
+• NICU (NICU death)
+• Delivery Register (maternal death in the facility)
+This reportable data element is compiled from the above-mentioned registers (IPD, OPD, ICU, Emergency, 
+NICU, and Delivery) Except for the IPD register, all the rest does not have a tally sheet Hence, the number of 
+deaths from the departments will be counted up at the bottom of each page on the registers and compiled at 
+the end of the month 
+The total death in the facility is, therefore, the sum of deaths from mentioned registers for that specific period
+Total death in the facility = Inpatient Death + Emergency Death + ICU death + OPD death + NICU death 
++ Maternal death in the facility
+Frequency of reporting: These data elements are reported monthly 
+Intensive care unit (ICU) register
+Purpose: The Register is a serial register and the main purpose is to record information about the Intensive 
+Care Unit (ICU) services that include Diagnosis at admission, HIV test status, Intensive Mechanical ventilation, 
+discharge information, death information (if occurred), and others 
+Where used and location: It is used in all types of Hospitals where there is an ICU 
+Format of instrument: Preprinted on standard A3 paper The entry for a single client spans a single page 
+Who maintains: Service provider completes the register as the service is provided 
+Data recording process on the register: 
+Each client who is admitted to the ICU and all the services given should be recorded in the ICU register using a 
+single row and tallied immediately using the ICU Tally sheet Though there is a box in the ICU register to record 
+the sum of the count at the bottom of each page, the tally sheet remains to be the main source for the reporting 
+purpose to avoid counting errors The number of clients tested for HIV and tested positive is counted from the 
+register The ICU register instruction has a detailed description of each column 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+66
+Data compilation procedures:
+Reportable data elements 
+SNReportable Data elementDisaggregation
+Frequency of 
+report
+Level of 
+reporting
+Talley 
+Sheet
+1Total Death in ICUType
+Monthly
+HSP
+IPD Tally
+2Total discharge from ICUNone
+3Number of death
+with or without MV, with 
+24hrs, beyond 24 hrs
+4Total length of stay in the ICU (in days)None
+5Number of clients with mechanical ventilationNone
+6Number of death notifications givennone
+7Number of VAP casesnone
+8Number of clients tested for HIVHIV test result
+These reportable data elements are compiled from the ICU tally sheet and the ICU register (HIV data only) The 
+data elements are counted up and compiled at the end of the reporting period The Tally sheet is kept with a 
+register in the ICU room until the whole pad is utilized, and then moved to an archive maintained by HMIS in 
+charge 
+ICU Tally
+Purpose: it helps to record reportable data elements that are required for ICU services and for cases/events 
+that occurred in the ICU as mentioned under the ICU Register All reportable data elements are tallied, added, 
+and recorded on the count column in the tally sheet The total sum of each data element is reported The 
+number of clients tested for HIV and clients who tested positive are not included in the tally sheet and are 
+counted and reported from the register 
+Where used and location in the facility: It is used in all types of Hospitals where there is an ICU service 
+Operation Room (OR) register
+Purpose: The Register is a serial register and the main purpose is to record data from patients who have had 
+an operation (major or minor surgery) in the facility 
+Where used and location: It is used in all types of Hospitals and Health Centers which have surgery services 
+The register should be placed in Operation Theaters (both in minor and major OR rooms) It should be 
+completed by service providers in the department 
+Format of instrument: Preprinted on standard A4 paper The entry for a single client spans a single page 
+Who maintains: Service provider completes the register as the service is provided 
+Data recording process on the register: 
+Each client and all the services given in the OR should be recorded in the OR register using a single row The 
+OR register should have a box at the bottom of each page to record the sum of the count of reportable data 
+elements The OR register instruction has a detailed description of each column 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+67
+Data compilation procedures:
+Reportable data elements 
+- Number of Cataract surgeries performed (the report is the sum total of cataract surgeries listed under 
+column 8)
+- Number of Peri-operative deaths disaggregated by type of surgery (number of peri-operative deaths 
+from Elective Surgeries and Emergency Surgeries)
+These reportable data elements are compiled from the OR register The provider should register immediately 
+after service is provided and/or cases or events occurred The data elements are counted on every page of the 
+register and the total sum in the month is counted and reported The register is kept until the whole pad is 
+utilized, and then moved to an archive maintained by HMIS in charge 
+Frequency of reporting: These data elements are reported monthly 
+Surgery Ward register
+Purpose: The Register is a serial register and its main purpose is to record and register data required from the 
+surgical ward which include information about admission, post operation, PICT, TB Screening, discharge, and 
+others
+Where used and location: It is used in all types of Hospitals and Health Centers which have surgery services 
+The register should be placed in the surgical ward and should be completed by service providers in the ward 
+Format of instrument: Preprinted on standard A4 paper The entry for a single client spans a single page 
+Who maintains: Service provider completes the data required on the register as the service is provided 
+Data recording process on the register: 
+Each client and all the services given in the surgical ward should be recorded in the surgery register using a 
+single row The surgery register has count boxes at the bottom of the register, which helps to record the sum 
+of the count of reportable data elements The surgery register instruction has a detailed description of each 
+column 
+Data compilation procedures:
+Reportable data elements 
+S. NReportable Data elementDisaggregation
+Frequency of 
+report
+Level of 
+reporting
+1Number of the pre-operative length of stay Surgery type
+Monthly
+HC/Hospital
+2Number of major surgeries Surgery type
+3Number of days delayed for elective surgical admissionNone
+4Number of patients who were admitted for elective surgeryNone
+5Number of deaths notified (death notification paper provided)None
+NB: Surgery Type: Elective, Emergency
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+68
+These reportable data elements are compiled from the surgery register The data elements are counted on 
+every page of the register and the total sum of the month is reported The register is kept until the whole pages 
+are utilized, and then moved to an archive maintained by HMIS in charge 
+Emergency register
+Purpose: The Register is a serial register and its main purpose is to record data from patients who visited 
+the emergency department in the facility It captures data on mode of arrival, patient handover, source of 
+referral, diagnosis on arrival visit status, types of accident (if any), HIV testing, Diagnosis at disposition from ED, 
+Disposition time, length of stay, and outcome at disposition , 
+Where used and location: It is used in Health Centers, Clinics, and all types of Hospitals The register should 
+be placed in the emergency department and it should be completed by service providers in the department 
+whenever the service is given 
+Format of instrument: Preprinted on standard A4 paper The entry for a single client spans a single page 
+Who maintains: Service provider completes the data required on the register as the service is provided 
+Data recording process on the register: 
+Each client and all the services given in the emergency unit should be recorded in the emergency register using 
+a single row The emergency register has count boxes at the bottom of the register, which helps to record the 
+sum of the count of reportable data elements The emergency register instruction has a detailed description 
+of each column 
+Data compilation procedures:
+Reportable data elements 
+S. NReportable Data elementDisaggregationFrequency of reportLevel of reporting
+1Total death in the emergency unit
+Age (<15yrs, > 15yrs), Sex
+Within 24hrs & >24 hours
+Monthly
+ HC/Hospital
+2Number of emergency unit attendance
+Stayed for < 24hrs & >24 
+hours
+3Number of emergency cases referredPre, between facilities
+4Number of deaths notifiedNone 
+5Number of road traffic injury casesAccident type
+NB: Accident types: Vehicle occupant, motorcyclist, pedestrian, and other
+These reportable data elements are compiled from the emergency register The data elements are counted on 
+every page of the register and the total sum in the month is counted and reported The register is kept at the 
+Emergency Room until the whole pages of the register are utilized, and then moved to an archive maintained 
+by HMIS in charge 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+69
+Assistive technology registration rehabilitative center register
+Purpose: it is the serial type of register and it is used to record clients who receive assistive technology in 
+rehabilitation medical service for restoring and compensating for the loss of body functioning and preventing 
+or slowing deterioration in functioning in every area of a person’s life 
+Where used and location: at the rehabilitation center in specialty centers (hospital) and it is kept at the 
+service provision room in the rehabilitation center 
+Format of instrument:- it is pre-printed on standard A4 paper and the entry for a single client spans a single 
+page 
+Who maintains:- the service provider at the rehabilitation center completes the register 
+Data recording process on the register: 
+The client who receives the service should be recorded in the single row of the AT register and tallied 
+immediately to the service provision Please refer to the instruction sheet for detail information 
+Data compilation procedure:
+Reportable data elements:
+• Number of clients registered for AT service disaggregated by age (<15 and >=15 years), sex, and 
+disability type (physical impairment, mobility impairment, hearing impairment, visual impairment, 
+and others) 
+• Number of clients receiving AT service disaggregated by age, sex, and disability type: 
+The reportable data elements are compiled from the AT register The care provider records the data 
+immediately after service is provided The data elements are counted on every page of the register on the box 
+provided and the total sum in the months is reported accordingly The Tally sheet is kept with a register until 
+the whole pad is utilized, and then moved to an archive and maintained by HMIS in charge 
+Frequency of reporting:-These data elements are reported quarterly 
+Assistive technology Tally sheet
+Purpose: it helps to compile reportable data elements that are required for Assistive technology services as 
+mentioned under the Assistive technology Register 
+Where used and location in the facility: in the rehabilitation center and kept in the service provision room 
+Liaison Referral in and out register 
+Purpose:-it is a serial type of register and it is used to document patients who are referred to other facilities 
+for better medical care or follow-up care The referral out can be to higher health facilities (for better care) or 
+to lower health facilities for continuity of care It is also used to document referred patients from other health 
+facilities or from the community 
+Where used:- at hospital and health center, and it is kept at Liaison department for Hospital and Outpatient 
+Department for HC 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+70
+Format of instruction:- it is pre-printed on standard A4 paper and the entry for a single client spans on a 
+single page 
+Who maintains:- The service provider completes the information required by the register as service is 
+provided 
+Recording Procedure on this register
+The client who transferred in and transferred out should be recorded in the single row of the register For 
+completing the registration please refer to the instruction sheet 
+Data compilation and reporting procedure
+Reportable data elements 
+S. NReportable Data elementDisaggregation
+Frequency of 
+report
+Level of reporting
+1Number of people referred-inReferral Type 
+Monthly
+HC/Hospital
+2Number of people referred-outReferral Type
+3Number of people referred inNone
+4
+Number of people that came to facility using am-
+bulance
+None
+NB: Types of referral: Emergency, None-emergency
+Data compilation:- The register is the main source for compilation 
+Count the total number of referral in and referral out; write the counted number of referrals in the box provided 
+on the bottom page of the register (columns 10 and 11) Count the case referred with the ambulance and put 
+the counted number in the provided box on the bottom of the register (column 17) After compiling the data in 
+the register, write the total number of the data in the reporting format at the end of the reporting month 
+Surgical Waiting List Register 
+Purpose: - Surgical waiting list register is used to record information about the number of clients on the 
+waiting list for elective surgery 
+Where used and location: the register is used at the hospital and kept in the hospital liaison office
+Format of instrument: this register is preprinted on standard A4 paper This specific type of register is a 
+serial type of register. Who maintains: the liaison officer is responsible for completing the information required by the register as 
+service is provided 
+Data recording process on the register
+To fill the register please refer to the instruction sheet of the register 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+71
+Data compilation procedure:
+Reportable data elements from the Surgical Waiting list register
+• Number of patients who were admitted for elective (non-emergency) surgery
+• Number clients on the waiting list for elective surgery disaggregated by Category (General surgery, 
+Urology, Neurology, Orthopedics, Plastic, Ophthalmology, Gynecology, Pediatrics, and others)
+• Delay for elective surgical admission (length of stay in number of days)
+Note: since the register has no tally sheet, count the total sum of days the client waited for elective surgery 
+from the register on column 15 
+How to count:
+The total number of days and number of patients who were admitted for elective surgery need to be counted 
+and reported from the register at the end of each month while the last data element (client waiting list by 
+category) is reported on a quarterly basis 
+Note: - considering the reporting period, the level of reporting is from the hospital -woreda-zone-region-
+MOH 
+Ambulance Call and Dispatch Service Register 
+purpose: - The ambulance call and dispatch service register is used to record information about calls for 
+emergency ambulance service requests and the type of ambulance service provided 
+Where used and location: this register is used in woreda health offices, hospitals, and in some areas at 
+health centers and placed in the ambulance dispatch center 
+Format of instrument: this is preprinted on standard A4 paper and this specific type of register is a serial 
+type of register 
+Who maintains: the call handler is responsible for completing the information required by the register as 
+service is provided 
+Data recording process on the register:
+To fill this section please refer to the instruction sheet in the register provided 
+Data compilation procedure:
+Reportable data elements from ambulance call and dispatch service register
+• Total number of Ambulance dispatched in the reporting period - by the technician
+• Total number of Ambulance requests get a response by type of case
+• Total number of ambulance requests made during the reporting period
+Note: Since there is no tally-sheet available for the ambulance service register, data compilation is by counting 
+the total call, the cases for which ambulance was dispatched, and the professionals accompanying the 
+ambulance dispatch as reportable data elements from the bottom of the register The data elements should 
+be reported monthly and the level of reporting is starting from the Woreda Health Office 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+72
+Health System related registers 
+Drug Dispensing Register
+Purpose: Dispensing register is a serial register used to capture data elements for drug despising at dispensary 
+units 
+Where used and location: Health Center, clinics, and all types of Hospitals, and it is kept at the dispensing 
+unit/pharmacy department 
+Format of instrument: Preprinted on standard A4 paper 
+Who maintains: dispenser/pharmacist can dispense the medication 
+Data recording process on the register: 
+The dispensary register should capture lists of all clients who are prescribed drugs at the facility Please refer 
+to the instructions in the register for details 
+Data compilation procedures:
+Reportable data elements
+S. NReportable Data elementDisag
+Frequency of 
+report
+Level of 
+reporting
+1Total number of encounters with one or more antibiotics 
+None
+Monthly
+HC/Hospital
+2Total number of encounters
+3Number of clients who received 100% of prescribed drugs
+4Total number of clients who received prescriptions
+5Number of medicine prescribed from facility-specific medicine list (FSML)
+6Total number of medicine prescribed
+The reportable data elements are counted on every page of the drug dispensing register and the total sums in 
+the month are counted and reported monthly 
+Tracer drug availability Tally sheet: 
+Purpose: is used to follow the availability of tracer drugs on each day of the month Each tracer drug is tallied 
+against the days of the month based on its availability on that specific day 
+Where used and location in the facility: Health Center, all types of Hospitals specific to Pharmacy unit/
+department 
+Reportable data element
+Tracer drug availability: this data element is counted and reported from the drug availability tally sheet 
+Frequency of reporting: The data elements are reported monthly 
+Gender-Based Violence (GBV)
+Purpose: Gender-Based Violence GBV register is a serial register used to capture a list of clients who get GBV 
+related services It is used to record data on demographic information, types of violence, examination and 
+investigations conducted, and results 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+73
+Where used and location: Health Center, clinics, and all types of Hospitals, and it is kept in one-stop service 
+areas and Maternal department
+Format of instrument: Preprinted on standard A4 paper 
+Who maintains: Service provider completes the information required on the GBV register as service provided 
+Data recording process on the register: 
+Each client who received GBV service should be recorded in the GBV register after the service is provided 
+Please refer to the instruction in the register for details
+Reportable Data elements are:
+• Number of GBV survivors disaggregated by Sex (M/F) and type of violence (Physical, sexual, 
+Psychological, both physical & sexual violence) 
+The reportable data is counted on every page of the register and then the total sum in the month is counted 
+and reported 
+Frequency of reporting: These data elements are reported monthly 
+Birth and Death Notification Forms
+The information generated from Civil Registration and Vital Statistics is of critical importance for policy and 
+planning in many sectors and is of particular importance to the health sector The health sector is expected to 
+notify births and deaths Birth and death notification forms are used to notify births and deaths that occurred 
+at health facilities respectively 
+Where used and location: 
+Format of instrument: Preprinted on standard A4 paper with two copies
+Who maintains: Service provider completes the information required and gives the first copy to the client 
+Data recording process on the register: 
+The health care providers should notify (give the notification form to the clients) all births and deaths that 
+occurred at the health facility, and record them in the delivery register (births) and OPD/IPD/Emergency/
+Delivery/PNC registers (deaths) based on where the death happened 
+Death notification form should be filled with all the causes of death in three levels (immediate, intermediate, 
+and underlying) including other conditions that contributed to death based on ESV-ICD 11 If the case is 
+maternal or neonatal death, other additional variables need to be recorded on the death notification form 
+When recording the causes of death, immediate causes of death need to be recorded first, followed by 
+intermediate and underlying causes of death respectively Please refer to the instructions in the respective 
+registers for details 
+Data compilation procedures:
+• Number of births notified
+• Number of deaths notified 
+Frequency of reporting: These data elements are reported monthly 
+
+Reporting tools and Procedures
+CHAPTER 4
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+75
+CHAPTER 4: REPORTING TOOLS AND PROCEDURES
+The Ethiopian HMIS is designed in a way that can capture data from all health institutions (health facilities and 
+administrative health units) in the country, including MOH, NGO, private for-profit, and other governmental 
+organizations The HMIS report includes data elements regarding the services they provide, the disease cases 
+they treat, mortality data, and administrative data such as human resources, finance, and logistics Data from 
+facilities are aggregated and reviewed on a monthly and/quarterly basis and are transmitted through an 
+integrated channel to assure standardization, consistency, and quality control 
+Reporting channel and period 
+HMIS reports of health institutions are transmitted through an integrated and one channel An HMIS unit 
+of health institutions is responsible for the overall management of HMIS data Routinely collected data are 
+collected from service units/departments and are compiled by Health Information System professionals 
+working in HMIS units Reporting to the next level follows the health system’s hierarchy Health posts submit 
+their report to their cluster health center, which then compiles data from the health center and satellite health 
+posts to send to Woreda Health Office Woreda Health Offices compiles routine reports from the health centers 
+and from the WoHOs and sends it to the ZHDs Zonal Health Departments then send their report to the RHB 
+and then to the MOH For regions that have no functional WoHOs, health facilities send their report to ZHDs 
+(Example: Addis Ababa city Administration) For regions that have no functional ZHDs, the WoHOs send their 
+report to the RHB A monthly report comprises data collected from the 21
+st
+ of the previous month up to the 
+20
+th
+ of the reporting period Example: For Tikimt 2014 EC monthly report, the data should be collected from 
+Meskerem 21 up to Tikimt 20, 2014 EC The reporting channel and period of public, private health facilities, and 
+administrative health units follow the prescribed schedule, as depicted in the table below 
+Table 1: Reporting level and reporting period of public health facilities
+S. No. Type of Health care 
+facility
+Reporting level
+The latest date that report should 
+be submitted
+1Health postsCluster health center24
+th
+ of the month
+2Health CentersSub-city/woreda/town health offices26
+th
+ of the month
+3Primary HospitalZone/sub-city/woreda26
+th
+ of the month
+4General HospitalRegion/sub-city/Zone26
+th
+ of the month
+5Specialized HospitalMoH26
+th
+ of the month
+Table 2: Reporting level and time of private health facilities
+S. No. Type of Health care 
+facility
+Reporting level
+The latest date that the report 
+should be submitted
+1Primary clinicSub-city/woreda/town health offices26
+th
+ of the month
+2Medium clinicSub-city/woreda/town health offices26
+th
+ of the month
+3Specialty ClinicSub-city/ woreda/ town health offices26
+th
+ of the month
+4Speciality CenterWoreda/Region26
+th
+ of the month
+5Primary HospitalRegion/Sub-city26
+th
+ of the month
+6General HospitalRegion /Zone/Subcity26
+th
+ of the month
+8Specialized HospitalRHB26
+th
+ of the month
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+76
+Table 3: Reporting level and time of all health institutions
+S. NoType of Health care facilityReporting level
+The latest date report should 
+be submitted
+1Health facilitiesSub-city/woreda/town health offices26
+th
+ of the month
+2Woreda Health OfficesZonal Health Departments (Sub-cities)2
+nd
+ of the next month
+3ZHDs/Sub-citiesRegional Health Bureaus5
+th
+of the next month
+4Regional Health BureausFMOH5
+th
+of the next month
+HMIS Report types
+The HMIS is designed to generate different types of reports that can capture important data elements to 
+monitor and evaluate health programs 
+Types of reports by period:
+• Monthly reports
+• Quarterly reports
+• Annual reports
+• Immediately/Weekly reports
+Quarters for HMIS reporting
+• Quarter 1:Sene 21 – Meskerem 20
+• Quarter 2:Meskerem 21 – Tahsas 20
+• Quarter 3:Tahsas 21 – Megabit 20
+• Quarter 4: Megabit 21 – Sene 20
+Types of reports by content
+• OPD morbidity report
+• IPD morbidity and mortality report
+• Service reports
+• PHEM reports
+Each health facility is expected to submit service and disease reports on a monthly basis In addition, diseases 
+that are under surveillance should be reported on a weekly basis or immediately based on the types of 
+reportable diseases seen in the facility 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+77
+Report Compilation Procedures 
+Health centers, clinics, and hospitals
+• The report includes data on the services they provide, the disease cases they see, and administrative 
+data such as human resources, finances, and logistics 
+• Data are collected by health workers in each service unit or supporting department 
+• Aggregate and review their data monthly or quarterly
+• Data is transmitted through an integrated channel to assure standardization, consistency, and quality 
+control 
+• Report to their respective administrative office monthly, quarterly, and annually (Woreda, Zone, or 
+Regional Health Bureau) 
+• They may also report to the local government or other partners 
+Administrative health offices:
+The administrative health offices (Woreda Health offices, Zonal health departments, and Regional Health 
+Bureaus) aggregate the data they received from health facilities, adds their own data, monitors their own 
+performance based on these reported data elements, and reports to the next level 
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+78
+REFERENCE 
+1 MOH, (2014): Individual Medical Records, Addis Ababa
+2 MOH, (2021): HMIS Indicators Reference Guide, Addis Ababa
+3 MOH, (2021): Health Information System Strategic Plan (2020/21-2024/25), Addis Ababa
+
+ETHIOPIAN HEALTH MANAGEMENT INFORMATION SYSTEM:
+DATA RECORDING AND REPORTING PROCEDURES MANUAL
+POLICY, PLAN, MONITORING AND EVALUATION DIRECTORATE (PPMED)
