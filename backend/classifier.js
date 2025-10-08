@@ -1,6 +1,5 @@
 class DocumentClassifier {
     constructor() {
-        console.log('✅ DocumentClassifier initialized');
         this.rules = {
             invoice: [
                 { pattern: /[\u1200-\u137F].*?(ደረሰኝ|ፋክተር|ቢል|ሪሴፕት|ክፍያ|ግብይት)/, weight: 3.0 },
@@ -11,8 +10,7 @@ class DocumentClassifier {
                 { pattern: /\b(total amount|subtotal|tax amount|grand total|balance due)\b/i, weight: 2.5 },
                 { pattern: /(ብር|ዶላር|ኢዩሮ|£|\$|€)\s*[\d,]+\.?\d*/i, weight: 2.0 },
                 { pattern: /\b(INV-\d+|BILL-\d+|ፋክተር-\d+|REC-\d+)/i, weight: 3.0 }
-            ],
-            
+            ],        
             contract: [
                 { pattern: /[\u1200-\u137F].*?(ውል|ስምምነት|ኪራይ|ግብይት|ቃል ኪዳን)/, weight: 3.0 },
                 { pattern: /[\u1200-\u137F].*?(ፊርማ|ተፈራረማ|ማህተም|የማህተም)/, weight: 2.5 },
@@ -62,8 +60,7 @@ class DocumentClassifier {
                 { pattern: /\b(doctor|physician|prescription|medicine|drug|illness)\b/i, weight: 3.0 },
                 { pattern: /\b(laboratory|test|blood test|medical test|diagnostic)\b/i, weight: 2.5 },
                 { pattern: /\b(patient|medical history|family history|symptoms)\b/i, weight: 2.0 }
-            ],
-            
+            ],            
             license: [
                 { pattern: /[\u1200-\u137F].*?(ፍቃድ|ብቃት ማረጋገጫ|ማረጋገጫ|የሥራ ፍቃድ)/, weight: 4.0 },
                 { pattern: /[\u1200-\u137F].*?(የሥራ ፍቃድ|የንግድ ፍቃድ|የመንጃ ፍቃድ|የቢዝነስ ፍቃድ)/, weight: 3.5 },
@@ -73,7 +70,6 @@ class DocumentClassifier {
                 { pattern: /\b(license number|certificate number|permit number)\b/i, weight: 3.0 },
                 { pattern: /\b(licensed|certified|authorized|accredited|registered)\b/i, weight: 2.5 }
             ],
-            
             legal: [
                 { pattern: /[\u1200-\u137F].*?(የሕግ ሰነድ|ፍርድ|ፍትሕ|በፍርድ ቤት|የሕግ አዋጅ)/, weight: 4.0 },
                 { pattern: /[\u1200-\u137F].*?(ክርክር|መርማሪ|መከላከያ|ተከሳሽ|ጠበቃ)/, weight: 3.0 },
@@ -87,11 +83,9 @@ class DocumentClassifier {
             ]
         };
 
-        // Enhanced threshold with adaptive scoring
         this.confidenceThreshold = 1.5;
         this.minTextLength = 10;
         
-        // Context patterns for better accuracy
         this.contextPatterns = {
             invoice: { 
                 datePattern: /\b(\d{1,2}[\/\-]\d{1,2}[\/\-]\d{2,4}|\d{4}[\/\-]\d{1,2}[\/\-]\d{1,2})\b/,
@@ -111,16 +105,15 @@ class DocumentClassifier {
             console.log('🔍 Classifying text, length:', text.length);
             
             if (!text || text.trim().length < this.minTextLength) {
-                console.log('📝 Text too short, classifying as: other');
+                console.log('Text too short, classifying as: other');
                 return 'other';
             }
 
             const scores = this.calculateAllScores(text);
             
-            // Apply context-based scoring boost
             this.applyContextBoost(text, scores);
             
-            console.log('📈 Classification scores:', scores);
+            console.log('Classification scores:', scores);
 
             let maxScore = 0;
             let classifiedCategory = 'other';
@@ -132,17 +125,15 @@ class DocumentClassifier {
                 }
             }
 
-            // Enhanced threshold logic
             if (maxScore < this.confidenceThreshold || this.isAmbiguous(scores, maxScore)) {
-                console.log('📝 Classification: other (score below threshold or ambiguous)');
                 return 'other';
             }
 
-            console.log(`✅ Document classified as: ${classifiedCategory} with score: ${maxScore}`);
+            console.log(`Document classified as: ${classifiedCategory} with score: ${maxScore}`);
             return classifiedCategory;
 
         } catch (error) {
-            console.error('❌ Error in classifier:', error);
+            console.error('Error in classifier:', error);
             return 'other';
         }
     }
@@ -158,7 +149,7 @@ class DocumentClassifier {
                         scores[category] += rule.weight;
                     }
                 } catch (error) {
-                    console.warn(`⚠️ Error in pattern for ${category}:`, error);
+                    console.warn(`Error in pattern for ${category}:`, error);
                 }
             }
         }
@@ -166,25 +157,21 @@ class DocumentClassifier {
     }
 
     applyContextBoost(text, scores) {
-        // Boost invoice score if dates and amounts are present
         if (this.contextPatterns.invoice.datePattern.test(text) && 
             this.contextPatterns.invoice.amountPattern.test(text)) {
             scores.invoice += 1.0;
         }
         
-        // Boost ID card score if ID pattern is found
         if (this.contextPatterns.id_card.idPattern.test(text)) {
             scores.id_card += 1.5;
         }
         
-        // Boost contract score if effective date is mentioned
         if (this.contextPatterns.contract.datePattern.test(text)) {
             scores.contract += 1.0;
         }
     }
 
     isAmbiguous(scores, maxScore) {
-        // Check if there are multiple categories with scores close to the max
         const closeCategories = Object.entries(scores).filter(
             ([, score]) => score > maxScore * 0.7 && score > this.confidenceThreshold
         );
@@ -206,7 +193,6 @@ class DocumentClassifier {
         };
     }
 
-    // Enhanced testing with more realistic examples
     testClassification() {
         const testCases = [
             {
@@ -241,7 +227,6 @@ class DocumentClassifier {
             }
         ];
 
-        console.log('🧪 Running enhanced classification tests...');
         let passed = 0;
         
         testCases.forEach((testCase, index) => {
@@ -249,7 +234,7 @@ class DocumentClassifier {
             const success = result === testCase.expected;
             if (success) passed++;
             
-            console.log(`Test ${index + 1} (${testCase.language}): ${success ? '✅' : '❌'} ${result} (expected: ${testCase.expected})`);
+            console.log(`Test ${index + 1} (${testCase.language}): ${success ? 'yes' : 'No'} ${result} (expected: ${testCase.expected})`);
         });
 
         console.log(`📊 Enhanced Test Results: ${passed}/${testCases.length} passed`);
@@ -287,16 +272,13 @@ class DocumentClassifier {
     }
 }
 
-// Create and export instance
 const classifier = new DocumentClassifier();
 
-// Test the enhanced classifier
-console.log('🧪 Testing enhanced classifier on startup...');
 try {
     const testResult = classifier.testClassification();
-    console.log(`🎯 Enhanced classifier test: ${testResult ? 'PASSED' : 'FAILED'}`);
+    console.log(` classifier test: ${testResult ? 'PASSED' : 'FAILED'}`);
 } catch (error) {
-    console.error('❌ Enhanced classifier test failed:', error);
+    console.error('classifier test failed:', error);
 }
 
 module.exports = classifier;
